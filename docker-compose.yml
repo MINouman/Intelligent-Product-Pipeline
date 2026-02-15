@@ -1,0 +1,168 @@
+version: '3.8'
+
+services:
+  # PostgreSQL Database
+  postgres:
+    image: postgres:16-alpine
+    container_name: rokomari-postgres
+    env_file: .env
+    environment:
+      POSTGRES_DB: rokomari_db
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: hardpass1
+    ports:
+      - "${POSTGRES_PORT}:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U postgres"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+    networks:
+      - rokomari-network
+
+  # Redis Cache
+  redis:
+    image: redis:7-alpine
+    container_name: rokomari-redis
+    ports:
+      - "6380:6379"
+    healthcheck:
+      test: ["CMD", "redis-cli", "ping"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+    networks:
+      - rokomari-network
+
+  # Vendor A API (10 req/60s)
+  vendor-a:
+    build:
+      context: .
+      dockerfile: docker/Dockerfile.vendor
+    container_name: rokomari-vendor-a
+    environment:
+      VENDOR_ID: A
+      RATE_LIMIT: 10
+      RATE_WINDOW: 60
+      PORT: 8000
+    ports:
+      - "8001:8000"
+    healthcheck:
+      test: ["CMD", "python", "-c", "import urllib.request; urllib.request.urlopen('http://localhost:8000/health')"]
+      interval: 15s
+      timeout: 10s
+      retries: 5
+      start_period: 10s
+    networks:
+      - rokomari-network
+
+  # Vendor B API (5 req/60s)
+  vendor-b:
+    build:
+      context: .
+      dockerfile: docker/Dockerfile.vendor
+    container_name: rokomari-vendor-b
+    environment:
+      VENDOR_ID: B
+      RATE_LIMIT: 5
+      RATE_WINDOW: 60
+      PORT: 8000
+    ports:
+      - "8002:8000"
+    healthcheck:
+      test: ["CMD", "python", "-c", "import urllib.request; urllib.request.urlopen('http://localhost:8000/health')"]
+      interval: 15s
+      timeout: 10s
+      retries: 5
+      start_period: 10s
+    networks:
+      - rokomari-network
+
+  # Vendor C API (20 req/60s)
+  vendor-c:
+    build:
+      context: .
+      dockerfile: docker/Dockerfile.vendor
+    container_name: rokomari-vendor-c
+    environment:
+      VENDOR_ID: C
+      RATE_LIMIT: 20
+      RATE_WINDOW: 60
+      PORT: 8000
+    ports:
+      - "8003:8000"
+    healthcheck:
+      test: ["CMD", "python", "-c", "import urllib.request; urllib.request.urlopen('http://localhost:8000/health')"]
+      interval: 15s
+      timeout: 10s
+      retries: 5
+      start_period: 10s
+    networks:
+      - rokomari-network
+
+  # Vendor D API (8 req/60s)
+  vendor-d:
+    build:
+      context: .
+      dockerfile: docker/Dockerfile.vendor
+    container_name: rokomari-vendor-d
+    environment:
+      VENDOR_ID: D
+      RATE_LIMIT: 8
+      RATE_WINDOW: 60
+      PORT: 8000
+    ports:
+      - "8004:8000"
+    healthcheck:
+      test: ["CMD", "python", "-c", "import urllib.request; urllib.request.urlopen('http://localhost:8000/health')"]
+      interval: 15s
+      timeout: 10s
+      retries: 5
+      start_period: 10s
+    networks:
+      - rokomari-network
+
+  # Main Application (Optional - for API/Frontend)
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: rokomari-app
+    environment:
+      DATABASE_URL: postgresql://postgres:hardpass1@postgres:5432/rokomari_db
+      REDIS_URL: redis://redis:6379
+      VENDOR_A_URL: http://vendor-a:8000
+      VENDOR_B_URL: http://vendor-b:8000
+      VENDOR_C_URL: http://vendor-c:8000
+      VENDOR_D_URL: http://vendor-d:8000
+    ports:
+      - "8000:8000"  # FastAPI
+      - "8501:8501"  # Streamlit
+    depends_on:
+      postgres:
+        condition: service_healthy
+      redis:
+        condition: service_healthy
+      vendor-a:
+        condition: service_healthy
+      vendor-b:
+        condition: service_healthy
+      vendor-c:
+        condition: service_healthy
+      vendor-d:
+        condition: service_healthy
+    volumes:
+      - ./data:/app/data
+      - ./logs:/app/logs
+    networks:
+      - rokomari-network
+    command: python -m src.cli.commands pipeline
+
+volumes:
+  postgres_data:
+
+networks:
+  rokomari-network:
+    driver: bridge

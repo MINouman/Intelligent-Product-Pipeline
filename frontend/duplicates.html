@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Duplicates - Rokomari AI Pipeline</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.0/font/bootstrap-icons.css">
+    <style>
+        .group-card { border-left: 4px solid #0d6efd; }
+        .method-badge { font-size: 0.75rem; }
+    </style>
+</head>
+<body class="bg-light">
+    <!-- Navigation -->
+    <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
+        <div class="container-fluid">
+            <a class="navbar-brand" href="index.html">
+                <i class="bi bi-rocket-takeoff"></i> Rokomari AI Pipeline
+            </a>
+            <div class="collapse navbar-collapse">
+                <ul class="navbar-nav">
+                    <li class="nav-item"><a class="nav-link" href="index.html">Dashboard</a></li>
+                    <li class="nav-item"><a class="nav-link" href="products.html">Products</a></li>
+                    <li class="nav-item"><a class="nav-link active" href="duplicates.html">Duplicates</a></li>
+                    <li class="nav-item"><a class="nav-link" href="validation.html">Validation</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <div class="container mt-4">
+        <div class="d-flex justify-content-between align-items-center mb-4">
+            <h1>Duplicate Groups</h1>
+            <span class="badge bg-primary fs-6" id="groupCount">0 groups</span>
+        </div>
+
+        <!-- Filters -->
+        <div class="card mb-3">
+            <div class="card-body">
+                <div class="row g-2">
+                    <div class="col-md-4">
+                        <select class="form-select" id="methodFilter" onchange="applyFilters()">
+                            <option value="">All Methods</option>
+                            <option value="embedding">Embedding</option>
+                            <option value="hybrid">Hybrid</option>
+                            <option value="fuzzy">Fuzzy</option>
+                            <option value="rule_based">Rule-based</option>
+                        </select>
+                    </div>
+                    <div class="col-md-4">
+                        <select class="form-select" id="sizeFilter" onchange="applyFilters()">
+                            <option value="">All Sizes</option>
+                            <option value="2">2 products</option>
+                            <option value="3">3+ products</option>
+                            <option value="5">5+ products</option>
+                        </select>
+                    </div>
+                    <div class="col-md-4">
+                        <input type="range" class="form-range" id="confidenceFilter" 
+                               min="0" max="100" value="0" onchange="applyFilters()">
+                        <small class="text-muted">Min Confidence: <span id="confValue">0</span>%</small>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Duplicate Groups -->
+        <div id="duplicateGroups">
+            <div class="text-center">
+                <div class="spinner-border text-primary" role="status">
+                    <span class="visually-hidden">Loading...</span>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="js/duplicates.js"></script>
+</body>
+</html>

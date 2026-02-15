@@ -1,0 +1,2610 @@
+[
+  {
+    "group_id": "dup_001",
+    "products": [
+      "ba202e64-79b3-4b5b-852a-11a6849cc8db",
+      "4de780fe-18cc-4e36-abc7-2ed7be1f4036",
+      "d682b33c-294a-470f-837f-d2e3f4c2ac4a",
+      "8fa53df8-0347-4570-b083-4f2f2092f489",
+      "580f8a71-b8ed-4081-b77d-041b6451c45d",
+      "938a6059-21da-4bc6-8656-f8158198aa88",
+      "472b79e6-22f6-4d27-8c3a-442f268a553b",
+      "d747e318-df98-4352-bfa8-70f661a3b7b6",
+      "54689eb6-a693-4739-a994-d83c8ed4200b",
+      "01b2c72b-49ac-40f8-a4ca-9f1f778e1eed",
+      "871f288f-c812-4501-b042-51b1047364ff",
+      "c59e781a-3c0d-47fd-a52d-c01cf1b7ee2a",
+      "ee3c66c0-8855-471e-9858-67a4e12b4fdc",
+      "7fefe107-5dd6-4635-8dab-e0c48f1ae95f"
+    ],
+    "confidence": 0.641,
+    "method": "hybrid",
+    "group_size": 14,
+    "method_breakdown": {
+      "embedding": 1,
+      "hybrid": 8,
+      "rule_based": 4
+    }
+  },
+  {
+    "group_id": "dup_002",
+    "products": [
+      "2fdcd411-f373-4807-9682-43dcd051b94e",
+      "cbbff017-51f7-4d47-a134-c14bdfeed5da",
+      "45ed6d87-c054-4aa3-9ae1-269e32776c9b",
+      "b9bbad2b-fbcc-4a89-a805-b7cdc2a3f7e4",
+      "1bfd24be-1ca1-4187-ba9f-68064dd4a921",
+      "5d5e87bf-7bf9-4eb8-8142-2b65b1c137b6",
+      "7ec1c35b-79e7-4564-a3dd-b201a1d641bb",
+      "020f3bef-630e-4e0f-9e7a-d05335412888",
+      "367b8209-43ad-4ba6-924d-4a44a6c406ec",
+      "4399d16d-3dc6-4c1e-8e1e-7a3afef8cd8f",
+      "b8d103e3-80cd-44c3-8d78-4ba5415d8f02",
+      "d3aff85b-7271-4933-987d-f83711e0a039",
+      "de4f4dcc-c067-4c30-a672-449c2cbc7b1c",
+      "8a7a5faf-dd5c-4ea8-be91-eb64632cbfc6",
+      "06d99685-2c7b-4306-82cf-630d2ad3dce3",
+      "5822b250-fb0d-4ad7-96d7-85ed06a19e65",
+      "ed54ded2-1553-4bd1-a5e4-8bca4aff0505",
+      "6753f3b3-1ba9-4f5b-9ace-add730263f11",
+      "ebd5b5ae-15b6-4b42-bc93-d30f9092e702",
+      "dd3697b3-6e84-4458-9d20-90b2ff91113f",
+      "371d2b1c-d90b-4e5d-9b4b-8142745c0e4c",
+      "ca783ec8-b0e6-44cd-9f7c-590e66edf61d",
+      "5e3bdc4b-c3da-4eb5-a389-4d824aff0153",
+      "25e77e61-2fa3-41ad-a365-f02e6b3791a2",
+      "a929004b-f8aa-423c-bfd8-3842a16b41e3",
+      "8b51370c-0034-4885-a94b-5f785e9e60a2",
+      "b33bba74-110a-4bd8-be7f-6345f0156e3a",
+      "860c1eca-14e4-48e2-bf0e-fd43a59feaf5",
+      "a6b9ef36-0d9f-4143-aafa-a6c9a26c632a",
+      "2f7fb095-31a3-472d-b20c-b629a475656d",
+      "1726c8c1-81d6-423e-9a1e-6f0bd0518a35",
+      "9953e4ba-097e-4993-a06b-252023effa09",
+      "52123045-2481-4e14-905b-3f89fe5e5770",
+      "94a6be7b-70c0-4a60-8791-fdbe68f21006",
+      "f27ee8bb-655e-474b-a5b6-fde15ec37dab",
+      "03e74e0b-b2d5-4612-8d47-9749c56c06c1",
+      "54378a62-30dc-48e9-88e8-ea259e2ee929",
+      "f6ae1cf8-06f2-4db4-a44a-0f04e7583db4",
+      "dd1b4d83-b499-43e9-98a4-2700c15891bd",
+      "2ea40776-13ab-40e6-82f7-f585b91699af",
+      "35ac2bda-1e35-4ad4-876c-3e4841e4f392",
+      "eb6d8c39-df7e-4558-885f-d85ecccd45d0",
+      "7c4a4cb5-514d-4df9-ae10-9695fbcc1fa4",
+      "da18a01f-b702-47a6-a3b3-2f933077056e",
+      "bf01ce71-6dba-48f2-82f1-bbe2156b825c",
+      "f48e3d2f-ed3b-4bc4-b384-12bf77149d4e",
+      "4ef6226c-de76-42a1-982a-ec9927f79636",
+      "5cdcfb4a-7931-4ed8-bebd-7a6e6cdc2257",
+      "2b2353a9-a903-4ccd-b6df-ca16e7f36fa0",
+      "9701bb5e-7426-4fb7-bf3a-d077cf229d19",
+      "ba7b8694-f1f5-4a63-bce0-582c4bea6877",
+      "69f797c2-77ec-4feb-bcf1-c483934a0f21",
+      "e811998b-32eb-4308-9c36-cb68821d241c",
+      "a48084fb-0ec9-41a3-99a7-903bbf8bcad8",
+      "67390dc2-d2b2-4a28-8bef-b36cdb7ea6c4",
+      "0a9312ac-0c5b-4716-a267-29fa0206d5ee",
+      "d0525471-9fb8-471b-9948-8b1c94432259",
+      "540a27d8-f7ad-4441-812b-77c07ef85e02",
+      "b70594b5-fdfd-4434-9276-a56898f92cb5",
+      "f1ceeec9-deee-4c0d-98e2-875179b0baf5",
+      "5ff92d84-b60c-416a-8b45-a4323a3b33ae"
+    ],
+    "confidence": 0.652,
+    "method": "hybrid",
+    "group_size": 61,
+    "method_breakdown": {
+      "hybrid": 52,
+      "embedding": 8
+    }
+  },
+  {
+    "group_id": "dup_003",
+    "products": [
+      "d34692ba-236a-4648-8cbc-eb3a857fb6bf",
+      "12b8ef0d-21ea-479a-a8cd-af449594df4e",
+      "d6b1c58f-9f54-4319-bc8e-715f9928c2cf",
+      "04994e57-6008-4dbc-97ce-0b7dda5e5eeb",
+      "4e35f7c2-359f-4f33-b5cd-8e5cafd88fee",
+      "abd9874f-479d-4c7f-9565-0fa3760f8278",
+      "938e1941-8ba4-4e96-b748-ab30eae66ef2",
+      "8ff0339a-a968-4a07-9c3e-95bc4c62cbb4",
+      "c287841d-278a-44a7-b94d-b257252f0815",
+      "8d2220c0-dcc3-41f9-9390-6107f359456a",
+      "5e6031a3-4927-43ab-82b3-4d0e4d5b88e0",
+      "469cd19e-4d76-40a4-a8c5-624a2995f0e5",
+      "cb80fec8-ab4c-4abd-bfe7-0becc1aeefad",
+      "1218d7f0-075b-4ce8-b18b-afe757dd8f4d",
+      "b2f9af78-f042-4180-8241-9c18e7abace2",
+      "c6f4f74a-7988-4d06-b5c4-0c694acf8be7",
+      "1aa69f61-565f-43ea-be45-ac11ffd3527f",
+      "98dd56b8-43b2-4950-b99a-85de06ead188",
+      "68d0543a-ed58-4e09-be0d-c940675a29d1",
+      "0d5baae4-9dc6-4ed4-bb45-eee3421fea26",
+      "c7cf5cca-e644-48d3-ac2a-b4c33e2c140f"
+    ],
+    "confidence": 0.665,
+    "method": "hybrid",
+    "group_size": 21,
+    "method_breakdown": {
+      "rule_based": 6,
+      "hybrid": 12,
+      "embedding": 2
+    }
+  },
+  {
+    "group_id": "dup_004",
+    "products": [
+      "d2945be5-243b-4c0c-a5e9-5d38caba16d6",
+      "542810ff-8a6b-4332-a562-1076fbd69a78",
+      "a107769a-b9bb-4b58-a83a-8daad4d09946",
+      "9589bed5-95b4-48c8-8db7-b20253fc70ee",
+      "17fd81eb-7c7f-425b-b4b9-4fd75377ac04",
+      "537e349a-db01-436f-a501-f7dd9a31a74e",
+      "23d09eb9-6e43-46d3-8c58-f1e9996bd0d6",
+      "66456d2b-caa4-4396-8d5f-98e695066937",
+      "dedec50a-d8d6-4efd-b293-b670db28df4f",
+      "4dd19209-a42c-4eaa-a353-b20accc8e0a6",
+      "e0409330-c797-4e48-9f5b-8892e5043bd0",
+      "633c4d79-796b-4a54-a4c1-653c3673d5a0",
+      "c5142e65-dc7f-4635-80f7-83f1b0b630c6",
+      "3ad91208-5640-499f-ad92-022f3d3b6f7a",
+      "9af05d07-ec79-4c48-884d-f0825ebeac6d",
+      "0cb88a6c-dc1d-4d2d-8fde-f2a0c00274d3",
+      "71108c0b-643c-48b9-85f8-eacfee1cb8fc",
+      "f509af67-bfd2-4222-8203-d70fa5b7f3e4",
+      "94b09eea-06ba-481a-be95-337b973ae37a",
+      "15f60ce2-437c-4929-aed4-bc0fe2508abb",
+      "013bea70-18a9-424f-93e3-f371ef4fd637",
+      "e98a73e7-dd94-4473-b19d-8a63c2252a9d",
+      "008e5066-09b7-4796-b2fa-4db72ef9d047",
+      "22c49a7d-84b9-4dd1-830a-f717e1a3e0b6",
+      "9633e37a-fd9e-4072-b899-1b661a0790e1",
+      "d41d1db7-7f7b-4bff-9098-74d07ab9cb44",
+      "35ca30f1-1a51-427d-a4e7-7d63bafe61c9",
+      "a4ab7f8b-96d4-411e-8a14-b69b4aca3c79",
+      "4dea51b1-a178-4803-b293-f548636d5ca4",
+      "54cb9aa7-23c9-422f-97af-45b473ca2e2d",
+      "3d693e9c-e8ab-4c46-b4c0-ca3d6ed767de",
+      "e58afe6d-c107-4c0d-8c3d-285c9c77dec3",
+      "d163d37c-ba7f-4465-b7c2-82caf5da3a09",
+      "09759f53-c655-4250-aef6-f8533586a56a",
+      "b000c1bc-b783-4da3-8487-a562873cd25b",
+      "6efbe05b-51bb-4d59-bc56-01cd614fa81f",
+      "d247fec7-b5af-4802-bb16-115642dee30e",
+      "df0c81b5-5c47-496b-b1d5-7852d130222a",
+      "60fdb9b5-1c40-4ab6-b401-d1df3865747c",
+      "2d289d4a-3aca-4518-80ca-a54235e88b5c",
+      "6078c682-a566-42ff-b767-51f39ba2e06d"
+    ],
+    "confidence": 0.665,
+    "method": "hybrid",
+    "group_size": 41,
+    "method_breakdown": {
+      "hybrid": 25,
+      "rule_based": 15
+    }
+  },
+  {
+    "group_id": "dup_005",
+    "products": [
+      "ca24fbef-e3ac-4139-82b4-617773fd9c13",
+      "18d26b67-8379-4632-8c30-d09eafba5477",
+      "794092f3-23aa-4141-8dd2-1d2db00628ab",
+      "50d60eeb-0a09-41c2-abcf-a90ae9f638cc",
+      "ddf91acb-b5ad-48b3-a9a5-51b6a3b6c044",
+      "e8c11e8f-b893-4ce5-8da8-6d3a7788de61",
+      "58340f59-f411-45a3-aea8-b626ecff3ebf",
+      "996f1d6c-bf85-4f7f-b737-c6c3e92daadf",
+      "476ed99b-d9db-4ae6-aff1-ddaa3855a1ce",
+      "7bf43960-7e02-45ae-97ed-d20326e7b324"
+    ],
+    "confidence": 0.631,
+    "method": "hybrid",
+    "group_size": 10,
+    "method_breakdown": {
+      "hybrid": 8,
+      "embedding": 1
+    }
+  },
+  {
+    "group_id": "dup_006",
+    "products": [
+      "1f96c7d1-5dad-4b5f-a3c5-8dc5bb4380df",
+      "333c8b2c-f965-4e1f-9228-ea7ddc107aea",
+      "98d89e06-9e10-46dc-b71a-c28a50bc8d5e",
+      "8a07c9ea-1a82-49b8-be0f-56865ec34af2",
+      "c91d0b26-5a3f-4b41-98f3-987f1ef2d620",
+      "1355474b-5d7a-454b-96b5-0169fc967184",
+      "d28472b5-82f7-4a0f-9cd7-38a80fe85f03",
+      "0efcc803-38b0-4550-a4c5-e2a419425747",
+      "b49fb46f-e305-4048-a168-bb38bc6f4cc1",
+      "d4039228-4ece-4a49-9dc5-7eed3216a716",
+      "276ff4c5-0fed-4ceb-aa1a-ac5eb94dfc25",
+      "a7154a80-c75c-424a-8859-710517cff0a0",
+      "04177934-1be8-499d-a945-12b10555fbbd",
+      "f97c1b25-35e4-40f4-8206-2e9abda733e3",
+      "6f3733a4-a17a-4430-a4fe-6ef639f62e6a",
+      "c0a35fda-1c17-4dc4-823a-bcaaf86caada",
+      "2edcba62-0a89-4a6b-a3cc-bc64d168fe78",
+      "86a7536b-c041-4bfc-a6fc-8eefd6825895",
+      "0d4cb005-d2d7-462c-bfd4-22c09cf4464c",
+      "04b46758-4999-4508-9647-a1b608f59fa8",
+      "57d2f694-7378-445a-b47e-9635db3f48c8",
+      "6f3c5c41-d780-4ebd-b5e3-063bf3438e63",
+      "7cba321f-b1a2-4416-870e-8e283bfd9ad4",
+      "9ec2047f-e6dc-4f8f-b2b5-b822203052a8",
+      "b436dbb6-14d9-4b31-a298-63622f0f66b2",
+      "e977b684-1982-4cb9-b2ef-4980b4757b85",
+      "9d8ad454-0833-4165-a0da-f63469e02afd",
+      "b1435c58-5839-462a-b897-65c8708b14b0",
+      "4cec963f-5852-47ed-833b-d5c7bf7e5657",
+      "bf2b347a-bb8d-47a6-b78e-c68fb81b318c",
+      "7d8ebd96-3073-4c9f-ae53-1719ef373e25",
+      "87eec300-dbaf-4c0b-bbed-7a969ba8e60a",
+      "4cf29a11-3330-4ade-a9bc-b4eefef79dbd",
+      "63431e9f-b83c-40ae-b84e-6f7187dd503b",
+      "c2e32e1b-72a3-474c-819e-e3872fd751b4",
+      "ba154d7c-ece0-43ad-b28b-9f440172fbab",
+      "898f2389-9cb5-47b7-8b99-7a1ede119aa1",
+      "d8c018fd-28fc-44db-ac46-d88588f56c5b",
+      "c54749f2-8d61-4f40-a9d2-4543e137944d",
+      "56a88a41-434c-4be7-bbd1-3bca3a4e099e",
+      "4584ab48-7ec7-4c6e-9569-c2fbad53f8fa",
+      "f4e8d8bf-ea88-4629-9e41-a60182620699",
+      "b9e9e41e-d4b3-468f-b316-bc8e2fc72653",
+      "50ae6393-9f10-45e3-b3fe-cf8c6d7e3856"
+    ],
+    "confidence": 0.657,
+    "method": "hybrid",
+    "group_size": 44,
+    "method_breakdown": {
+      "hybrid": 39,
+      "embedding": 3,
+      "rule_based": 1
+    }
+  },
+  {
+    "group_id": "dup_007",
+    "products": [
+      "52819714-1fce-48fd-9564-189d5d562bf0",
+      "a469f73c-ca8d-4e8e-b64d-3664c0087aa2",
+      "48982e3f-48a7-4c93-bf18-a8fd2e50f1fb",
+      "f859b3df-1ad8-410e-890a-fb6196a7d220",
+      "bb2b8e43-393f-48f5-8132-755daf122d53",
+      "4540db1a-cd09-451e-a95d-90868a986234",
+      "f8838d85-61a0-448c-9453-ee7c6eb1bd8e",
+      "53f0a90b-e06c-4415-a464-7873b4685712",
+      "b8ce2881-159c-449c-a478-5d40c5384fd2",
+      "94ee8426-2eb3-4fe1-bdd2-4b4b29f69fd4",
+      "3cc1f51e-25f3-4248-ad45-73881084063c",
+      "f4b50a37-ca62-42dc-a247-98706b7f3f4b",
+      "6461f1f3-1f02-4a73-b0b7-bfa8943e330d",
+      "99a7ab14-2fcd-4e68-980a-087a0e8d45f7",
+      "b2513a53-60ac-493a-b7c0-bd83acc2fee3",
+      "2c9d9381-734c-4867-a83a-3a5455b84778",
+      "e017db31-d05b-4aaf-bc81-9180b823819c",
+      "faf0fa63-36f7-483c-bdfd-beb0f0a79b6a",
+      "2b7c24b0-cd31-448a-aec1-cb60a475761c",
+      "0482c8cd-9ac8-4248-85d4-4af2ead54934",
+      "36e2ee07-e524-4b98-a10f-928c3ad08660",
+      "95221f18-1a77-4052-a86b-bacd3d78b9a7",
+      "ac91a3f1-b5f7-41a6-af8c-b5f3cbb3eaeb",
+      "6dfac3a1-e3d1-4c40-aad5-2562ff69f0e0",
+      "f81f2b81-68e3-46b5-85a1-5123d2608a07"
+    ],
+    "confidence": 0.639,
+    "method": "hybrid",
+    "group_size": 25,
+    "method_breakdown": {
+      "rule_based": 4,
+      "hybrid": 20
+    }
+  },
+  {
+    "group_id": "dup_008",
+    "products": [
+      "506dcef4-1e05-46c9-8cbe-78907c6300f5",
+      "10d2c5be-3b09-443d-a12c-d59923dab2f5",
+      "aa7bbe35-0918-4b3b-ac06-5a4e2ea2ea58",
+      "9ac82de0-7714-4780-92b7-ee72c3542e6d",
+      "98565c98-bde1-4764-aabf-19f66d10d3fa",
+      "f07439af-bb9b-4ce8-9cbe-af6ac944f304",
+      "2e2dc00c-5d7b-4f93-bcae-288a6dc2586e"
+    ],
+    "confidence": 0.748,
+    "method": "hybrid",
+    "group_size": 7,
+    "method_breakdown": {
+      "rule_based": 2,
+      "embedding": 2,
+      "hybrid": 2
+    }
+  },
+  {
+    "group_id": "dup_009",
+    "products": [
+      "09d63e9b-7b85-4314-be91-f166871b3d31",
+      "f73dc574-65c9-4f15-9c32-9434b1744bc0",
+      "4dade6aa-4aa9-4dad-82c8-406214124116",
+      "6730e646-d6e1-46e7-9c00-ddaaa1307507",
+      "86b026df-1d4c-46fe-94b9-7a662d26c87e",
+      "98e01476-cf27-4b19-a2a0-b37199f91c00",
+      "118c1e05-0b0d-44ac-81fd-0746cb75fafa",
+      "6ad2186b-1a04-4a31-9ed6-8c1cc7bd8b47",
+      "3a298788-409d-4a7f-92d3-875bb2abb72f",
+      "2deff38f-1e71-4dd1-a0cf-1963e3b1e3e1"
+    ],
+    "confidence": 0.753,
+    "method": "embedding",
+    "group_size": 10,
+    "method_breakdown": {
+      "embedding": 7,
+      "hybrid": 2
+    }
+  },
+  {
+    "group_id": "dup_010",
+    "products": [
+      "2c6b2ad6-b148-429a-aade-fc3bfcd2f881",
+      "bd59f4c4-4760-4a72-ad42-fc746bafdee7",
+      "5e726b53-cb43-4211-9d86-11a6413a382d",
+      "39d141f1-3094-4c8d-ad4d-561708027211",
+      "c277ea99-61dd-4f38-b914-aabb1d794c2b",
+      "ede86bc0-ef67-42dd-8ae8-d6885f9179cf",
+      "eabb6610-5f89-4e16-8c72-7253e269664e",
+      "2e01c64b-ab77-4b20-aaaa-5bafe8ff90bb",
+      "00b3e285-f0e5-4bcd-92a6-07607426e4a7",
+      "6f4ec417-000c-443e-9bf8-e5ba5f4cfecb",
+      "c7c157e4-1cd5-4f7b-a5ca-a5b449268015",
+      "753ce289-80c6-412c-8cf2-6dbb3bff6197",
+      "95722750-4164-4240-be23-60ee3cee12a7",
+      "b1270f61-927a-4944-a0f5-b40f4dfd8e04",
+      "9977d7a5-4aac-4f29-b86a-3fef6335ddba",
+      "6e27e6f3-1f51-4cab-b696-3f8bf28fa066",
+      "05425432-4ccc-439e-be3e-5475838a6e9f",
+      "e613a779-e073-4f28-937d-80b2400b06e6",
+      "cd7372d9-8b79-4877-bf07-d87a0575b988",
+      "07cd7e1b-2312-45de-8606-26d006a0369f",
+      "0c2e078d-7ebe-4c0d-a819-c1a845d04c75",
+      "7ea4f6b2-ae3d-4ff8-8b8b-317341e37e38",
+      "db48d6fa-4b78-4700-b82c-55e9c4c77818",
+      "54e84857-908f-43ca-9f07-76f822c5945a",
+      "72b22534-2c27-45c1-b202-7d7406460e96",
+      "b73a95ac-4af9-4036-b710-4176b42950e3",
+      "6a85b241-5192-4eee-8270-d74a7ab2ad01",
+      "3415e0ae-d73d-4591-9e0b-b4113493c6be",
+      "c3c07993-bd0a-48e8-b9ed-ca317a9c7099"
+    ],
+    "confidence": 0.654,
+    "method": "hybrid",
+    "group_size": 29,
+    "method_breakdown": {
+      "hybrid": 24,
+      "rule_based": 3,
+      "embedding": 1
+    }
+  },
+  {
+    "group_id": "dup_011",
+    "products": [
+      "d1fc69cb-2e22-4f38-8d02-346072280798",
+      "8892332c-b882-41ee-9378-5e261ecc08e8",
+      "73829018-1bbd-4fbb-9ad1-3d5287fa606f",
+      "fd415d63-212c-414a-a546-a9b5dff50aa0",
+      "2ebb61f1-f6c8-44cd-ac6b-d4966fbfc917",
+      "a3f4945e-8ffd-498e-ad7f-c526ff3b71c2",
+      "f0ac0d42-1bcc-4f2f-a31d-acc53c93c508",
+      "5d90213a-431b-4f14-8479-f804c72843fd",
+      "e3ae08c4-2f0d-46d0-aecb-32a575336ca1"
+    ],
+    "confidence": 0.764,
+    "method": "hybrid",
+    "group_size": 9,
+    "method_breakdown": {
+      "hybrid": 5,
+      "embedding": 3
+    }
+  },
+  {
+    "group_id": "dup_012",
+    "products": [
+      "9ccf6d37-cbd0-401b-bfad-174635159794",
+      "e0d2dc89-7023-44d2-96e0-6dbe406efc7d",
+      "2ffece4f-2878-48e4-8ae4-e513454e412e",
+      "01109956-ec75-406f-a1f6-6fb2408c8921",
+      "a53d20b4-e1b2-49a3-a812-94e623e678be",
+      "66b5c2f4-5896-4a57-a935-d0d5133ce136"
+    ],
+    "confidence": 0.695,
+    "method": "hybrid",
+    "group_size": 6,
+    "method_breakdown": {
+      "hybrid": 4,
+      "embedding": 1
+    }
+  },
+  {
+    "group_id": "dup_013",
+    "products": [
+      "0e2e298d-042c-4978-95cf-a23a1107effd",
+      "a9dd29da-f98e-4985-85f6-93f9062cb5a7",
+      "08a51310-3b64-4c00-beb9-e48189a1c502",
+      "7d1d2e2b-21ed-4a91-bb7f-f9b50315793d",
+      "ea9176ce-087a-4813-81ff-de8979fbc2ba",
+      "63e11cb2-2def-4e14-a54f-08fbe256eb2e",
+      "76766bc9-7d20-429b-9b81-15d6072683e9",
+      "f975348e-6e0f-41a4-9a0d-b7c8bc63fee1",
+      "6cccde48-7ba6-49fe-8b94-004917d4f8a7",
+      "f7e36382-8259-45c4-bfe0-05f813ec3ba9",
+      "fc2f44dd-f78c-46f5-81db-439d0c08ac14",
+      "2b82f7bb-9bca-4f07-a1aa-5935df960c35",
+      "7df0c60c-a635-4280-9d37-4c50d8c7b38a",
+      "8bd2729c-0bc1-4a18-8732-410885c92569"
+    ],
+    "confidence": 0.645,
+    "method": "hybrid",
+    "group_size": 14,
+    "method_breakdown": {
+      "hybrid": 12,
+      "embedding": 1
+    }
+  },
+  {
+    "group_id": "dup_014",
+    "products": [
+      "ffaf62ac-89fc-4729-be3f-28eb8e053734",
+      "6f6c9967-b32f-4c23-ba88-15e5036c3faa",
+      "1fe6aca6-a5ef-469a-b5ef-5552181e50c0",
+      "eb6d7f5d-3788-4625-9d6b-28f389291508",
+      "3d652ee2-762d-4ad0-988d-e68df51274f6",
+      "96dc2387-600a-4451-a816-62d877dc3486",
+      "2da702f3-e77d-4c2c-8490-960da91ce77d",
+      "c95283c0-2de6-4b51-a4c2-12ec28422f06",
+      "ac29c048-2076-4252-995b-a5541f5a7df1",
+      "91afa16b-09ea-4bc0-a745-7cccdf448f7d",
+      "0783d2f9-d3c2-41ce-af09-056d1f79dbef",
+      "9ab66e83-8dd7-4768-ab88-3f9b9a343948",
+      "426f97cb-d07f-4003-b0a1-39bc76601626",
+      "ae19f330-08dd-4e0c-b87b-d437fe59197f",
+      "9e1de63f-3abc-4a51-83ee-1535a7701d1b",
+      "691a5ca8-d229-41c3-b0fb-52b20b7045b7",
+      "21064831-a18c-4fad-86c4-07db176cf44b",
+      "538f8850-9867-4533-afa1-212d25e6e71d",
+      "72c2f482-74f9-4fb9-bcc2-f98f473a34e9",
+      "b722155a-650b-4bed-91e1-fc11892bad42",
+      "44a69dfd-93fc-4229-8826-e8fded572751",
+      "b208e09e-cb67-45ba-91d6-072d29e30e2f",
+      "77d23cf5-3a54-428d-bc7a-085e15679777",
+      "cecbebdd-f2b3-444c-8f7a-9b9b6193bfb0",
+      "6b9ea149-ed63-4116-a1d2-c7f2b4e679fd",
+      "79321164-00b3-46df-8690-fa55d96491d9",
+      "ed30365f-10e2-490a-988f-7deffcbeadf2",
+      "4aec4891-4b98-4b43-be74-9e1ddd55c4e7",
+      "6a7fc6f9-820c-4530-b6fa-b649306077e3",
+      "808ba8b7-391a-47aa-bc8c-9cdb627d0ae3",
+      "ad07dece-12c5-4531-aace-6290a9e7c205",
+      "0df1dbfb-8961-41a6-a84c-87b076799566",
+      "ccea22c4-1d5e-4095-91cf-d78ed4e3159b",
+      "2b626402-3459-46c1-8cbe-da22b1bf0128"
+    ],
+    "confidence": 0.638,
+    "method": "hybrid",
+    "group_size": 34,
+    "method_breakdown": {
+      "hybrid": 23,
+      "rule_based": 9,
+      "embedding": 1
+    }
+  },
+  {
+    "group_id": "dup_015",
+    "products": [
+      "226b0425-0883-4fec-9cfd-815287a8e3ea",
+      "c2c20333-bf32-480d-a680-b4e8c9338247",
+      "f22a33b8-cadb-428d-9e1e-772577800fbd"
+    ],
+    "confidence": 0.761,
+    "method": "hybrid",
+    "group_size": 3,
+    "method_breakdown": {
+      "rule_based": 1,
+      "embedding": 1
+    }
+  },
+  {
+    "group_id": "dup_016",
+    "products": [
+      "d957d42a-f193-4ad0-8f66-d745c497e16c",
+      "51281484-0214-4565-ba90-dfcba329f377",
+      "ddc38bf9-abb8-488e-949d-d9ac6103a4bf",
+      "0e5ad643-835b-401a-97dc-5d3a55175b2d",
+      "9149fefb-22ba-4daa-99d4-08c9bf7d7706",
+      "83daae20-94b9-4ba8-a71f-225797dc76fe",
+      "0b10a112-c39f-4706-be2a-70d6a8e13d8d",
+      "c584d3e0-9c3c-49d0-ada1-59ba657e9365",
+      "66e083c8-e23e-4277-a974-d9d38fa37fc7",
+      "47f0e275-be76-4c19-a44c-56d08c2163c1",
+      "f8a0aae5-f219-4aa2-8c13-f46ac0d75945",
+      "c2fd93db-89e3-4cc5-b462-550272eee2f8",
+      "f3368b57-c702-458b-afc7-f8308fae37fc"
+    ],
+    "confidence": 0.631,
+    "method": "hybrid",
+    "group_size": 13,
+    "method_breakdown": {
+      "hybrid": 12
+    }
+  },
+  {
+    "group_id": "dup_017",
+    "products": [
+      "97c42dd5-2f72-4113-ac89-3f2210e37fd2",
+      "2e8d3b24-e7cc-4981-829c-b3fe3a6cefdc",
+      "80e6f141-2eea-4673-a5af-66683312a4f1",
+      "0ecaba39-b288-4880-976d-428142f54126"
+    ],
+    "confidence": 0.906,
+    "method": "embedding",
+    "group_size": 4,
+    "method_breakdown": {
+      "embedding": 3
+    }
+  },
+  {
+    "group_id": "dup_018",
+    "products": [
+      "1bef86ee-b1e1-4099-b13e-05cad7da1842",
+      "246add22-1db0-497a-8c23-1f6d1abedd4e",
+      "358ac478-952b-40e3-ba5b-8258dbccd224"
+    ],
+    "confidence": 0.801,
+    "method": "hybrid",
+    "group_size": 3,
+    "method_breakdown": {
+      "embedding": 1,
+      "rule_based": 1
+    }
+  },
+  {
+    "group_id": "dup_019",
+    "products": [
+      "3c47f46a-e3a6-4a85-8fbc-6793afc96cef",
+      "a350cc5c-10c1-4309-978c-eb3ce4a1c8d2",
+      "b4a83c4c-86a7-4ea6-85b1-8d19fe3175c3",
+      "8519a11a-b736-43dc-8d8d-e7130e2cb583",
+      "f0914378-7106-4872-bf5c-4c95a3e0f32a",
+      "2d56179f-67fa-4469-b41e-26a1af05dd44"
+    ],
+    "confidence": 0.748,
+    "method": "hybrid",
+    "group_size": 6,
+    "method_breakdown": {
+      "embedding": 3,
+      "hybrid": 2
+    }
+  },
+  {
+    "group_id": "dup_020",
+    "products": [
+      "09a5da75-3d1d-4f52-b814-1cd0f2f1d380",
+      "3f8fa108-9f75-40d2-9abf-4838967445b7",
+      "2dafcfc3-edb6-4d39-a660-0070e157c2e1",
+      "92d0ce09-e657-4707-9f3f-581dfc0fb383",
+      "0f4542d2-d90f-40c1-a77b-79680566284d",
+      "0285eb60-522a-4c36-bd1c-94f0bffe4a91",
+      "dd7b938d-cc19-4585-99ce-adc34183f4e0",
+      "b14880e7-8d13-4e58-a96e-e8a1f08ce271",
+      "791b777d-1b68-43fc-a262-e98926215aff",
+      "315babc8-3165-4552-aea1-03045e6d9bd4",
+      "54409f20-40e9-4991-b742-da5d15d2afd5",
+      "0308b10b-ce8e-4e3c-9a99-61c6fbc67b75",
+      "48d1a4b7-cfe7-449f-86c8-272bfae81cfc",
+      "25cf95f9-59fd-4a49-aa0c-52ffcb09de64",
+      "043298d0-7bca-4cda-9424-9b4e0633f72b",
+      "c234f3e0-c52c-44ae-9856-f6cd33824c01",
+      "87874832-4390-4db8-bc09-dd9a3cf60dfa",
+      "fb9a8cc8-d3bb-4cf6-9841-31fa11525523",
+      "19e71b76-88de-4b22-8769-ce052b130dcc",
+      "9c35e55c-62de-47cd-a5fe-3fa454ecc09c",
+      "10aaeaad-d5f6-46bc-af2d-ffc971982d9b"
+    ],
+    "confidence": 0.663,
+    "method": "hybrid",
+    "group_size": 21,
+    "method_breakdown": {
+      "hybrid": 15,
+      "embedding": 2,
+      "rule_based": 3
+    }
+  },
+  {
+    "group_id": "dup_021",
+    "products": [
+      "528bfdc0-6118-4ad7-9dd3-f64e651cfdc8",
+      "4e5a9e15-f632-4fd5-8265-2f74d967a198",
+      "1ca604e5-1f47-46a4-9243-a17f232e5fa9",
+      "1026a585-065e-44c0-a266-26d8800f3fdb",
+      "eabfbfec-76a2-4479-b3ac-81c1d8de3553",
+      "fc21acdb-0bac-42e0-a199-ed38ec23f08e",
+      "2883c48d-d219-4e5a-860d-8f676249a417",
+      "9f6e12cf-c062-4e82-8505-d17e8dbd9a71",
+      "37cd661c-f180-489b-ad01-348e019d8df7",
+      "0f8f97db-5b90-44ee-8759-8a2fec1cf319",
+      "213c7084-2df7-4e6e-9caa-3a1f899859c9",
+      "5db2e8e4-3cff-4d18-934b-139f27ebdd69",
+      "75fffa5a-a338-4717-b38e-f4e12c2563fc",
+      "f502e9a3-1aeb-4260-ab78-b65d4ac96bea",
+      "36816809-3409-4c4c-8163-482b07a585ca",
+      "5705647d-e9d8-4461-8533-fb973af81a97",
+      "63b6cfc0-ce4e-4cc3-a0ac-6d8e3f0095b4",
+      "85bb5c25-514b-4f71-8b74-6a41bd42b487",
+      "25192f69-45b6-41ff-9db7-26a75ec86cac"
+    ],
+    "confidence": 0.653,
+    "method": "hybrid",
+    "group_size": 19,
+    "method_breakdown": {
+      "hybrid": 14,
+      "rule_based": 3,
+      "embedding": 1
+    }
+  },
+  {
+    "group_id": "dup_022",
+    "products": [
+      "d397c72e-815b-4a24-9955-f34445982bcf",
+      "e9f94721-c148-474b-b238-6655b21bc49e",
+      "bac589b3-1c83-4c35-a4eb-3b56f29292e2",
+      "b2f9b4a0-a12f-4397-b662-320ea04cade1"
+    ],
+    "confidence": 0.652,
+    "method": "hybrid",
+    "group_size": 4,
+    "method_breakdown": {
+      "hybrid": 3
+    }
+  },
+  {
+    "group_id": "dup_023",
+    "products": [
+      "ec4661b6-fe02-4f9c-ba4a-c171838a38f3",
+      "4d2a0feb-3e92-4113-a989-3ae0fdcd3a01",
+      "769f2834-cc10-4376-86ee-287c7bfc31f6",
+      "476da0eb-60e0-4f14-9dd7-98fd0d9a9b2e",
+      "06553868-7f7a-494c-969d-1316bcf65ce1",
+      "f7326775-520b-4490-8ee9-c56dbf19f29d",
+      "f1082cc0-6dcb-499e-b32a-1a3405dea77a",
+      "b3f5c495-b0e4-4ac8-a4de-942e95f0c56a",
+      "d7d57b00-4991-4cfd-90d3-37d4130e76be",
+      "c8949313-923a-486a-a4a8-f9a72d31adee",
+      "7b8c7128-b3a0-4998-858c-43974c0b3a09",
+      "fef1f836-6c3b-4ab2-8f2e-ac66e225580d",
+      "aeb642cf-1eaa-441e-9c65-3806423458b1",
+      "e151ce4b-414c-4a79-b92b-dcf4e3c023b9",
+      "8a0d4ec9-ebde-4e0d-a4fd-aa04b9ff6bab",
+      "8cd317e0-8a06-49cd-93bd-a3f3681fc7b8",
+      "7c616dbe-72da-41f3-88c6-f60eeae7770f"
+    ],
+    "confidence": 0.638,
+    "method": "hybrid",
+    "group_size": 17,
+    "method_breakdown": {
+      "hybrid": 15,
+      "embedding": 1
+    }
+  },
+  {
+    "group_id": "dup_024",
+    "products": [
+      "76d5ef25-b2d6-4af6-b4ad-af64ac0c1c2c",
+      "e0966efc-053c-4454-851c-2118861929b9",
+      "3a86d01b-e2e8-4392-9ab4-4643b79a0e1e",
+      "5c5de470-94f7-400a-aad6-8a3df059d482",
+      "915aac4b-e5f5-47a6-81c7-0cc8d43825a0"
+    ],
+    "confidence": 0.917,
+    "method": "embedding",
+    "group_size": 5,
+    "method_breakdown": {
+      "embedding": 4
+    }
+  },
+  {
+    "group_id": "dup_025",
+    "products": [
+      "bc635ca3-a5d7-4eb4-abe1-208a6aad6fdc",
+      "66702c6b-46eb-4f0f-b9ef-322e144d2e5e",
+      "688e9442-f5db-4bf1-a71a-74f08ff03cf7",
+      "fa3e199b-8500-4e86-9381-8a60a04bc67f",
+      "62331210-8282-4354-9874-1a2f9fbf5d93",
+      "b165226b-9014-4182-a6c7-6258405ebc27"
+    ],
+    "confidence": 0.7,
+    "method": "hybrid",
+    "group_size": 6,
+    "method_breakdown": {
+      "embedding": 2,
+      "hybrid": 3
+    }
+  },
+  {
+    "group_id": "dup_026",
+    "products": [
+      "7ef2501f-b4d2-425a-946c-4326771c356e",
+      "17a6a3ca-c852-498b-bf2c-afc7b4aa93e6",
+      "889786a8-6158-444e-92ae-882752877ebf",
+      "862456e3-3f85-4c37-a4da-1a327c891d72",
+      "3914eea9-2ad9-4843-a267-b8ab7b2f8a76",
+      "477d1610-1377-45f9-bd3f-bb5441673655",
+      "a4b18812-5a73-4131-bab5-5bb5658534d2"
+    ],
+    "confidence": 0.682,
+    "method": "hybrid",
+    "group_size": 7,
+    "method_breakdown": {
+      "hybrid": 4,
+      "embedding": 1,
+      "rule_based": 1
+    }
+  },
+  {
+    "group_id": "dup_027",
+    "products": [
+      "1f6c7151-dd89-43bc-ac36-28646dbaa6f9",
+      "2dc9c1dd-262c-47f2-b3a6-c7f5417e3af2",
+      "f749449d-45d6-43df-9a80-e0f2a6781105",
+      "a6c52a67-436b-4158-86c0-3f19d3dd0381",
+      "6dcd4915-d798-4cb4-9ba8-bbd5ee43b3a3",
+      "130f5b95-fe96-4c35-9a92-280d93c2ec79",
+      "d3d5b609-80a6-40fe-ad47-902e8e9fc336",
+      "3d014234-8aaf-4521-9a27-7c98363ea642",
+      "fb023d91-cd14-4d43-ae36-a2d32c762f36",
+      "89e1e9eb-495c-41cb-bf70-52a3c019b988",
+      "e22887ad-52c4-48c2-97bd-7f83f4c2cf6a",
+      "4c7f1ffc-6be8-4829-8120-33eddc50b2e5"
+    ],
+    "confidence": 0.691,
+    "method": "hybrid",
+    "group_size": 12,
+    "method_breakdown": {
+      "rule_based": 4,
+      "hybrid": 5,
+      "embedding": 2
+    }
+  },
+  {
+    "group_id": "dup_028",
+    "products": [
+      "c043597a-2ea5-488f-bf98-72a164070915",
+      "35359b4d-f1d1-42a1-97b7-d0b7316c95cc",
+      "34a55241-e4c6-4079-93ce-20e762a8dd18",
+      "8fd0c644-53d1-4d98-a64d-4a801c3e561b",
+      "c4db3150-5eee-47ad-9014-208936800e2c",
+      "a56af6ee-473a-454c-80e3-0c26dfd8f405",
+      "e41e73a9-b77d-40cf-835c-a8fe63528569",
+      "00b1b5ae-3e6d-4a11-9f3a-83f282c1a797",
+      "ed4f3b55-6e79-4dd6-bd36-deebcc2fe7f6",
+      "e6ff6068-680e-4335-a020-ee0453900f85",
+      "6997c3a6-d55d-4cdf-8175-cfebb11ebde9",
+      "0f22be87-aa1f-49ef-acb4-5ff67baa33ec",
+      "18a9af20-ebf8-4f59-95bd-b556940396eb",
+      "c22287ee-318d-4693-a89a-0b7dbc0116ff"
+    ],
+    "confidence": 0.649,
+    "method": "hybrid",
+    "group_size": 14,
+    "method_breakdown": {
+      "hybrid": 10,
+      "rule_based": 3
+    }
+  },
+  {
+    "group_id": "dup_029",
+    "products": [
+      "dce4208e-453f-40d7-b3e9-87e8beeefe2a",
+      "af229aa6-7ff9-42d6-a4d6-96ca922e9b8c",
+      "d1011aee-ba91-4592-8ae6-3a22a0b641a6",
+      "94003cf2-2e16-4f50-9dd6-e9ef2ef11791",
+      "3bddc63e-f5ff-4af3-99ca-bf8568e7599b"
+    ],
+    "confidence": 0.711,
+    "method": "hybrid",
+    "group_size": 5,
+    "method_breakdown": {
+      "embedding": 1,
+      "hybrid": 3
+    }
+  },
+  {
+    "group_id": "dup_030",
+    "products": [
+      "41c56311-1f8e-45c8-93db-1521ba04dc4c",
+      "74ba3a99-0b0e-4c19-b484-acfd1498efc8",
+      "ce470b35-ff30-46cd-ac21-e7de31329b96",
+      "69ed488a-e3be-49bc-9d6c-e7b51aa685a4",
+      "3547e930-0847-467f-9f2f-cd1201136cbc"
+    ],
+    "confidence": 0.628,
+    "method": "hybrid",
+    "group_size": 5,
+    "method_breakdown": {
+      "embedding": 2,
+      "hybrid": 2
+    }
+  },
+  {
+    "group_id": "dup_031",
+    "products": [
+      "5a9b06af-c6cd-45e6-801f-d80e6217a69a",
+      "27057239-e663-4677-bff0-c23f95a74ce4"
+    ],
+    "confidence": 0.925,
+    "method": "embedding",
+    "group_size": 2,
+    "method_breakdown": {
+      "embedding": 1
+    }
+  },
+  {
+    "group_id": "dup_032",
+    "products": [
+      "be884854-9565-4afa-af94-ec8096a39aa9",
+      "abe29796-8990-43e3-9609-978d25a09280",
+      "0ada6fa9-c33f-44fe-abb4-a7625348fe17",
+      "d3e46503-81ab-43c5-aca6-8117ee9fec81"
+    ],
+    "confidence": 0.632,
+    "method": "hybrid",
+    "group_size": 4,
+    "method_breakdown": {
+      "hybrid": 3
+    }
+  },
+  {
+    "group_id": "dup_033",
+    "products": [
+      "52dd148c-8933-46a8-b93f-532e667d222b",
+      "86526a40-8801-4d38-8b81-4a054a6b58f3",
+      "4c4438d0-110e-4d68-bccb-7dc94e2204e9",
+      "88c01a29-0ac2-4f46-ace5-115f5b74b5df",
+      "afe4a3e4-b94f-4375-84f8-840a38431afa",
+      "0ec6ac1b-c6ec-4de1-9ae8-a46f0ac286d6",
+      "9e7174ea-7830-44e4-8e6d-97f20b9edaf1"
+    ],
+    "confidence": 0.739,
+    "method": "hybrid",
+    "group_size": 7,
+    "method_breakdown": {
+      "hybrid": 3,
+      "embedding": 3
+    }
+  },
+  {
+    "group_id": "dup_034",
+    "products": [
+      "dd47260c-d994-4a6f-8ca2-3acf2204dc8b",
+      "a086dd23-396b-40e6-9033-fe8b4b24f302",
+      "f97d9676-03d4-4666-ac8f-63c3c8955ceb",
+      "6a4ad364-e0d7-4cc9-af30-525662615ded",
+      "f3d06987-2f97-4fa4-99cc-41476d88810f",
+      "e1867be0-2fe9-43fc-b7c0-fbdc471882c5",
+      "4c6a255f-614b-40fa-a7d7-82e5d30fb1b2",
+      "99a91219-d835-4aa5-bd75-4ab4ae60f43b",
+      "f707e0b0-09d0-401e-9a52-f095fc6aa4eb"
+    ],
+    "confidence": 0.787,
+    "method": "hybrid",
+    "group_size": 9,
+    "method_breakdown": {
+      "embedding": 4,
+      "hybrid": 4
+    }
+  },
+  {
+    "group_id": "dup_035",
+    "products": [
+      "b95848ff-646d-4077-b1af-61bbbf4b0616",
+      "1f99454d-5383-4a1c-97d9-42a8ad6e1843"
+    ],
+    "confidence": 0.965,
+    "method": "embedding",
+    "group_size": 2,
+    "method_breakdown": {
+      "embedding": 1
+    }
+  },
+  {
+    "group_id": "dup_036",
+    "products": [
+      "97a7c027-701d-45b3-b33e-704bb4a8c7ac",
+      "1fe521a0-9e43-4366-afc4-70c991da7cab",
+      "d06a55e1-1b67-46a5-aa5f-b65c861ac2b3",
+      "870e1ead-7d34-47aa-877f-348d224f16ea",
+      "b9f4c0dd-7bd5-40aa-aaab-c6e484e6f452",
+      "5e871afe-307c-4605-b6da-93e0f8099dc1",
+      "d94ef5d1-d6f0-41d8-bfc3-f05bb697718e"
+    ],
+    "confidence": 0.754,
+    "method": "hybrid",
+    "group_size": 7,
+    "method_breakdown": {
+      "hybrid": 3,
+      "embedding": 3
+    }
+  },
+  {
+    "group_id": "dup_037",
+    "products": [
+      "fe3b397c-3b87-4693-8555-4994fd353fc5",
+      "4ba1bc72-26bb-4e98-b3f4-65022355c7ee",
+      "68b492bc-ce3d-4cca-b82b-227be08ee2f8",
+      "5d688483-8f9b-42f0-8b7c-c978e7012805",
+      "8ae1a845-6779-437d-a4a2-bbdd5acae758",
+      "db461e50-9fda-4364-a12c-7383dbc72502",
+      "307e8e75-1adf-4d1a-8740-3f667bf7f677",
+      "87a2d152-0a19-457c-9b12-c5ae308b0e5d"
+    ],
+    "confidence": 0.735,
+    "method": "hybrid",
+    "group_size": 8,
+    "method_breakdown": {
+      "hybrid": 4,
+      "embedding": 3
+    }
+  },
+  {
+    "group_id": "dup_038",
+    "products": [
+      "5363d433-c667-45ae-af56-63abd4374a28",
+      "fabe4bc6-da0d-450f-bd4e-d9fb74c27e87",
+      "96724584-c74d-4ee1-92fb-2cd0e64fed85",
+      "a68f2122-7d97-45ff-9f64-0b9d0942a31d"
+    ],
+    "confidence": 0.767,
+    "method": "hybrid",
+    "group_size": 4,
+    "method_breakdown": {
+      "hybrid": 2,
+      "embedding": 1
+    }
+  },
+  {
+    "group_id": "dup_039",
+    "products": [
+      "6ea33ae0-31f1-4c3c-b692-4a113538712c",
+      "117b4b89-90f3-42d2-855e-b3cde484f1de",
+      "dbc5c3b2-74b1-4280-83db-c5438d6322ad"
+    ],
+    "confidence": 0.978,
+    "method": "embedding",
+    "group_size": 3,
+    "method_breakdown": {
+      "embedding": 2
+    }
+  },
+  {
+    "group_id": "dup_040",
+    "products": [
+      "4bfbfc13-3705-48b2-83b2-09fc926beeb2",
+      "0fd00f79-4532-4d0f-affd-c0a6ec1b4db2",
+      "f7e29fa8-1193-496c-9ba8-312bebe4f7f0"
+    ],
+    "confidence": 0.78,
+    "method": "hybrid",
+    "group_size": 3,
+    "method_breakdown": {
+      "hybrid": 1,
+      "embedding": 1
+    }
+  },
+  {
+    "group_id": "dup_041",
+    "products": [
+      "bac11548-21bc-4013-a6fc-76c632f14f79",
+      "843f1b04-a0d6-4458-85f7-14d5dd054c5e",
+      "4b369c75-1591-4a39-a0df-1065165b1a11",
+      "d44da862-6177-445b-be13-c4bc1b320a62",
+      "f6800b3c-e952-4bcb-adb4-ba2f7280e735",
+      "47d1e345-9906-480e-8260-0937829fd315",
+      "fcd13119-1ec6-48a8-9a03-814b19cf0fd1",
+      "59062095-2fa6-49d1-89b1-f047e76c117f",
+      "50290903-37b7-4617-b1a7-e7a714541ccd",
+      "8fd4e062-272c-4e18-8711-e785f0d37ff2"
+    ],
+    "confidence": 0.735,
+    "method": "hybrid",
+    "group_size": 10,
+    "method_breakdown": {
+      "hybrid": 5,
+      "embedding": 4
+    }
+  },
+  {
+    "group_id": "dup_042",
+    "products": [
+      "06175de0-17c0-4ec2-8cd0-58007eec8eba",
+      "ffcf94fa-1e57-471f-b6ea-599945544b54",
+      "b6e20ff3-5b53-4908-836d-2c2f708c27f3",
+      "fe0c0c14-da42-46bd-8878-6a907c1b1a9c",
+      "7c4ed233-71d0-40df-be7e-92e081c8c08d",
+      "f03767ab-f34d-47d1-817a-2352b61bea2d",
+      "df27c4f6-765c-4d39-a46b-656185068fb8",
+      "6461a966-0669-4c2b-9a80-04367ac3555c"
+    ],
+    "confidence": 0.75,
+    "method": "hybrid",
+    "group_size": 8,
+    "method_breakdown": {
+      "embedding": 2,
+      "hybrid": 5
+    }
+  },
+  {
+    "group_id": "dup_043",
+    "products": [
+      "c1c1276e-bdef-4fa4-8d69-309c6aa9984d",
+      "477ad423-bff3-4bca-9e6d-9f95144a4e82",
+      "16daeefb-c287-4531-be52-d4e9a0ee0fe4"
+    ],
+    "confidence": 0.847,
+    "method": "hybrid",
+    "group_size": 3,
+    "method_breakdown": {
+      "hybrid": 1,
+      "embedding": 1
+    }
+  },
+  {
+    "group_id": "dup_044",
+    "products": [
+      "d69593ad-d0f7-4447-aac6-62e87e9b3766",
+      "080396f2-c704-4b8a-ae2f-c8c5f16dff87",
+      "e6a34e50-a009-42ce-8bf3-712052ed7aa9",
+      "45ea4502-5544-44f3-954d-a9bd6dbea064"
+    ],
+    "confidence": 0.763,
+    "method": "hybrid",
+    "group_size": 4,
+    "method_breakdown": {
+      "hybrid": 2,
+      "embedding": 1
+    }
+  },
+  {
+    "group_id": "dup_045",
+    "products": [
+      "895c94f3-3f6a-4385-b499-434aefa7f67e",
+      "5367be66-dae1-4ebf-a71b-77565ca4a7af",
+      "4599211c-ce91-4c42-950e-3e7ce594ddfd",
+      "de834b9b-0f65-41e7-8d68-0c3bc7600cf6",
+      "c366c702-190a-4f28-abef-0e1d3e5a6f17",
+      "7ae9b864-2a78-427f-baa7-1898bc5050df",
+      "63a33399-5c0a-4be4-85fe-3214825c97f9",
+      "3a128556-43af-47e4-851a-ac8d77431346",
+      "7dbe80f7-abb0-4061-b936-3e335344702e"
+    ],
+    "confidence": 0.711,
+    "method": "hybrid",
+    "group_size": 9,
+    "method_breakdown": {
+      "rule_based": 4,
+      "embedding": 2,
+      "hybrid": 2
+    }
+  },
+  {
+    "group_id": "dup_046",
+    "products": [
+      "05ef637d-6aa2-4e07-9ee5-9bfbca7d9c2f",
+      "03ed3d4c-681e-4b11-b762-bec3686c13b8",
+      "80de925f-ce4f-4dc3-93d6-136b57b4e7c0",
+      "3252c4e7-1d4e-43fd-83c4-ec273f10df32",
+      "ee626219-c2ac-4639-b5a0-841066dad43a",
+      "97b92a0b-1dd9-4a30-b100-ac5a5408c1c9",
+      "6025a384-a9e0-4f12-b688-6047837284a3"
+    ],
+    "confidence": 0.637,
+    "method": "hybrid",
+    "group_size": 7,
+    "method_breakdown": {
+      "hybrid": 6
+    }
+  },
+  {
+    "group_id": "dup_047",
+    "products": [
+      "363dc1fe-90fc-4c7c-8573-a436da4a3cb5",
+      "a9aa2bf7-f448-4a72-b57b-c56ea4eb8dc9",
+      "3c2121af-72b5-4486-b524-c21d1cbc697d"
+    ],
+    "confidence": 1.0,
+    "method": "embedding",
+    "group_size": 3,
+    "method_breakdown": {
+      "embedding": 2
+    }
+  },
+  {
+    "group_id": "dup_048",
+    "products": [
+      "da31f148-acbc-40ff-8d5c-f9953c24b505",
+      "dc6b9f2b-321a-4f0c-89f1-80fdaa971d2e",
+      "a539761e-17be-4781-be09-d39e8873876b"
+    ],
+    "confidence": 1.0,
+    "method": "embedding",
+    "group_size": 3,
+    "method_breakdown": {
+      "embedding": 2
+    }
+  },
+  {
+    "group_id": "dup_049",
+    "products": [
+      "dcdba907-d3c5-4cdb-a5de-10eec5f8fa0e",
+      "e9e71b6c-d1e2-4339-ab5d-e29e350f70b4",
+      "66beeee9-f690-4164-ae61-df486e1abea6",
+      "78dd4326-d564-45c1-9acf-16161ca2d2e5",
+      "b87c8d5d-f3c6-44bb-9f18-06f1e6b7a39b",
+      "83d36c69-9b7e-4e30-a578-14fff0d6e0ed",
+      "23ea8d8e-3909-4ef5-896f-fe2b80baf1c7"
+    ],
+    "confidence": 0.799,
+    "method": "hybrid",
+    "group_size": 7,
+    "method_breakdown": {
+      "embedding": 3,
+      "hybrid": 2,
+      "rule_based": 1
+    }
+  },
+  {
+    "group_id": "dup_050",
+    "products": [
+      "0694b7ac-9e28-4bf1-ba78-5581b5919a2e",
+      "f912a517-aaf2-4abb-909a-712eba2815a8",
+      "23872daf-08f4-4fd7-8f4f-880c96afad57",
+      "eafb0b28-e882-4530-9fef-05250ecd53a7",
+      "3937278d-2e6d-436f-adb2-2956d8024428",
+      "75a74d45-2767-485d-a53d-cda36536db59",
+      "152fcb0f-3097-48d3-bf52-13339bb875c5",
+      "931d6ebe-cc53-43f8-a144-b4c5af2ccffd",
+      "bb701f7a-7871-48ee-914f-7296dffcbc5b",
+      "6939bd54-d4ff-4b83-afd2-f36d55b08057",
+      "6ee146d5-9126-4143-b9fe-0e1e7d68106a",
+      "efc8c58a-d47b-48c3-b161-38c34a4ed385",
+      "702e6fbb-a458-443a-a432-ab95dcfdbec7",
+      "08da4001-59ae-49c8-8ef4-d6275572b476",
+      "a0555d92-9660-4ca4-a50a-ce2635b3efc0"
+    ],
+    "confidence": 0.636,
+    "method": "hybrid",
+    "group_size": 15,
+    "method_breakdown": {
+      "rule_based": 5,
+      "hybrid": 9
+    }
+  },
+  {
+    "group_id": "dup_051",
+    "products": [
+      "1e1e09f8-142e-4b67-8725-8481588ae767",
+      "c53ba87c-023d-46fd-b574-f3213d0f4d15",
+      "f0c79114-ace9-400d-be79-2f275fc66197",
+      "54600aed-5b12-484b-ba59-74b242aaf24f",
+      "74aa9cca-8006-4f7f-ba1c-3774a8bb144c"
+    ],
+    "confidence": 0.879,
+    "method": "hybrid",
+    "group_size": 5,
+    "method_breakdown": {
+      "hybrid": 2,
+      "embedding": 2
+    }
+  },
+  {
+    "group_id": "dup_052",
+    "products": [
+      "751c67e8-00ef-43b8-8604-a4be641eefac",
+      "15fe4d0a-16af-4030-83cf-58d7fb0cf129",
+      "144e6497-5ef1-4e40-973b-da22cfb0a72e",
+      "14c78259-bf86-4ae6-96e4-d5f9314044a1",
+      "a0cf998d-58e4-40fe-a466-527c09f29371",
+      "b4a9568c-0f31-44d2-af89-0012d06ea80b",
+      "fc69f507-1b45-470a-9f81-d68f4d7ccceb",
+      "955780c1-96eb-4168-8827-189e65c69889",
+      "73f7e1fe-504d-49cc-a0dc-71bc01ee83b6"
+    ],
+    "confidence": 0.719,
+    "method": "hybrid",
+    "group_size": 9,
+    "method_breakdown": {
+      "embedding": 4,
+      "hybrid": 4
+    }
+  },
+  {
+    "group_id": "dup_053",
+    "products": [
+      "24f6694b-f3b4-46f9-ad62-b28982b45660",
+      "9c0702ad-7c2e-4245-854d-c027bb8bb7f1",
+      "c0620636-bd94-4001-bcf9-30c68e71b07e",
+      "3521a77b-737e-4647-a784-880a986bb97c",
+      "71601929-7060-409d-92c8-9654e3d3ecee",
+      "9783e1dd-2ed2-4177-bc9c-ad86c2709889",
+      "9d924611-dd81-4dfb-809a-8c2337691f1f",
+      "81090232-e117-4a25-bd7a-a426e4cab5bc",
+      "1b56844f-ad13-4b9b-b118-c1cc271aed58"
+    ],
+    "confidence": 0.751,
+    "method": "hybrid",
+    "group_size": 9,
+    "method_breakdown": {
+      "embedding": 4,
+      "hybrid": 2,
+      "rule_based": 2
+    }
+  },
+  {
+    "group_id": "dup_054",
+    "products": [
+      "d0ad3beb-f499-4126-a61b-a985bca13dfd",
+      "7bb23ebc-04fa-4339-8ddd-2fcd16eb0aec",
+      "893813c7-13fa-4aca-aa5e-ddafe85a367a",
+      "e7598c0b-09fc-4356-ad3a-72db99854b0d",
+      "fa53d324-52a5-476f-a1d9-93fa356fd046",
+      "b91f5b1f-fb9c-4d32-8953-10e8b2553c76"
+    ],
+    "confidence": 0.762,
+    "method": "hybrid",
+    "group_size": 6,
+    "method_breakdown": {
+      "hybrid": 3,
+      "embedding": 2
+    }
+  },
+  {
+    "group_id": "dup_055",
+    "products": [
+      "6e5c9896-9b38-4a28-b3be-c27450f62e89",
+      "ab21793b-d50e-4b05-950f-4d0c0c2b2de2",
+      "53ba380a-9c21-4162-b75d-ebb12833d16d"
+    ],
+    "confidence": 0.668,
+    "method": "hybrid",
+    "group_size": 3,
+    "method_breakdown": {
+      "hybrid": 1,
+      "rule_based": 1
+    }
+  },
+  {
+    "group_id": "dup_056",
+    "products": [
+      "e50cb632-cfed-4bd4-abc7-d278dd0f4d29",
+      "0b82bffc-65a7-410a-8599-b8d06fc6bc9f",
+      "5846c3cb-6841-406d-a49f-d602fc547beb"
+    ],
+    "confidence": 1.0,
+    "method": "embedding",
+    "group_size": 3,
+    "method_breakdown": {
+      "embedding": 2
+    }
+  },
+  {
+    "group_id": "dup_057",
+    "products": [
+      "79b415ba-dbea-45ac-bac6-77dd45736787",
+      "66338c49-e0a0-4555-a2d4-142f70152f58",
+      "6f848e62-1315-4efd-bb53-6d1e8bcaf511",
+      "1f7c3f2a-f156-4555-adc7-8e8681e97a46",
+      "d7182fa9-7886-45bc-84b0-4d69d4db3ae1"
+    ],
+    "confidence": 0.809,
+    "method": "hybrid",
+    "group_size": 5,
+    "method_breakdown": {
+      "embedding": 2,
+      "rule_based": 2
+    }
+  },
+  {
+    "group_id": "dup_058",
+    "products": [
+      "4f919946-9a16-4bd4-9f4d-ee6402e5eb09",
+      "7748b00c-efb4-44c9-a7ee-ea1188feb190",
+      "a64ce81e-e8bf-49fb-a635-a4f694cea95c"
+    ],
+    "confidence": 0.764,
+    "method": "hybrid",
+    "group_size": 3,
+    "method_breakdown": {
+      "hybrid": 1,
+      "embedding": 1
+    }
+  },
+  {
+    "group_id": "dup_059",
+    "products": [
+      "f30739c0-bd37-4fb9-9164-61765fd2da31",
+      "43dda4a5-c8a0-4063-8c7d-412c6881b0cb",
+      "65fb1d02-7ccc-49e9-82d6-373c16b4df35"
+    ],
+    "confidence": 0.89,
+    "method": "embedding",
+    "group_size": 3,
+    "method_breakdown": {
+      "embedding": 2
+    }
+  },
+  {
+    "group_id": "dup_060",
+    "products": [
+      "65ef58fc-04f6-4077-b08f-ea231877a021",
+      "c47f128f-a0ed-4e3a-8f0d-d33eda75e438",
+      "1c5377fc-0f05-4594-a53b-baea22048cd3"
+    ],
+    "confidence": 0.807,
+    "method": "hybrid",
+    "group_size": 3,
+    "method_breakdown": {
+      "embedding": 1,
+      "hybrid": 1
+    }
+  },
+  {
+    "group_id": "dup_061",
+    "products": [
+      "7f2cd766-2a5a-4710-bd05-6e625b463725",
+      "ca522a77-cb92-4e2b-9602-afac952fb1c3",
+      "e576e1da-efb0-4289-b822-3cf8f2b963c4"
+    ],
+    "confidence": 0.962,
+    "method": "embedding",
+    "group_size": 3,
+    "method_breakdown": {
+      "embedding": 2
+    }
+  },
+  {
+    "group_id": "dup_062",
+    "products": [
+      "f1e27594-a899-4f75-a37a-4bd42a9889e2",
+      "20d76d52-014b-4459-a10b-1b1318101af3"
+    ],
+    "confidence": 0.934,
+    "method": "embedding",
+    "group_size": 2,
+    "method_breakdown": {
+      "embedding": 1
+    }
+  },
+  {
+    "group_id": "dup_063",
+    "products": [
+      "b7738923-e5ef-42e2-bc7b-c4c8ffa4cc4e",
+      "f8ba3774-7048-4d63-bbeb-f95a49579ae4",
+      "65a37c4a-2e7c-4b86-a51a-26af0d841cc0"
+    ],
+    "confidence": 0.805,
+    "method": "hybrid",
+    "group_size": 3,
+    "method_breakdown": {
+      "embedding": 1,
+      "hybrid": 1
+    }
+  },
+  {
+    "group_id": "dup_064",
+    "products": [
+      "9f7f224c-f02c-4027-ae26-444847349a6f",
+      "c6b4175d-3de8-431f-8998-d2aea93f33c7",
+      "0baf4ab4-3564-424a-bddd-f0629ff5ecb7",
+      "d2dde7c3-937b-4900-9ee2-a3cf9b60dabc"
+    ],
+    "confidence": 0.868,
+    "method": "hybrid",
+    "group_size": 4,
+    "method_breakdown": {
+      "embedding": 2,
+      "rule_based": 1
+    }
+  },
+  {
+    "group_id": "dup_065",
+    "products": [
+      "2bd9f2d1-4926-499c-9806-ae317c05ea30",
+      "0b401081-ce3d-47e1-818e-5ace32391eff",
+      "8671ccf1-20d0-48d5-98b7-826a3e0cf448"
+    ],
+    "confidence": 0.881,
+    "method": "hybrid",
+    "group_size": 3,
+    "method_breakdown": {
+      "hybrid": 1,
+      "embedding": 1
+    }
+  },
+  {
+    "group_id": "dup_066",
+    "products": [
+      "8e977e22-76ae-4efa-93d7-87f66855d373",
+      "fe96d9f0-83e7-4ed3-98ff-6dccdd39918d",
+      "d4c3b7e7-ce17-428f-a746-4d617893df84",
+      "3f3523d1-cedd-4044-9803-d83de4dfaccc"
+    ],
+    "confidence": 0.816,
+    "method": "embedding",
+    "group_size": 4,
+    "method_breakdown": {
+      "embedding": 3
+    }
+  },
+  {
+    "group_id": "dup_067",
+    "products": [
+      "6fcd465e-e582-49f5-b4fa-0f4d574ca6cf",
+      "11dbc677-de09-4b41-bf35-bede07ac7636"
+    ],
+    "confidence": 0.775,
+    "method": "embedding",
+    "group_size": 2,
+    "method_breakdown": {
+      "embedding": 1
+    }
+  },
+  {
+    "group_id": "dup_068",
+    "products": [
+      "1561bb20-3afa-4fa3-94b2-c8e8aedee020",
+      "5eef46b9-bf13-4ff5-8e41-f3467191c799"
+    ],
+    "confidence": 0.701,
+    "method": "rule_based",
+    "group_size": 2,
+    "method_breakdown": {
+      "rule_based": 1
+    }
+  },
+  {
+    "group_id": "dup_069",
+    "products": [
+      "cb0e5366-eaac-4de6-a464-954b654da4d3",
+      "25faf352-62db-4d5d-b027-0814bd86e0af",
+      "52db7b98-32dd-4734-ae84-349cff58134d"
+    ],
+    "confidence": 0.941,
+    "method": "embedding",
+    "group_size": 3,
+    "method_breakdown": {
+      "embedding": 2
+    }
+  },
+  {
+    "group_id": "dup_070",
+    "products": [
+      "e42199ac-2c00-42ad-b671-6b97cc64e883",
+      "037ceaee-78e3-419e-80c3-c4a379e58cfa",
+      "ae025c68-e46e-4d98-8e9b-55074adc3d8a",
+      "77bbf199-fd03-406f-bb40-02b7b51d1bfc",
+      "e91d0df7-c657-4dac-b20b-6c0c8c3c01e6"
+    ],
+    "confidence": 0.742,
+    "method": "hybrid",
+    "group_size": 5,
+    "method_breakdown": {
+      "hybrid": 3,
+      "embedding": 1
+    }
+  },
+  {
+    "group_id": "dup_071",
+    "products": [
+      "486291c3-1e89-4952-a65d-7cd86a1a2137",
+      "3f17261d-3e31-413f-bd8a-9e8ad9cb702c",
+      "da454b58-86bf-469d-a6bc-d7e4736403c2",
+      "c51a24a1-0a6f-4173-b14c-6ec4e2eacf6e",
+      "be85d623-0a2d-4c1b-b9f9-461ee303556e"
+    ],
+    "confidence": 0.649,
+    "method": "hybrid",
+    "group_size": 5,
+    "method_breakdown": {
+      "hybrid": 3,
+      "embedding": 1
+    }
+  },
+  {
+    "group_id": "dup_072",
+    "products": [
+      "be2698bd-e558-46e3-b7ec-1f05367e412f",
+      "f3ee7415-4158-4166-9059-9b7069195601",
+      "0d2062d7-f823-41b4-aa85-7165814a7cb8"
+    ],
+    "confidence": 0.661,
+    "method": "hybrid",
+    "group_size": 3,
+    "method_breakdown": {
+      "hybrid": 1,
+      "rule_based": 1
+    }
+  },
+  {
+    "group_id": "dup_073",
+    "products": [
+      "2327aedf-9112-4f55-a744-d989971cea07",
+      "8ec5dc2e-5257-4246-892d-a159b002d15c",
+      "e37ee46f-a3ac-445a-9cde-a5418522fbd1",
+      "3b4ab620-38d4-4e24-8113-15de5462a871",
+      "3a73e2b3-685e-4f4c-9538-85b8f0ae5393",
+      "a5e94d86-d237-4437-a8e0-11a5b76df641"
+    ],
+    "confidence": 0.741,
+    "method": "hybrid",
+    "group_size": 6,
+    "method_breakdown": {
+      "rule_based": 3,
+      "embedding": 2
+    }
+  },
+  {
+    "group_id": "dup_074",
+    "products": [
+      "7762d8a5-39d7-4ce6-b7ce-34149a1e19ae",
+      "a5bb78d5-375a-41c9-bf4d-b5eb3d61c8ba",
+      "016bb28d-52f0-41af-ae35-e0a36d00d408",
+      "da86ad71-192e-4133-bb84-21f37478cb0e",
+      "9e53623b-b482-411c-8c78-69aad32b693c",
+      "1ed6b40f-6996-498a-9bea-22d5f097eddc",
+      "0a74f104-7cd8-4773-bfad-dcd97cf915fe",
+      "1016e388-788c-4ad3-9e3c-fe5461f8fb77",
+      "0f292b39-b7ac-4660-b6b9-cb285f8aa118"
+    ],
+    "confidence": 0.852,
+    "method": "embedding",
+    "group_size": 9,
+    "method_breakdown": {
+      "embedding": 6,
+      "rule_based": 2
+    }
+  },
+  {
+    "group_id": "dup_075",
+    "products": [
+      "1561049c-b85d-44c9-99ab-f8df95de09aa",
+      "fc329cbd-ed99-49a7-a51d-ab5159c2a9c3",
+      "22e29694-0628-47f6-8455-3e33cc11fa0d",
+      "9e6346de-cb8f-4e9c-a469-d8d59d6f0f8c",
+      "5a5c232a-52e4-4716-aefe-76f361c1204c"
+    ],
+    "confidence": 0.698,
+    "method": "hybrid",
+    "group_size": 5,
+    "method_breakdown": {
+      "embedding": 1,
+      "rule_based": 2,
+      "hybrid": 1
+    }
+  },
+  {
+    "group_id": "dup_076",
+    "products": [
+      "522a5a1a-019c-41c3-bda1-935f1f009219",
+      "9cc11d59-daf0-45a9-b450-dc6b80d7246b",
+      "842350fc-79d6-49e9-8b58-22881868d0d7",
+      "b8865170-7693-40eb-83a8-cb985e0eca17"
+    ],
+    "confidence": 0.824,
+    "method": "hybrid",
+    "group_size": 4,
+    "method_breakdown": {
+      "embedding": 2,
+      "hybrid": 1
+    }
+  },
+  {
+    "group_id": "dup_077",
+    "products": [
+      "386470fd-15d5-48d7-8b04-89bb943863ed",
+      "59df2c3e-afdb-4654-9fb4-3f35a62cc310",
+      "bc4bd4d4-5eca-49a6-9a7c-4298720d5850",
+      "8c562c21-3237-4b5e-9e6a-180d15409493"
+    ],
+    "confidence": 0.807,
+    "method": "embedding",
+    "group_size": 4,
+    "method_breakdown": {
+      "embedding": 3
+    }
+  },
+  {
+    "group_id": "dup_078",
+    "products": [
+      "21e3af69-3fe1-4ade-849c-9f1bae419878",
+      "9bf93f9f-e3cf-43ce-93f2-bbc6edb7ff33",
+      "7ef11452-c440-4063-aaf5-fb79eecaf3bf"
+    ],
+    "confidence": 0.605,
+    "method": "hybrid",
+    "group_size": 3,
+    "method_breakdown": {
+      "hybrid": 2
+    }
+  },
+  {
+    "group_id": "dup_079",
+    "products": [
+      "f7ccfae5-92c0-42ef-9ef8-9a1937a04516",
+      "93debc4e-a2c8-4421-a64a-f04362eace97"
+    ],
+    "confidence": 0.925,
+    "method": "embedding",
+    "group_size": 2,
+    "method_breakdown": {
+      "embedding": 1
+    }
+  },
+  {
+    "group_id": "dup_080",
+    "products": [
+      "09d086c8-9f1c-4c4b-bc2e-119c86d1728d",
+      "6cbc2160-35b4-4720-95ab-559c850372fd",
+      "5a54a982-e4b5-4c38-8227-40f82d9399b5",
+      "65977554-dcdd-4d1f-a9ac-960c1e6dd535",
+      "a29b902f-d83c-49e4-a408-2e02fb17acc7"
+    ],
+    "confidence": 0.703,
+    "method": "hybrid",
+    "group_size": 5,
+    "method_breakdown": {
+      "rule_based": 2,
+      "hybrid": 1,
+      "embedding": 1
+    }
+  },
+  {
+    "group_id": "dup_081",
+    "products": [
+      "bba19e44-a2c0-4cd0-af41-2a30468699c3",
+      "f0e7b7b8-c399-4d62-8802-dbfb3cf4ba32",
+      "a22082c1-620a-479e-a308-35f3fc11785a",
+      "afa9f24e-b5d9-45da-860a-2602cc34a80c",
+      "06d3c00d-1ca8-46aa-a983-d0e639fe74e5",
+      "8cef71dd-5226-4a85-a868-a1ed7792905e",
+      "effe1243-f9f1-4dd4-8186-e3931bb9bd12",
+      "d6f25518-2fba-45ba-ac7b-043d8841a9c2",
+      "2f38d38f-3f78-4db4-9f5f-fde4cccc9481"
+    ],
+    "confidence": 0.75,
+    "method": "hybrid",
+    "group_size": 9,
+    "method_breakdown": {
+      "embedding": 4,
+      "hybrid": 4
+    }
+  },
+  {
+    "group_id": "dup_082",
+    "products": [
+      "92b47df2-a08b-4abd-9b9c-e4a3ac195aa5",
+      "6b1b40ce-2a93-4ec1-ab10-8f9a8da722cf",
+      "4ec251a1-cbde-40f3-a83e-3b2e8fbd4471"
+    ],
+    "confidence": 0.708,
+    "method": "hybrid",
+    "group_size": 3,
+    "method_breakdown": {
+      "hybrid": 2
+    }
+  },
+  {
+    "group_id": "dup_083",
+    "products": [
+      "5858fbe6-0ca1-4255-afb9-f7809ac90c13",
+      "f1c2136e-aa18-413c-b6e4-2febe6e8ba85",
+      "546e33a8-7deb-4338-ad0f-588061f402bb",
+      "aa827c8e-9ac1-4959-9466-f9aca9a64e6c",
+      "9fd31098-0a83-439b-be3d-5ade5682c7b6"
+    ],
+    "confidence": 0.661,
+    "method": "hybrid",
+    "group_size": 5,
+    "method_breakdown": {
+      "hybrid": 3,
+      "embedding": 1
+    }
+  },
+  {
+    "group_id": "dup_084",
+    "products": [
+      "ad388ea8-12bd-4302-90dc-cfea176a4a85",
+      "c4bd462b-ccfc-4a9a-a8f1-c7d7c574efff",
+      "8aa11b28-3d7a-446e-a845-f784052f5814",
+      "b98309a5-f44a-42d7-b542-16008b3b5a96",
+      "6fdd96e9-8455-49c2-a001-509484a07a73",
+      "a438edf9-5a66-4aff-986f-c2595008f88f",
+      "0adc0789-adbc-4e8c-b1aa-b6606addf015"
+    ],
+    "confidence": 0.84,
+    "method": "embedding",
+    "group_size": 7,
+    "method_breakdown": {
+      "embedding": 6
+    }
+  },
+  {
+    "group_id": "dup_085",
+    "products": [
+      "46fb3715-1eb7-47e4-852f-8e71da16ed20",
+      "8969a262-ada7-4af0-a346-c3de2f2571da",
+      "cdc35010-20ec-4743-acd3-843f76448a3b",
+      "4177b246-bab1-4feb-966f-c8ad95665765",
+      "4ad8147f-fcb7-450f-ab6a-17ee2108a20e"
+    ],
+    "confidence": 0.828,
+    "method": "embedding",
+    "group_size": 5,
+    "method_breakdown": {
+      "embedding": 3,
+      "hybrid": 1
+    }
+  },
+  {
+    "group_id": "dup_086",
+    "products": [
+      "90091de6-6913-4aa2-b01e-90060114834f",
+      "214da981-0888-4ff3-ade6-d6fff8578ac2",
+      "c9fec966-8b92-4882-b197-04111b26eb74"
+    ],
+    "confidence": 0.644,
+    "method": "hybrid",
+    "group_size": 3,
+    "method_breakdown": {
+      "rule_based": 1,
+      "hybrid": 1
+    }
+  },
+  {
+    "group_id": "dup_087",
+    "products": [
+      "cf0d2b2d-f761-4fa6-ad2c-237d169b15ba",
+      "fe871602-b5d2-4c41-ac85-dae04e1648ec",
+      "7ecdca10-448c-481d-820b-13511dc0783a",
+      "7c8f19c1-45b8-4df6-8157-92b5de85b8ab"
+    ],
+    "confidence": 0.612,
+    "method": "hybrid",
+    "group_size": 4,
+    "method_breakdown": {
+      "hybrid": 2,
+      "rule_based": 1
+    }
+  },
+  {
+    "group_id": "dup_088",
+    "products": [
+      "dc69ecd3-5e5a-4959-bef7-30a5d4fe2b36",
+      "5ac2fb05-ea7e-48d3-83e1-08063d88ed61",
+      "aed7288a-4fa4-427f-863c-838847433b39",
+      "b2aac16f-133d-47d3-aa28-131f2bb64ce7",
+      "9bda61ca-e70b-4c3d-ab92-8cd46fca5bda",
+      "a0454a47-8306-491f-ac23-af884542b308"
+    ],
+    "confidence": 0.621,
+    "method": "hybrid",
+    "group_size": 6,
+    "method_breakdown": {
+      "hybrid": 3,
+      "rule_based": 2
+    }
+  },
+  {
+    "group_id": "dup_089",
+    "products": [
+      "3180a340-a304-46cc-88a2-2a963978756d",
+      "8b3b3581-173a-496e-8cc4-8e2ac19d63b5",
+      "6ad2f0d0-6b37-4d0c-b714-02e936bf1b40",
+      "6c918d25-c760-41ab-b02d-a360dd5bdb89"
+    ],
+    "confidence": 0.778,
+    "method": "hybrid",
+    "group_size": 4,
+    "method_breakdown": {
+      "embedding": 2,
+      "hybrid": 1
+    }
+  },
+  {
+    "group_id": "dup_090",
+    "products": [
+      "ce3f92fa-6d90-4ee1-a5ab-deb1129674c0",
+      "5fd096bf-723c-410b-b53e-2ddf90080735"
+    ],
+    "confidence": 1.0,
+    "method": "embedding",
+    "group_size": 2,
+    "method_breakdown": {
+      "embedding": 1
+    }
+  },
+  {
+    "group_id": "dup_091",
+    "products": [
+      "6f275e46-9851-45ad-b196-e3fa11ec24bc",
+      "925cf202-2237-485c-8e03-ca6ba12b055c"
+    ],
+    "confidence": 0.867,
+    "method": "embedding",
+    "group_size": 2,
+    "method_breakdown": {
+      "embedding": 1
+    }
+  },
+  {
+    "group_id": "dup_092",
+    "products": [
+      "22f6ceb8-5782-4339-a91e-e57ad9f07d92",
+      "4e492607-642e-4089-a707-10a6e0ca3585"
+    ],
+    "confidence": 0.69,
+    "method": "hybrid",
+    "group_size": 2,
+    "method_breakdown": {
+      "hybrid": 1
+    }
+  },
+  {
+    "group_id": "dup_093",
+    "products": [
+      "ba248766-421b-4a79-8899-0c17bbeaabdd",
+      "caff357b-4610-4e21-9ae1-c36a84013a5a"
+    ],
+    "confidence": 1.0,
+    "method": "embedding",
+    "group_size": 2,
+    "method_breakdown": {
+      "embedding": 1
+    }
+  },
+  {
+    "group_id": "dup_094",
+    "products": [
+      "c88b4818-553d-47d1-9f29-aeed50ae7a6f",
+      "fc872808-d3df-4633-8b98-d7c51739d447"
+    ],
+    "confidence": 1.0,
+    "method": "embedding",
+    "group_size": 2,
+    "method_breakdown": {
+      "embedding": 1
+    }
+  },
+  {
+    "group_id": "dup_095",
+    "products": [
+      "dfc2939e-2d1e-42ed-9ea1-e5525936d9e2",
+      "2ea99698-63ba-474a-b91e-c58edac1f07a"
+    ],
+    "confidence": 0.818,
+    "method": "embedding",
+    "group_size": 2,
+    "method_breakdown": {
+      "embedding": 1
+    }
+  },
+  {
+    "group_id": "dup_096",
+    "products": [
+      "a03241fc-c2aa-476c-b487-f6e59671376a",
+      "b34fde2c-87e8-445c-b69f-0d1dcde86da2"
+    ],
+    "confidence": 0.96,
+    "method": "embedding",
+    "group_size": 2,
+    "method_breakdown": {
+      "embedding": 1
+    }
+  },
+  {
+    "group_id": "dup_097",
+    "products": [
+      "e9c4511a-1a8d-4b77-8b9d-131ada119fc9",
+      "ba573004-3fce-44e4-b707-82181a90c7a6",
+      "849be4a6-6cbe-4617-b9e6-add4796dc79b",
+      "d9d5a784-b9b4-47df-8b13-324aa48f1b21",
+      "13c1ed4a-2c77-4b95-bdd2-1232b939d1cc",
+      "34e50e86-e960-44b2-8cf5-c7eb2fb281e7"
+    ],
+    "confidence": 0.807,
+    "method": "hybrid",
+    "group_size": 6,
+    "method_breakdown": {
+      "hybrid": 2,
+      "embedding": 3
+    }
+  },
+  {
+    "group_id": "dup_098",
+    "products": [
+      "22178bf3-fcc2-4b74-a681-2f6093ae0651",
+      "90675dcd-f76d-4d72-b450-b94f4df6b0a5"
+    ],
+    "confidence": 0.934,
+    "method": "embedding",
+    "group_size": 2,
+    "method_breakdown": {
+      "embedding": 1
+    }
+  },
+  {
+    "group_id": "dup_099",
+    "products": [
+      "cd0f3323-1677-49f0-b244-b2a0ada07b20",
+      "e6db44b7-c5be-4d9c-b6c5-d91769576c19"
+    ],
+    "confidence": 1.0,
+    "method": "embedding",
+    "group_size": 2,
+    "method_breakdown": {
+      "embedding": 1
+    }
+  },
+  {
+    "group_id": "dup_100",
+    "products": [
+      "7f0e2388-786b-44ec-b539-8f7776e89dec",
+      "8afbb82a-2f62-41a9-b647-cddbb13f2c4b",
+      "7019a699-bf99-4966-b1c5-cf4ea2809ba2"
+    ],
+    "confidence": 0.888,
+    "method": "embedding",
+    "group_size": 3,
+    "method_breakdown": {
+      "embedding": 2
+    }
+  },
+  {
+    "group_id": "dup_101",
+    "products": [
+      "2cd25293-e605-4388-8268-f37b08617e9c",
+      "09797281-5129-49f8-a39f-82961ca54e73"
+    ],
+    "confidence": 0.85,
+    "method": "embedding",
+    "group_size": 2,
+    "method_breakdown": {
+      "embedding": 1
+    }
+  },
+  {
+    "group_id": "dup_102",
+    "products": [
+      "675c2dab-b7ab-4c5a-8b48-f24588cc119d",
+      "f49f304f-3bfb-4224-ba55-f1157f1effe0"
+    ],
+    "confidence": 0.634,
+    "method": "hybrid",
+    "group_size": 2,
+    "method_breakdown": {
+      "hybrid": 1
+    }
+  },
+  {
+    "group_id": "dup_103",
+    "products": [
+      "6f2357b6-78de-46da-8413-8c4fad36964a",
+      "d3ae49b1-ad69-4a73-a75f-fbb8757871a4"
+    ],
+    "confidence": 0.925,
+    "method": "embedding",
+    "group_size": 2,
+    "method_breakdown": {
+      "embedding": 1
+    }
+  },
+  {
+    "group_id": "dup_104",
+    "products": [
+      "c107f33b-2594-4b99-9eb0-584bd796cc7a",
+      "7e13131a-dcdd-43ab-8ab4-5d1d664923a2",
+      "eaa684dd-941f-4cb4-af2d-c89a938dd3c0",
+      "f5f16c56-7baf-446f-b095-875255367237"
+    ],
+    "confidence": 1.0,
+    "method": "embedding",
+    "group_size": 4,
+    "method_breakdown": {
+      "embedding": 3
+    }
+  },
+  {
+    "group_id": "dup_105",
+    "products": [
+      "f42cd610-ca78-467c-b734-dbfba9b2c4b7",
+      "a6271df3-23ab-4bff-be58-dbd36048b0fe"
+    ],
+    "confidence": 0.886,
+    "method": "embedding",
+    "group_size": 2,
+    "method_breakdown": {
+      "embedding": 1
+    }
+  },
+  {
+    "group_id": "dup_106",
+    "products": [
+      "160a966c-f02d-4d27-bee3-28a3c709d4c0",
+      "0e212d35-fb4f-4a18-8e96-75c7996b71fc",
+      "3cd47839-a5d7-4d2f-96cc-fb4dbebd8edf"
+    ],
+    "confidence": 0.925,
+    "method": "embedding",
+    "group_size": 3,
+    "method_breakdown": {
+      "embedding": 2
+    }
+  },
+  {
+    "group_id": "dup_107",
+    "products": [
+      "55a07177-2523-4a8e-83df-232dfa014ebf",
+      "31619672-68a5-4132-b6e7-420237e6b673"
+    ],
+    "confidence": 0.63,
+    "method": "hybrid",
+    "group_size": 2,
+    "method_breakdown": {
+      "hybrid": 1
+    }
+  },
+  {
+    "group_id": "dup_108",
+    "products": [
+      "851c7d60-3401-4296-9f02-79778b0ca7fd",
+      "8fc0e6a9-eb0b-4553-b655-6ea29f5834ca",
+      "dd66c7d9-d933-4443-a4f3-d3b0c908fcd0",
+      "5411f422-2d15-431c-bb83-664776346a7e"
+    ],
+    "confidence": 0.633,
+    "method": "rule_based",
+    "group_size": 4,
+    "method_breakdown": {
+      "rule_based": 3
+    }
+  },
+  {
+    "group_id": "dup_109",
+    "products": [
+      "15e4f2c0-0bae-4567-ab80-71e39eead927",
+      "4de0a80d-d6e8-45e8-baa4-15dc7854f8d0",
+      "d68af91f-5c49-4d5d-8383-83085885c30b"
+    ],
+    "confidence": 0.796,
+    "method": "hybrid",
+    "group_size": 3,
+    "method_breakdown": {
+      "embedding": 1,
+      "hybrid": 1
+    }
+  },
+  {
+    "group_id": "dup_110",
+    "products": [
+      "5c4abd8d-b672-4800-abbc-b7a6fa89f739",
+      "0b60354d-d0dc-4669-b4b6-fcbfb78f9352"
+    ],
+    "confidence": 0.925,
+    "method": "embedding",
+    "group_size": 2,
+    "method_breakdown": {
+      "embedding": 1
+    }
+  },
+  {
+    "group_id": "dup_111",
+    "products": [
+      "c27f1d4d-cd64-4a11-b111-525d571a185d",
+      "2ffd0f2b-fe6a-4c86-a142-cfaeb295e860",
+      "e8fd3464-25a4-4ca6-a215-3f39c64ad366",
+      "d099a08d-b075-497b-ba34-3b5c4e988160"
+    ],
+    "confidence": 0.763,
+    "method": "hybrid",
+    "group_size": 4,
+    "method_breakdown": {
+      "hybrid": 2,
+      "embedding": 1
+    }
+  },
+  {
+    "group_id": "dup_112",
+    "products": [
+      "50f22a57-520a-4521-8eaa-161a0d666d2d",
+      "a6a930ed-f00c-403a-ae49-86b067d11ab1"
+    ],
+    "confidence": 1.0,
+    "method": "embedding",
+    "group_size": 2,
+    "method_breakdown": {
+      "embedding": 1
+    }
+  },
+  {
+    "group_id": "dup_113",
+    "products": [
+      "fbbedec2-6813-4812-84b5-77770c363aeb",
+      "7c176c09-bbc6-465c-9751-186fd62b803f",
+      "838048e3-139d-4b74-9086-987e08355985"
+    ],
+    "confidence": 0.793,
+    "method": "hybrid",
+    "group_size": 3,
+    "method_breakdown": {
+      "rule_based": 1,
+      "embedding": 1
+    }
+  },
+  {
+    "group_id": "dup_114",
+    "products": [
+      "cfcdbb2a-1c16-471b-9290-3e252c0d75ce",
+      "b88283a7-e939-40ff-8ac9-29bfa4beab57"
+    ],
+    "confidence": 0.96,
+    "method": "embedding",
+    "group_size": 2,
+    "method_breakdown": {
+      "embedding": 1
+    }
+  },
+  {
+    "group_id": "dup_115",
+    "products": [
+      "c7308abe-9e0e-4976-82a3-2ca925b8d35f",
+      "d4192199-f2e5-4172-8839-e5f8b2631238"
+    ],
+    "confidence": 1.0,
+    "method": "embedding",
+    "group_size": 2,
+    "method_breakdown": {
+      "embedding": 1
+    }
+  },
+  {
+    "group_id": "dup_116",
+    "products": [
+      "ba6bab55-77ae-4acb-b22f-3f92adfdcb3c",
+      "4c03993a-bf1a-4ad8-98c4-94653fa227b9"
+    ],
+    "confidence": 0.925,
+    "method": "embedding",
+    "group_size": 2,
+    "method_breakdown": {
+      "embedding": 1
+    }
+  },
+  {
+    "group_id": "dup_117",
+    "products": [
+      "8c2a92ba-987d-42ba-8ba5-26ff6be2f58b",
+      "947ed5c0-2164-45bd-be30-b67d6853562c"
+    ],
+    "confidence": 0.623,
+    "method": "hybrid",
+    "group_size": 2,
+    "method_breakdown": {
+      "hybrid": 1
+    }
+  },
+  {
+    "group_id": "dup_118",
+    "products": [
+      "1c4c23b2-dcdc-4120-a86c-1b18c52d333b",
+      "9741b8a3-5439-4a75-9c4c-d891a149dfdf"
+    ],
+    "confidence": 0.713,
+    "method": "hybrid",
+    "group_size": 2,
+    "method_breakdown": {
+      "hybrid": 1
+    }
+  },
+  {
+    "group_id": "dup_119",
+    "products": [
+      "f76fb6df-e7eb-42af-b440-1dbcd2649c48",
+      "569fbcab-a86b-4143-ab91-46fc9bfb9d2e",
+      "99b357e7-2c1c-4312-a25b-58b1265f8af3"
+    ],
+    "confidence": 0.668,
+    "method": "hybrid",
+    "group_size": 3,
+    "method_breakdown": {
+      "hybrid": 2
+    }
+  },
+  {
+    "group_id": "dup_120",
+    "products": [
+      "736ffa60-af2a-4967-ac12-bb650dd0e0f8",
+      "016d1570-51f1-4e3e-a580-6bf759595e8e"
+    ],
+    "confidence": 0.954,
+    "method": "embedding",
+    "group_size": 2,
+    "method_breakdown": {
+      "embedding": 1
+    }
+  },
+  {
+    "group_id": "dup_121",
+    "products": [
+      "942c9f92-6924-4485-8557-eddde2b4f0b0",
+      "17a97ed1-1697-4372-b43d-010daf37692a",
+      "8f833b62-b515-4008-aac9-1546ef1badd1"
+    ],
+    "confidence": 1.0,
+    "method": "embedding",
+    "group_size": 3,
+    "method_breakdown": {
+      "embedding": 2
+    }
+  },
+  {
+    "group_id": "dup_122",
+    "products": [
+      "0e21dc90-bfde-4b43-9eb3-27d83c62b286",
+      "12141f12-63c4-4a19-885f-63e7a49d02ee",
+      "d5ab2721-b513-463d-9e6f-d8f09b5c0bad"
+    ],
+    "confidence": 0.614,
+    "method": "rule_based",
+    "group_size": 3,
+    "method_breakdown": {
+      "rule_based": 2
+    }
+  },
+  {
+    "group_id": "dup_123",
+    "products": [
+      "3389dab5-bac0-4902-91b8-83f78124fdee",
+      "74a27151-8c8c-47ab-b09b-e97df807a486"
+    ],
+    "confidence": 0.89,
+    "method": "embedding",
+    "group_size": 2,
+    "method_breakdown": {
+      "embedding": 1
+    }
+  },
+  {
+    "group_id": "dup_124",
+    "products": [
+      "5028cd31-d023-494f-9333-cf2f73890308",
+      "4bbc49f8-ef97-46aa-8216-9df405afe3aa"
+    ],
+    "confidence": 1.0,
+    "method": "embedding",
+    "group_size": 2,
+    "method_breakdown": {
+      "embedding": 1
+    }
+  },
+  {
+    "group_id": "dup_125",
+    "products": [
+      "b32d94e6-8ce1-459e-89cd-48abee03dab8",
+      "566ff6fc-a85b-4d7e-a1bc-e0fcfd2ffe64",
+      "0fb78532-c1f9-48a1-b9a3-fef186ee3786",
+      "1a8f9779-f427-4550-8b2c-27e4910abb76"
+    ],
+    "confidence": 0.929,
+    "method": "embedding",
+    "group_size": 4,
+    "method_breakdown": {
+      "embedding": 3
+    }
+  },
+  {
+    "group_id": "dup_126",
+    "products": [
+      "c0bb8485-aada-489b-983b-cf77d8456cca",
+      "b8025cea-6be4-4499-be28-6527428acdc9"
+    ],
+    "confidence": 0.61,
+    "method": "rule_based",
+    "group_size": 2,
+    "method_breakdown": {
+      "rule_based": 1
+    }
+  },
+  {
+    "group_id": "dup_127",
+    "products": [
+      "149462ad-2bc6-46ab-a514-dfdc8a481478",
+      "3e8d7c7f-5410-4d60-b25b-22122b540c7a"
+    ],
+    "confidence": 1.0,
+    "method": "embedding",
+    "group_size": 2,
+    "method_breakdown": {
+      "embedding": 1
+    }
+  },
+  {
+    "group_id": "dup_128",
+    "products": [
+      "a89b32db-3978-4c1f-8fc1-c76700ff2a99",
+      "39431a6a-aae5-4497-8ba9-c3a119d92bb4",
+      "8ff9e848-8717-49c6-8018-348c5edd2311",
+      "a27d6a65-24f3-415c-b758-c829d8bafe8e"
+    ],
+    "confidence": 0.852,
+    "method": "hybrid",
+    "group_size": 4,
+    "method_breakdown": {
+      "rule_based": 1,
+      "embedding": 2
+    }
+  },
+  {
+    "group_id": "dup_129",
+    "products": [
+      "510d090e-4e09-41fa-ab37-190ca63a8bfc",
+      "a1f5e0e7-aaaf-4d88-b4f0-5f59972116b5"
+    ],
+    "confidence": 0.604,
+    "method": "hybrid",
+    "group_size": 2,
+    "method_breakdown": {
+      "hybrid": 1
+    }
+  },
+  {
+    "group_id": "dup_130",
+    "products": [
+      "3a1d7e68-4435-48ff-a6a2-7df25a7d9161",
+      "73c48749-2923-4c09-b99a-de87019964d5",
+      "ee94cfc5-d892-4616-9db5-db23923b298d",
+      "86cfed23-f2c8-4473-9f82-476a7c45bbc6"
+    ],
+    "confidence": 0.671,
+    "method": "hybrid",
+    "group_size": 4,
+    "method_breakdown": {
+      "rule_based": 2,
+      "embedding": 1
+    }
+  },
+  {
+    "group_id": "dup_131",
+    "products": [
+      "58451c3f-def2-43f7-b851-a4fd688c1020",
+      "2b9d4e40-a5c4-4de5-ae2b-34ba862a3a27"
+    ],
+    "confidence": 0.95,
+    "method": "embedding",
+    "group_size": 2,
+    "method_breakdown": {
+      "embedding": 1
+    }
+  },
+  {
+    "group_id": "dup_132",
+    "products": [
+      "ac1ea8b2-3bcb-4c1e-a852-d8e6fc651f04",
+      "2bfc3d96-6287-42ab-b69c-c5341f4bf6b6",
+      "0b2eba13-96e1-45b5-a463-93359817f7b7",
+      "19b72ec3-230d-4a09-be86-b923dc3a2e56"
+    ],
+    "confidence": 0.768,
+    "method": "hybrid",
+    "group_size": 4,
+    "method_breakdown": {
+      "hybrid": 1,
+      "embedding": 2
+    }
+  },
+  {
+    "group_id": "dup_133",
+    "products": [
+      "ceca7a94-d5dc-4177-8305-9086e9076d35",
+      "aeb9a68c-0388-4c5f-9bee-9bacf0ca4316"
+    ],
+    "confidence": 0.786,
+    "method": "embedding",
+    "group_size": 2,
+    "method_breakdown": {
+      "embedding": 1
+    }
+  },
+  {
+    "group_id": "dup_134",
+    "products": [
+      "85ade0f2-1e5c-4cec-a7b8-7e12914f026c",
+      "7087093a-8728-4ce7-a83e-d3015827f3ee",
+      "f129a2e8-fd78-4bf6-95f6-97ea851ec4d8"
+    ],
+    "confidence": 0.975,
+    "method": "embedding",
+    "group_size": 3,
+    "method_breakdown": {
+      "embedding": 2
+    }
+  },
+  {
+    "group_id": "dup_135",
+    "products": [
+      "72e4a1a8-6364-474e-8098-0495ffb8a88f",
+      "4eb0459d-da53-485e-901b-5fa1ab58dc67"
+    ],
+    "confidence": 0.867,
+    "method": "embedding",
+    "group_size": 2,
+    "method_breakdown": {
+      "embedding": 1
+    }
+  },
+  {
+    "group_id": "dup_136",
+    "products": [
+      "4a0d0c2a-41d7-43b4-bf12-f622dd92ea43",
+      "9866efdd-2858-4d90-8670-27daa6640ceb"
+    ],
+    "confidence": 0.925,
+    "method": "embedding",
+    "group_size": 2,
+    "method_breakdown": {
+      "embedding": 1
+    }
+  },
+  {
+    "group_id": "dup_137",
+    "products": [
+      "6847ed3d-7811-49ef-b7b6-c11db03bd68d",
+      "3ba2d99a-fc80-4285-aeda-93e4eed65dc0",
+      "92285e78-e61e-41e2-beef-8840f16c60c4"
+    ],
+    "confidence": 0.69,
+    "method": "hybrid",
+    "group_size": 3,
+    "method_breakdown": {
+      "hybrid": 2
+    }
+  },
+  {
+    "group_id": "dup_138",
+    "products": [
+      "4ab00cc2-a7d7-4e46-9dfa-b0d0d9417b2b",
+      "f029e331-e4fc-493e-afd3-ca6a9ef64962"
+    ],
+    "confidence": 1.0,
+    "method": "embedding",
+    "group_size": 2,
+    "method_breakdown": {
+      "embedding": 1
+    }
+  },
+  {
+    "group_id": "dup_139",
+    "products": [
+      "55904112-883b-41ad-8165-1928f55dd47d",
+      "64e95dd1-c5bc-401a-a539-42683539b947"
+    ],
+    "confidence": 0.625,
+    "method": "hybrid",
+    "group_size": 2,
+    "method_breakdown": {
+      "hybrid": 1
+    }
+  },
+  {
+    "group_id": "dup_140",
+    "products": [
+      "baaf519c-032e-450e-9708-1e4dae091ff4",
+      "bf4856e6-b63d-4142-8e89-0588fd372b86"
+    ],
+    "confidence": 0.808,
+    "method": "embedding",
+    "group_size": 2,
+    "method_breakdown": {
+      "embedding": 1
+    }
+  },
+  {
+    "group_id": "dup_141",
+    "products": [
+      "a8226bee-7586-4b16-a99f-3e9714ceb7ed",
+      "e4b2b5e3-8133-4937-8aae-329708792123"
+    ],
+    "confidence": 0.869,
+    "method": "embedding",
+    "group_size": 2,
+    "method_breakdown": {
+      "embedding": 1
+    }
+  },
+  {
+    "group_id": "dup_142",
+    "products": [
+      "5a7a69de-f117-46e2-b3d5-37582ff9a9cd",
+      "9d70adb6-05a9-44d7-8618-7b941d12c2ef"
+    ],
+    "confidence": 0.607,
+    "method": "hybrid",
+    "group_size": 2,
+    "method_breakdown": {
+      "hybrid": 1
+    }
+  },
+  {
+    "group_id": "dup_143",
+    "products": [
+      "a67ab493-46c3-431f-b86e-622b091b1877",
+      "2cf38e57-0ede-4621-8aa7-95a20c2ea6bc"
+    ],
+    "confidence": 0.636,
+    "method": "hybrid",
+    "group_size": 2,
+    "method_breakdown": {
+      "hybrid": 1
+    }
+  },
+  {
+    "group_id": "dup_144",
+    "products": [
+      "eedbf84a-a71c-4f87-b2f6-284bf5a8ea06",
+      "c8c41adc-8d5b-46ca-b1e0-01ae4b1985b7"
+    ],
+    "confidence": 0.863,
+    "method": "embedding",
+    "group_size": 2,
+    "method_breakdown": {
+      "embedding": 1
+    }
+  },
+  {
+    "group_id": "dup_145",
+    "products": [
+      "7c1199be-0270-4a73-b200-99b6130079b2",
+      "288ad22b-56b9-4c31-b9e1-ec58591a1506",
+      "14c58e10-0c08-44b8-a8a2-76bbfe2d49d4"
+    ],
+    "confidence": 0.861,
+    "method": "embedding",
+    "group_size": 3,
+    "method_breakdown": {
+      "embedding": 2
+    }
+  },
+  {
+    "group_id": "dup_146",
+    "products": [
+      "0026b1e6-a20f-4775-a730-250aa908be60",
+      "3a97c923-7f17-4a70-9001-14ac74e54cfe"
+    ],
+    "confidence": 1.0,
+    "method": "embedding",
+    "group_size": 2,
+    "method_breakdown": {
+      "embedding": 1
+    }
+  },
+  {
+    "group_id": "dup_147",
+    "products": [
+      "c88304fb-8dcd-4001-b080-f3161e7a754a",
+      "c8b827bb-0863-4414-956d-a587fb79f2ea",
+      "895d4211-8c98-4998-871c-cf21c860077c"
+    ],
+    "confidence": 0.85,
+    "method": "embedding",
+    "group_size": 3,
+    "method_breakdown": {
+      "embedding": 2
+    }
+  }
+]

@@ -1,0 +1,1000 @@
+2026-02-15 14:04:58.080 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 1 warnings: APPLE SYNERGY 197 (Universal Edition)
+2026-02-15 14:04:58.085 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: asus moratorium 427 Pro
+2026-02-15 14:04:58.086 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Adidas intelligence 877 Pro
+2026-02-15 14:04:58.086 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: SONY SYSTEM 528
+2026-02-15 14:04:58.087 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: LOGITECH SOFTWARE 47
+2026-02-15 14:04:58.088 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: HP architecture 719
+2026-02-15 14:04:58.089 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: sennheiser solution 264 (Universal Edition)
+2026-02-15 14:04:58.090 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Xiaomi Network 706 (Universal Edition)
+2026-02-15 14:04:58.091 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: hp data-warehouse 663
+2026-02-15 14:04:58.092 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: sony project 284
+2026-02-15 14:04:58.093 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Sony hardware 124
+2026-02-15 14:04:58.093 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 1 warnings: samsung toolset 935
+2026-02-15 14:04:58.095 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 1 warnings: APPLE PROJECT 955 Pro
+2026-02-15 14:04:58.096 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: NIKE LINE 294
+2026-02-15 14:04:58.097 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Nike time-frame 856
+2026-02-15 14:04:58.098 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Dell firmware 117 (Universal Edition)
+2026-02-15 14:04:58.099 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Canon task-force 926
+2026-02-15 14:04:58.100 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 1 warnings: BOSE HELP-DESK 991
+2026-02-15 14:04:58.101 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Logitech Interface 168
+2026-02-15 14:04:58.102 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: LOGITECH CONGLOMERATION 618
+2026-02-15 14:04:58.103 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Logitech Interface 168
+2026-02-15 14:04:58.104 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 1 warnings: HP ANALYZER 274
+2026-02-15 14:04:58.106 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 2 warnings: Asus solution 910
+2026-02-15 14:04:58.107 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 1 warnings: Asus system 564
+2026-02-15 14:04:58.108 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: ADIDAS ANALYZER 182 (Universal Edition)
+2026-02-15 14:04:58.110 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 1 warnings: ASUS ENCRYPTION 184
+2026-02-15 14:04:58.111 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: lg set 284
+2026-02-15 14:04:58.112 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: BOSE LINE 360
+2026-02-15 14:04:58.113 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Samsung middleware 857
+2026-02-15 14:04:58.114 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Sennheiser implementation 656
+2026-02-15 14:04:58.115 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: APPLE INFRASTRUCTURE 993 Pro
+2026-02-15 14:04:58.117 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: SONY PRODUCTIVITY 946
+2026-02-15 14:04:58.118 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: HP matrices 352
+2026-02-15 14:04:58.119 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 2 warnings: Asus groupware 846
+2026-02-15 14:04:58.120 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: MICROSOFT FUNCTION 935 Pro
+2026-02-15 14:04:58.121 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: ASUS INSTALLATION 512
+2026-02-15 14:04:58.122 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: DELL PARADIGM 630
+2026-02-15 14:04:58.123 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: SENNHEISER USER 268
+2026-02-15 14:04:58.125 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 1 warnings: microsoft orchestration 993
+2026-02-15 14:04:58.126 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Adidas extranet 933
+2026-02-15 14:04:58.127 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Adidas capability 273
+2026-02-15 14:04:58.128 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 1 warnings: lg system 893
+2026-02-15 14:04:58.130 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: HP matrices 32
+2026-02-15 14:04:58.131 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 1 warnings: logitech project 794
+2026-02-15 14:04:58.132 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 1 warnings: Asus hardware 931
+2026-02-15 14:04:58.133 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: SAMSUNG PRODUCT 485 (Universal Edition)
+2026-02-15 14:04:58.135 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 2 warnings: Asus groupware 846
+2026-02-15 14:04:58.136 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Dell function 953
+2026-02-15 14:04:58.137 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: HP contingency 592
+2026-02-15 14:04:58.138 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: adidas productivity 235
+2026-02-15 14:04:58.139 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Sony capability 520
+2026-02-15 14:04:58.141 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 1 warnings: SENNHEISER KNOWLEDGEBASE 891
+2026-02-15 14:04:58.142 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: ADIDAS BENCHMARK 752
+2026-02-15 14:04:58.143 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Sennheiser collaboration 801
+2026-02-15 14:04:58.144 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Bose middleware 218
+2026-02-15 14:04:58.145 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: ASUS FLEXIBILITY 531 Pro
+2026-02-15 14:04:58.146 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Microsoft knowledgebase 390 Pro
+2026-02-15 14:04:58.147 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 2 warnings: Nike extranet 244
+2026-02-15 14:04:58.148 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: LG alliance 840
+2026-02-15 14:04:58.149 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: samsung installation 315 Pro
+2026-02-15 14:04:58.150 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 1 warnings: XIAOMI ENCRYPTION 98
+2026-02-15 14:04:58.151 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Nike ability 297
+2026-02-15 14:04:58.152 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: xiaomi interface 117
+2026-02-15 14:04:58.152 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Samsung groupware 612 Pro
+2026-02-15 14:04:58.153 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 1 warnings: lg set 284 Pro
+2026-02-15 14:04:58.154 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: asus interface 769
+2026-02-15 14:04:58.155 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: CANON MIGRATION 332 (Universal Edition)
+2026-02-15 14:04:58.156 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 2 warnings: HP paradigm 291
+2026-02-15 14:04:58.158 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: hp definition 244
+2026-02-15 14:04:58.159 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 3 warnings: Canon firmware 378 Pro
+2026-02-15 14:04:58.160 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Sony migration 664
+2026-02-15 14:04:58.162 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: CANON ALGORITHM 443 Pro
+2026-02-15 14:04:58.163 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: SAMSUNG CAPABILITY 637 (Universal Edition)
+2026-02-15 14:04:58.165 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: SAMSUNG LEVERAGE 109 (Universal Edition)
+2026-02-15 14:04:58.167 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: nike synergy 891 Pro
+2026-02-15 14:04:58.168 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Logitech user 696 Pro
+2026-02-15 14:04:58.169 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Asus encryption 184
+2026-02-15 14:04:58.170 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: NIKE ALLIANCE 634
+2026-02-15 14:04:58.171 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 1 warnings: LG groupware 949 Pro
+2026-02-15 14:04:58.173 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 1 warnings: lg infrastructure 651
+2026-02-15 14:04:58.174 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 1 warnings: lg productivity 326 Pro
+2026-02-15 14:04:58.176 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: SAMSUNG SET 641
+2026-02-15 14:04:58.177 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: ASUS INTERFACE 769
+2026-02-15 14:04:58.184 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Bose intranet 230
+2026-02-15 14:04:58.185 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: SAMSUNG HIERARCHY 767
+2026-02-15 14:04:58.187 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 2 warnings: Bose approach 931
+2026-02-15 14:04:58.188 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 2 warnings: Bose synergy 451 Pro
+2026-02-15 14:04:58.190 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 2 warnings: Asus matrix 533 Pro
+2026-02-15 14:04:58.191 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: adidas complexity 865 Pro
+2026-02-15 14:04:58.192 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: LG ARCHIVE 830
+2026-02-15 14:04:58.193 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 1 warnings: HP contingency 592
+2026-02-15 14:04:58.194 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Asus initiative 520
+2026-02-15 14:04:58.196 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Sony moderator 526
+2026-02-15 14:04:58.197 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: nike protocol 977 Pro
+2026-02-15 14:04:58.198 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: SENNHEISER INSTALLATION 801
+2026-02-15 14:04:58.200 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Logitech standardization 88
+2026-02-15 14:04:58.201 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: SENNHEISER IMPLEMENTATION 656 Pro
+2026-02-15 14:04:58.202 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: xiaomi engine 40 Pro
+2026-02-15 14:04:58.204 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: XIAOMI HUB 436
+2026-02-15 14:04:58.205 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: SAMSUNG TOOLSET 935
+2026-02-15 14:04:58.206 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Xiaomi loyalty 296
+2026-02-15 14:04:58.208 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: asus protocol 402
+2026-02-15 14:04:58.209 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 1 warnings: Nike intelligence 605
+2026-02-15 14:04:58.211 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: NIKE ALLIANCE 914
+2026-02-15 14:04:58.212 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 2 warnings: Bose structure 682 Pro
+2026-02-15 14:04:58.214 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 1 warnings: Canon Interface 667
+2026-02-15 14:04:58.215 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: sony initiative 747
+2026-02-15 14:04:58.216 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: SAMSUNG POLICY 670
+2026-02-15 14:04:58.218 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 1 warnings: ASUS ARCHITECTURE 771 Pro
+2026-02-15 14:04:58.219 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: adidas array 518
+2026-02-15 14:04:58.221 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 1 warnings: adidas utilization 310
+2026-02-15 14:04:58.223 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: XIAOMI ENCODING 865
+2026-02-15 14:04:58.224 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 2 warnings: Canon functionalities 361
+2026-02-15 14:04:58.226 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Bose success 651 Pro
+2026-02-15 14:04:58.227 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: ADIDAS LOYALTY 227
+2026-02-15 14:04:58.229 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Apple task-force 657
+2026-02-15 14:04:58.230 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: HP ATTITUDE 138
+2026-02-15 14:04:58.231 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: DELL SOFTWARE 849
+2026-02-15 14:04:58.233 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Samsung software 474
+2026-02-15 14:04:58.234 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Sennheiser extranet 182 (Universal Edition)
+2026-02-15 14:04:58.235 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 2 warnings: HP interface 428
+2026-02-15 14:04:58.237 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: microsoft paradigm 61
+2026-02-15 14:04:58.239 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 1 warnings: Sennheiser loyalty 832 Pro
+2026-02-15 14:04:58.241 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: bose group 700
+2026-02-15 14:04:58.242 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: HP DATABASE 678
+2026-02-15 14:04:58.243 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Sennheiser product 133
+2026-02-15 14:04:58.245 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: ADIDAS MONITORING 618
+2026-02-15 14:04:58.246 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 1 warnings: adidas benchmark 752
+2026-02-15 14:04:58.248 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 2 warnings: LG alliance 840
+2026-02-15 14:04:58.250 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: sennheiser user 268
+2026-02-15 14:04:58.251 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Adidas strategy 346 Pro
+2026-02-15 14:04:58.252 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Logitech time-frame 363
+2026-02-15 14:04:58.253 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Dell success 702
+2026-02-15 14:04:58.255 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: BOSE CORE 228
+2026-02-15 14:04:58.256 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Microsoft definition 139
+2026-02-15 14:04:58.257 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: BOSE PARALLELISM 741
+2026-02-15 14:04:58.258 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: HP group 600 Pro
+2026-02-15 14:04:58.260 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Asus methodology 866
+2026-02-15 14:04:58.261 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: HP FUNCTION 101
+2026-02-15 14:04:58.262 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: xiaomi framework 591
+2026-02-15 14:04:58.263 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Adidas analyzer 182
+2026-02-15 14:04:58.264 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: canon attitude 886
+2026-02-15 14:04:58.265 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: ASUS STRUCTURE 271
+2026-02-15 14:04:58.267 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: DELL FRAME 950
+2026-02-15 14:04:58.268 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 2 warnings: Dell utilization 754 Pro
+2026-02-15 14:04:58.269 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 2 warnings: Nike leverage 622 Pro
+2026-02-15 14:04:58.271 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: XIAOMI APPLICATION 134
+2026-02-15 14:04:58.272 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: hp structure 564
+2026-02-15 14:04:58.273 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: asus alliance 30
+2026-02-15 14:04:58.275 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Dell function 953 (Universal Edition)
+2026-02-15 14:04:58.276 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Nike hub 498
+2026-02-15 14:04:58.277 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Xiaomi model 770
+2026-02-15 14:04:58.278 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: BOSE IMPROVEMENT 239
+2026-02-15 14:04:58.279 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 2 warnings: Sennheiser set 795 Pro
+2026-02-15 14:04:58.281 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Canon monitoring 218
+2026-02-15 14:04:58.282 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: sony standardization 152 Pro
+2026-02-15 14:04:58.283 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: dell benchmark 649
+2026-02-15 14:04:58.288 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 1 warnings: ADIDAS MONITORING 296 Pro
+2026-02-15 14:04:58.290 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Sennheiser application 513
+2026-02-15 14:04:58.292 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 1 warnings: Xiaomi loyalty 562
+2026-02-15 14:04:58.295 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: NIKE ORCHESTRATION 731 Pro
+2026-02-15 14:04:58.296 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 1 warnings: DELL BENCHMARK 649
+2026-02-15 14:04:58.298 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Microsoft capability 378
+2026-02-15 14:04:58.299 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: sony matrix 670 Pro
+2026-02-15 14:04:58.301 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 3 warnings: Asus group 381
+2026-02-15 14:04:58.304 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: HP function 553
+2026-02-15 14:04:58.306 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: ASUS MORATORIUM 908
+2026-02-15 14:04:58.307 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: SAMSUNG CORE 824
+2026-02-15 14:04:58.308 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Sony policy 906 (Universal Edition)
+2026-02-15 14:04:58.309 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 2 warnings: Bose structure 682
+2026-02-15 14:04:58.312 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: LOGITECH KNOWLEDGEBASE 14
+2026-02-15 14:04:58.313 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 1 warnings: Logitech middleware 542
+2026-02-15 14:04:58.315 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 1 warnings: LG ALGORITHM 628
+2026-02-15 14:04:58.317 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Samsung policy 472
+2026-02-15 14:04:58.318 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: logitech adapter 810
+2026-02-15 14:04:58.319 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Nike productivity 656 Pro
+2026-02-15 14:04:58.320 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Microsoft concept 399 Pro
+2026-02-15 14:04:58.321 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: lg archive 830
+2026-02-15 14:04:58.322 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: LOGITECH POLICY 64
+2026-02-15 14:04:58.324 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: SENNHEISER PRODUCT 133
+2026-02-15 14:04:58.325 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Nike access 791
+2026-02-15 14:04:58.326 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: HP data-warehouse 663
+2026-02-15 14:04:58.327 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Sony productivity 946
+2026-02-15 14:04:58.328 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Nike database 192 Pro
+2026-02-15 14:04:58.329 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 2 warnings: Asus ability 443
+2026-02-15 14:04:58.331 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Nike alliance 634
+2026-02-15 14:04:58.331 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Microsoft user 651
+2026-02-15 14:04:58.332 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: ADIDAS PARADIGM 352
+2026-02-15 14:04:58.333 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Apple task-force 657
+2026-02-15 14:04:58.334 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: ASUS POLICY 107
+2026-02-15 14:04:58.335 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Apple time-frame 701
+2026-02-15 14:04:58.336 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: ADIDAS SUPPORT 462
+2026-02-15 14:04:58.337 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: bose application 496
+2026-02-15 14:04:58.338 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 2 warnings: HP policy 772
+2026-02-15 14:04:58.340 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 1 warnings: Logitech capacity 965
+2026-02-15 14:04:58.342 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 1 warnings: HP INFRASTRUCTURE 882
+2026-02-15 14:04:58.344 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Asus attitude 50 Pro
+2026-02-15 14:04:58.345 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: SENNHEISER THROUGHPUT 900 Pro
+2026-02-15 14:04:58.347 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Nike firmware 567
+2026-02-15 14:04:58.347 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 1 warnings: HP conglomeration 628
+2026-02-15 14:04:58.349 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: microsoft leverage 801 Pro
+2026-02-15 14:04:58.350 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Xiaomi user 473
+2026-02-15 14:04:58.351 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Logitech portal 118
+2026-02-15 14:04:58.352 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Sennheiser ability 746 (Universal Edition)
+2026-02-15 14:04:58.352 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Xiaomi approach 327 (Universal Edition)
+2026-02-15 14:04:58.354 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 2 warnings: Nike moderator 865
+2026-02-15 14:04:58.355 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: ASUS IMPLEMENTATION 295
+2026-02-15 14:04:58.357 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: LG set 529 Pro
+2026-02-15 14:04:58.358 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: sennheiser capability 687
+2026-02-15 14:04:58.359 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: BOSE CORE 228
+2026-02-15 14:04:58.360 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: DELL UTILIZATION 86
+2026-02-15 14:04:58.361 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: bose intranet 230 Pro
+2026-02-15 14:04:58.362 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 1 warnings: samsung leverage 109
+2026-02-15 14:04:58.364 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: SENNHEISER IMPLEMENTATION 656
+2026-02-15 14:04:58.366 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Adidas paradigm 352
+2026-02-15 14:04:58.367 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Nike middleware 541
+2026-02-15 14:04:58.368 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: MICROSOFT LEVERAGE 166
+2026-02-15 14:04:58.369 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: DELL MIDDLEWARE 634
+2026-02-15 14:04:58.371 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: SONY FUNCTIONALITIES 545
+2026-02-15 14:04:58.371 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 2 warnings: Adidas productivity 235 Pro
+2026-02-15 14:04:58.373 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Asus methodology 866
+2026-02-15 14:04:58.375 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 1 warnings: NIKE CONTINGENCY 357 Pro
+2026-02-15 14:04:58.376 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Asus middleware 968 Pro
+2026-02-15 14:04:58.378 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: sennheiser product 133
+2026-02-15 14:04:58.379 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 2 warnings: Microsoft user 651 (Universal Edition)
+2026-02-15 14:04:58.380 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Nike software 718
+2026-02-15 14:04:58.382 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Logitech middleware 542
+2026-02-15 14:04:58.383 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 1 warnings: nike moratorium 271
+2026-02-15 14:04:58.385 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: HP matrices 352 Pro
+2026-02-15 14:04:58.386 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 2 warnings: LG project 466 Pro
+2026-02-15 14:04:58.388 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 1 warnings: microsoft projection 970
+2026-02-15 14:04:58.389 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: adidas loyalty 227
+2026-02-15 14:04:58.391 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: DELL ADAPTER 930 Pro
+2026-02-15 14:04:58.392 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Adidas analyzer 161
+2026-02-15 14:04:58.400 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 2 warnings: HP flexibility 376
+2026-02-15 14:04:58.402 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: hp attitude 138
+2026-02-15 14:04:58.404 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: canon challenge 39
+2026-02-15 14:04:58.405 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: ASUS PROTOCOL 803
+2026-02-15 14:04:58.408 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: SONY SOLUTION 447
+2026-02-15 14:04:58.409 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: dell policy 667
+2026-02-15 14:04:58.411 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: DELL ADAPTER 930 (Universal Edition)
+2026-02-15 14:04:58.412 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 2 warnings: Adidas standardization 299 Pro
+2026-02-15 14:04:58.414 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 1 warnings: lg moratorium 84 (Universal Edition)
+2026-02-15 14:04:58.415 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: ASUS PROTOCOL 780
+2026-02-15 14:04:58.417 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: dell model 954
+2026-02-15 14:04:58.418 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: lg model 556
+2026-02-15 14:04:58.419 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 2 warnings: Nike Network 768
+2026-02-15 14:04:58.421 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 1 warnings: Logitech capacity 569
+2026-02-15 14:04:58.424 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Sony knowledgebase 563 Pro
+2026-02-15 14:04:58.425 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: LG CONCEPT 792 (Universal Edition)
+2026-02-15 14:04:58.426 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Samsung contingency 417
+2026-02-15 14:04:58.427 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Adidas extranet 791
+2026-02-15 14:04:58.429 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Asus framework 516
+2026-02-15 14:04:58.430 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: asus workforce 446
+2026-02-15 14:04:58.431 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: DELL INSTALLATION 129
+2026-02-15 14:04:58.432 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Logitech installation 169
+2026-02-15 14:04:58.434 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 1 warnings: asus matrix 533
+2026-02-15 14:04:58.435 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Dell model 954
+2026-02-15 14:04:58.436 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 1 warnings: HP architecture 903
+2026-02-15 14:04:58.438 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: logitech standardization 946
+2026-02-15 14:04:58.440 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: MICROSOFT HUB 540
+2026-02-15 14:04:58.441 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: bose moratorium 89
+2026-02-15 14:04:58.442 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 2 warnings: Dell structure 495
+2026-02-15 14:04:58.444 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: SAMSUNG POLICY 670
+2026-02-15 14:04:58.445 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: BOSE MONITORING 112
+2026-02-15 14:04:58.446 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 2 warnings: Dell utilization 86
+2026-02-15 14:04:58.448 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: LG SET 341 (Universal Edition)
+2026-02-15 14:04:58.449 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: ADIDAS GROUPWARE 253
+2026-02-15 14:04:58.450 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 1 warnings: sony archive 357
+2026-02-15 14:04:58.452 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Canon workforce 381
+2026-02-15 14:04:58.453 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Samsung functionalities 393 Pro
+2026-02-15 14:04:58.455 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: LG groupware 949
+2026-02-15 14:04:58.456 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Samsung alliance 987
+2026-02-15 14:04:58.458 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: hp emulation 227
+2026-02-15 14:04:58.459 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: lg infrastructure 737
+2026-02-15 14:04:58.460 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Bose workforce 402 Pro
+2026-02-15 14:04:58.461 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: SONY MODERATOR 526
+2026-02-15 14:04:58.463 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 1 warnings: logitech encryption 795
+2026-02-15 14:04:58.464 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: logitech protocol 247
+2026-02-15 14:04:58.465 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Canon task-force 926 Pro
+2026-02-15 14:04:58.467 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: SONY PROJECT 284
+2026-02-15 14:04:58.468 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: SONY METHODOLOGY 638
+2026-02-15 14:04:58.469 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: SENNHEISER TIME-FRAME 973
+2026-02-15 14:04:58.470 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 1 warnings: HP function 101
+2026-02-15 14:04:58.472 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Nike model 784
+2026-02-15 14:04:58.474 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: xiaomi engine 40 Pro
+2026-02-15 14:04:58.475 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: samsung intelligence 766
+2026-02-15 14:04:58.476 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: SENNHEISER FRAMEWORK 769 Pro
+2026-02-15 14:04:58.477 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: DELL ACCESS 692 Pro
+2026-02-15 14:04:58.478 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: HP data-warehouse 663
+2026-02-15 14:04:58.478 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: BOSE MORATORIUM 89 Pro
+2026-02-15 14:04:58.479 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Asus interface 763
+2026-02-15 14:04:58.480 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Dell model 954
+2026-02-15 14:04:58.481 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Adidas monitoring 296
+2026-02-15 14:04:58.482 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: LG management 321 Pro
+2026-02-15 14:04:58.483 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: ADIDAS ENCRYPTION 400
+2026-02-15 14:04:58.484 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 2 warnings: Xiaomi engine 40 Pro
+2026-02-15 14:04:58.485 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: nike conglomeration 909
+2026-02-15 14:04:58.486 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Adidas moderator 275 Pro
+2026-02-15 14:04:58.488 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: BOSE MANAGEMENT 234
+2026-02-15 14:04:58.489 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 2 warnings: Bose workforce 402
+2026-02-15 14:04:58.491 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 2 warnings: Sony attitude 715
+2026-02-15 14:04:58.492 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: asus protocol 402
+2026-02-15 14:04:58.493 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 1 warnings: adidas intelligence 877
+2026-02-15 14:04:58.494 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Apple analyzer 428 Pro
+2026-02-15 14:04:58.495 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Bose installation 957
+2026-02-15 14:04:58.496 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: SONY ATTITUDE 996
+2026-02-15 14:04:58.497 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: HP conglomeration 628
+2026-02-15 14:04:58.498 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Adidas support 462 Pro
+2026-02-15 14:04:58.499 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: nike synergy 891
+2026-02-15 14:04:58.500 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Nike moderator 865
+2026-02-15 14:04:58.501 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: hp conglomeration 628
+2026-02-15 14:04:58.502 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Microsoft projection 970
+2026-02-15 14:04:58.503 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Sony website 220
+2026-02-15 14:04:58.504 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Nike matrices 142
+2026-02-15 14:04:58.505 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: LOGITECH CONGLOMERATION 618 (Universal Edition)
+2026-02-15 14:04:58.511 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: BOSE FRAME 157
+2026-02-15 14:04:58.512 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 1 warnings: Adidas analyzer 182
+2026-02-15 14:04:58.514 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Apple firmware 48
+2026-02-15 14:04:58.515 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Xiaomi engine 40
+2026-02-15 14:04:58.516 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: HP PRODUCT 77
+2026-02-15 14:04:58.518 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: samsung time-frame 245
+2026-02-15 14:04:58.519 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: xiaomi data-warehouse 382
+2026-02-15 14:04:58.520 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 1 warnings: SAMSUNG TOOLSET 935
+2026-02-15 14:04:58.522 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Logitech matrices 151
+2026-02-15 14:04:58.524 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 2 warnings: Microsoft emulation 160
+2026-02-15 14:04:58.526 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Microsoft circuit 116
+2026-02-15 14:04:58.527 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: ADIDAS PRODUCTIVITY 235
+2026-02-15 14:04:58.528 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Nike migration 678 (Universal Edition)
+2026-02-15 14:04:58.530 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 2 warnings: DELL INFO-MEDIARIES 513
+2026-02-15 14:04:58.532 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: SAMSUNG GROUP 351
+2026-02-15 14:04:58.533 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 2 warnings: Xiaomi Network 538 Pro
+2026-02-15 14:04:58.535 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: SONY ATTITUDE 996
+2026-02-15 14:04:58.536 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Samsung architecture 546
+2026-02-15 14:04:58.537 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 1 warnings: Sennheiser architecture 969
+2026-02-15 14:04:58.539 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: lg installation 699
+2026-02-15 14:04:58.540 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 1 warnings: bose standardization 559
+2026-02-15 14:04:58.542 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: dell methodology 551
+2026-02-15 14:04:58.544 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 2 warnings: Canon extranet 726
+2026-02-15 14:04:58.545 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: sony utilization 603
+2026-02-15 14:04:58.547 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: lg installation 699 Pro
+2026-02-15 14:04:58.548 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 1 warnings: Adidas complexity 865
+2026-02-15 14:04:58.550 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: xiaomi methodology 829
+2026-02-15 14:04:58.552 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: sony contingency 554 (Universal Edition)
+2026-02-15 14:04:58.554 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Apple structure 986
+2026-02-15 14:04:58.556 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Sennheiser standardization 789
+2026-02-15 14:04:58.558 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Nike firmware 567
+2026-02-15 14:04:58.559 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: samsung alliance 987
+2026-02-15 14:04:58.561 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 1 warnings: Xiaomi info-mediaries 580
+2026-02-15 14:04:58.563 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: asus system 564
+2026-02-15 14:04:58.565 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: ASUS PROJECTION 957
+2026-02-15 14:04:58.566 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: LOGITECH ENCRYPTION 795 Pro
+2026-02-15 14:04:58.569 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: dell orchestration 554
+2026-02-15 14:04:58.570 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: sennheiser installation 801
+2026-02-15 14:04:58.572 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Samsung capability 637 Pro
+2026-02-15 14:04:58.573 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: HP TASK-FORCE 378
+2026-02-15 14:04:58.575 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: SONY POLICY 906
+2026-02-15 14:04:58.576 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: LG INFRASTRUCTURE 651
+2026-02-15 14:04:58.577 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: LOGITECH PROJECT 794
+2026-02-15 14:04:58.579 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: microsoft leverage 166
+2026-02-15 14:04:58.580 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Samsung toolset 672
+2026-02-15 14:04:58.581 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: canon firmware 621 (Universal Edition)
+2026-02-15 14:04:58.583 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Canon attitude 886
+2026-02-15 14:04:58.584 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: nike alliance 634
+2026-02-15 14:04:58.585 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: hp definition 244 Pro
+2026-02-15 14:04:58.587 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Bose projection 637
+2026-02-15 14:04:58.588 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Sony capability 520
+2026-02-15 14:04:58.589 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: LG set 529
+2026-02-15 14:04:58.591 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: NIKE FRAME 592 Pro
+2026-02-15 14:04:58.592 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: LG GROUP 296
+2026-02-15 14:04:58.593 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 1 warnings: Logitech info-mediaries 793 Pro
+2026-02-15 14:04:58.596 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: BOSE STRUCTURE 682 (Universal Edition)
+2026-02-15 14:04:58.597 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: apple group 651
+2026-02-15 14:04:58.600 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: dell product 801
+2026-02-15 14:04:58.602 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: adidas throughput 804
+2026-02-15 14:04:58.603 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 1 warnings: APPLE WORKFORCE 591
+2026-02-15 14:04:58.606 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: nike groupware 316
+2026-02-15 14:04:58.607 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Dell methodology 551
+2026-02-15 14:04:58.610 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Microsoft framework 552 Pro
+2026-02-15 14:04:58.611 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Samsung core 824 Pro
+2026-02-15 14:04:58.617 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: canon toolset 45
+2026-02-15 14:04:58.618 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: BOSE DATA-WAREHOUSE 605 (Universal Edition)
+2026-02-15 14:04:58.621 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Bose product 90
+2026-02-15 14:04:58.622 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: ADIDAS SERVICE-DESK 339
+2026-02-15 14:04:58.623 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: DELL SYSTEM 202
+2026-02-15 14:04:58.624 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: SAMSUNG TOOLSET 672
+2026-02-15 14:04:58.626 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Xiaomi data-warehouse 382 Pro
+2026-02-15 14:04:58.626 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 2 warnings: Sennheiser solution 264 Pro
+2026-02-15 14:04:58.628 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: APPLE EXTRANET 389
+2026-02-15 14:04:58.629 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: LOGITECH USER 696
+2026-02-15 14:04:58.630 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Dell methodology 551
+2026-02-15 14:04:58.631 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Bose workforce 402
+2026-02-15 14:04:58.632 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 1 warnings: Bose data-warehouse 21
+2026-02-15 14:04:58.633 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 2 warnings: Bose application 496
+2026-02-15 14:04:58.634 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: SAMSUNG CORE 824
+2026-02-15 14:04:58.635 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: sony archive 357
+2026-02-15 14:04:58.636 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Adidas moderator 177
+2026-02-15 14:04:58.637 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 3 warnings: Logitech installation 834
+2026-02-15 14:04:58.639 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: LG monitoring 472 Pro
+2026-02-15 14:04:58.640 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Microsoft moderator 339
+2026-02-15 14:04:58.642 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 1 warnings: MICROSOFT PARADIGM 349
+2026-02-15 14:04:58.643 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 2 warnings: Bose archive 860
+2026-02-15 14:04:58.644 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: canon benchmark 625
+2026-02-15 14:04:58.645 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: SAMSUNG PRODUCT 485
+2026-02-15 14:04:58.647 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 1 warnings: ASUS ALLIANCE 30 (Universal Edition)
+2026-02-15 14:04:58.648 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Sennheiser product 133
+2026-02-15 14:04:58.650 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Bose line 360
+2026-02-15 14:04:58.651 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 2 warnings: HP infrastructure 882
+2026-02-15 14:04:58.653 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 1 warnings: Apple user 171
+2026-02-15 14:04:58.654 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 1 warnings: Xiaomi productivity 367
+2026-02-15 14:04:58.656 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: dell data-warehouse 751
+2026-02-15 14:04:58.657 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Adidas access 568
+2026-02-15 14:04:58.659 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: HP infrastructure 368
+2026-02-15 14:04:58.660 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: XIAOMI HARDWARE 699
+2026-02-15 14:04:58.662 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Apple management 453
+2026-02-15 14:04:58.663 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: LG Interface 835
+2026-02-15 14:04:58.664 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: LG Interface 835
+2026-02-15 14:04:58.665 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Asus implementation 295 (Universal Edition)
+2026-02-15 14:04:58.667 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 2 warnings: Logitech intranet 376
+2026-02-15 14:04:58.669 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Asus group 381
+2026-02-15 14:04:58.670 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: nike synergy 130
+2026-02-15 14:04:58.671 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: adidas analyzer 161 (Universal Edition)
+2026-02-15 14:04:58.673 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 2 warnings: HP matrices 32
+2026-02-15 14:04:58.675 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Sony solution 632
+2026-02-15 14:04:58.676 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Apple policy 503
+2026-02-15 14:04:58.677 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: asus hardware 493 Pro
+2026-02-15 14:04:58.679 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: APPLE COMPLEXITY 197 Pro
+2026-02-15 14:04:58.680 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: SONY MIGRATION 664 Pro
+2026-02-15 14:04:58.681 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: BOSE CONCEPT 456
+2026-02-15 14:04:58.683 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 2 warnings: Sony data-warehouse 589
+2026-02-15 14:04:58.685 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: XIAOMI SOLUTION 306
+2026-02-15 14:04:58.686 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 2 warnings: Samsung archive 432
+2026-02-15 14:04:58.688 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Microsoft hardware 215 Pro
+2026-02-15 14:04:58.689 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 1 warnings: Asus interface 763 Pro
+2026-02-15 14:04:58.691 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 2 warnings: Sony ability 368
+2026-02-15 14:04:58.693 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 1 warnings: hp system 892 Pro
+2026-02-15 14:04:58.695 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: LG ALLIANCE 840 (Universal Edition)
+2026-02-15 14:04:58.696 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Apple throughput 331
+2026-02-15 14:04:58.697 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: bose initiative 508
+2026-02-15 14:04:58.699 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: SONY POLICY 906
+2026-02-15 14:04:58.700 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: BOSE LINE 360
+2026-02-15 14:04:58.702 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Bose emulation 221
+2026-02-15 14:04:58.703 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: SONY INSTALLATION 41
+2026-02-15 14:04:58.704 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: canon contingency 766
+2026-02-15 14:04:58.706 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: SENNHEISER SOLUTION 264
+2026-02-15 14:04:58.707 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Nike software 718
+2026-02-15 14:04:58.708 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: samsung success 140
+2026-02-15 14:04:58.710 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: xiaomi software 217
+2026-02-15 14:04:58.711 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: asus monitoring 170
+2026-02-15 14:04:58.713 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 1 warnings: ASUS EMULATION 120
+2026-02-15 14:04:58.714 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Apple user 171
+2026-02-15 14:04:58.716 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: LG interface 288 Pro
+2026-02-15 14:04:58.717 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Dell adapter 930
+2026-02-15 14:04:58.726 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: HP DEFINITION 202
+2026-02-15 14:04:58.728 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: sony database 930
+2026-02-15 14:04:58.729 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: HP STRUCTURE 564
+2026-02-15 14:04:58.732 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: bose data-warehouse 605 Pro
+2026-02-15 14:04:58.733 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: sony data-warehouse 589
+2026-02-15 14:04:58.738 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Samsung archive 864 Pro
+2026-02-15 14:04:58.744 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Microsoft intelligence 765
+2026-02-15 14:04:58.745 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 1 warnings: Adidas Interface 885
+2026-02-15 14:04:58.754 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Microsoft encryption 105 (Universal Edition)
+2026-02-15 14:04:58.756 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 1 warnings: NIKE MODERATOR 865 (Universal Edition)
+2026-02-15 14:04:58.758 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 2 warnings: Samsung toolset 935
+2026-02-15 14:04:58.760 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 1 warnings: Asus attitude 50 Pro
+2026-02-15 14:04:58.762 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 1 warnings: CANON FRAME 366
+2026-02-15 14:04:58.764 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: canon interface 721
+2026-02-15 14:04:58.765 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: HP INTERFACE 428
+2026-02-15 14:04:58.767 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: NIKE MODERATOR 865
+2026-02-15 14:04:58.768 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: nike time-frame 856
+2026-02-15 14:04:58.770 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: SONY ABILITY 368
+2026-02-15 14:04:58.772 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: bose monitoring 112
+2026-02-15 14:04:58.773 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: SONY FORECAST 828
+2026-02-15 14:04:58.775 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Sony time-frame 854
+2026-02-15 14:04:58.777 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Bose architecture 595
+2026-02-15 14:04:58.778 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 1 warnings: ADIDAS COMPLEXITY 865
+2026-02-15 14:04:58.780 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: ADIDAS STRATEGY 511 Pro
+2026-02-15 14:04:58.781 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 1 warnings: ASUS POLICY 107 (Universal Edition)
+2026-02-15 14:04:58.782 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Asus complexity 647 Pro
+2026-02-15 14:04:58.783 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Logitech hub 839
+2026-02-15 14:04:58.784 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: CANON NEURAL-NET 43 (Universal Edition)
+2026-02-15 14:04:58.786 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: nike array 244 Pro
+2026-02-15 14:04:58.787 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 2 warnings: Sony system 528
+2026-02-15 14:04:58.788 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: asus matrix 533
+2026-02-15 14:04:58.790 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: HP MATRICES 352
+2026-02-15 14:04:58.791 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Bose productivity 52
+2026-02-15 14:04:58.792 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Bose product 90
+2026-02-15 14:04:58.793 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 2 warnings: Sennheiser parallelism 872 Pro
+2026-02-15 14:04:58.795 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 1 warnings: hp attitude 138
+2026-02-15 14:04:58.797 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 1 warnings: SAMSUNG SUCCESS 140
+2026-02-15 14:04:58.798 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Logitech matrix 650
+2026-02-15 14:04:58.800 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: BOSE HIERARCHY 633
+2026-02-15 14:04:58.801 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 1 warnings: Samsung software 456 Pro
+2026-02-15 14:04:58.803 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: adidas model 985
+2026-02-15 14:04:58.804 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: MICROSOFT FLEXIBILITY 453
+2026-02-15 14:04:58.805 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Sennheiser Interface 380
+2026-02-15 14:04:58.807 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 2 warnings: Asus protocol 803
+2026-02-15 14:04:58.808 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Sennheiser framework 769
+2026-02-15 14:04:58.810 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 1 warnings: nike model 48
+2026-02-15 14:04:58.811 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Sennheiser parallelism 872
+2026-02-15 14:04:58.813 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 2 warnings: Microsoft paradigm 61
+2026-02-15 14:04:58.814 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: lg groupware 949 Pro
+2026-02-15 14:04:58.816 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Bose Network 957
+2026-02-15 14:04:58.817 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: NIKE SYNERGY 130
+2026-02-15 14:04:58.818 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 1 warnings: Adidas strategy 511 Pro
+2026-02-15 14:04:58.820 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: CANON SOLUTION 189
+2026-02-15 14:04:58.821 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Microsoft projection 970
+2026-02-15 14:04:58.823 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 2 warnings: LG concept 792
+2026-02-15 14:04:58.824 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: MICROSOFT SOLUTION 521
+2026-02-15 14:04:58.826 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: logitech matrices 151
+2026-02-15 14:04:58.827 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: canon firmware 621
+2026-02-15 14:04:58.828 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Nike Interface 458
+2026-02-15 14:04:58.834 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: canon firmware 378 Pro
+2026-02-15 14:04:58.835 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: SAMSUNG NEURAL-NET 482
+2026-02-15 14:04:58.836 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Samsung interface 354
+2026-02-15 14:04:58.838 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: nike frame 592
+2026-02-15 14:04:58.840 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 3 warnings: Bose success 235
+2026-02-15 14:04:58.843 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: nike groupware 316
+2026-02-15 14:04:58.844 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Sennheiser concept 851
+2026-02-15 14:04:58.845 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Apple architecture 497
+2026-02-15 14:04:58.847 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: lg archive 830
+2026-02-15 14:04:58.849 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: ADIDAS COMPLEXITY 865
+2026-02-15 14:04:58.850 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: ADIDAS CONCEPT 301
+2026-02-15 14:04:58.852 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: MICROSOFT ARCHIVE 399
+2026-02-15 14:04:58.853 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 1 warnings: microsoft interface 224
+2026-02-15 14:04:58.855 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: LOGITECH INTERFACE 255
+2026-02-15 14:04:58.857 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: microsoft productivity 290
+2026-02-15 14:04:58.858 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Nike neural-net 226
+2026-02-15 14:04:58.859 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: SENNHEISER BENCHMARK 156 Pro
+2026-02-15 14:04:58.861 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: SAMSUNG SET 641
+2026-02-15 14:04:58.862 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 2 warnings: Logitech matrix 650
+2026-02-15 14:04:58.865 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Canon architecture 209 Pro
+2026-02-15 14:04:58.867 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Nike time-frame 856
+2026-02-15 14:04:58.868 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 1 warnings: Xiaomi archive 684 Pro
+2026-02-15 14:04:58.870 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 3 warnings: Sennheiser collaboration 801
+2026-02-15 14:04:58.873 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: SENNHEISER FORECAST 189
+2026-02-15 14:04:58.874 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: LOGITECH MATRIX 650
+2026-02-15 14:04:58.875 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Adidas strategy 511
+2026-02-15 14:04:58.876 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Sennheiser architecture 969
+2026-02-15 14:04:58.877 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: HP system 892 Pro
+2026-02-15 14:04:58.879 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 2 warnings: MICROSOFT USER 651
+2026-02-15 14:04:58.880 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Asus encoding 157
+2026-02-15 14:04:58.881 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 1 warnings: nike alliance 634
+2026-02-15 14:04:58.883 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Nike benchmark 423 Pro
+2026-02-15 14:04:58.884 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 1 warnings: MICROSOFT EMULATION 160
+2026-02-15 14:04:58.885 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 3 warnings: Microsoft improvement 299
+2026-02-15 14:04:58.886 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 3 warnings: Sony archive 357
+2026-02-15 14:04:58.888 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: asus solution 302
+2026-02-15 14:04:58.888 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 1 warnings: Nike architecture 984
+2026-02-15 14:04:58.890 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Nike throughput 370 Pro
+2026-02-15 14:04:58.891 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 1 warnings: Sennheiser framework 769
+2026-02-15 14:04:58.893 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 1 warnings: Asus system 564
+2026-02-15 14:04:58.895 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: XIAOMI LOYALTY 296
+2026-02-15 14:04:58.896 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: LG portal 62
+2026-02-15 14:04:58.898 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 2 warnings: Bose success 651
+2026-02-15 14:04:58.899 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: SENNHEISER LEVERAGE 715
+2026-02-15 14:04:58.901 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Adidas groupware 253
+2026-02-15 14:04:58.902 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: APPLE FIRMWARE 48
+2026-02-15 14:04:58.903 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Bose middleware 942
+2026-02-15 14:04:58.904 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: SENNHEISER APPLICATION 513
+2026-02-15 14:04:58.906 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: LG Interface 835
+2026-02-15 14:04:58.907 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 2 warnings: Nike frame 677 Pro
+2026-02-15 14:04:58.908 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Adidas engine 542 Pro
+2026-02-15 14:04:58.909 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Bose workforce 402
+2026-02-15 14:04:58.911 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 1 warnings: Logitech management 300
+2026-02-15 14:04:58.912 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 1 warnings: microsoft user 651
+2026-02-15 14:04:58.914 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Sennheiser concept 851 Pro
+2026-02-15 14:04:58.920 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 2 warnings: Samsung data-warehouse 109 (Universal Edition)
+2026-02-15 14:04:58.922 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Xiaomi Interface 437 Pro
+2026-02-15 14:04:58.924 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Canon migration 332
+2026-02-15 14:04:58.925 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: ADIDAS ARRAY 518
+2026-02-15 14:04:58.927 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: bose parallelism 741
+2026-02-15 14:04:58.928 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: ADIDAS CONCEPT 301 Pro
+2026-02-15 14:04:58.929 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: HP conglomeration 242 Pro
+2026-02-15 14:04:58.930 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Sony forecast 828
+2026-02-15 14:04:58.932 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: HP line 688
+2026-02-15 14:04:58.933 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: sony matrix 670
+2026-02-15 14:04:58.934 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: xiaomi network 538 Pro
+2026-02-15 14:04:58.935 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Samsung methodology 859
+2026-02-15 14:04:58.937 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: SENNHEISER HARDWARE 583 Pro
+2026-02-15 14:04:58.941 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: HP ADAPTER 758
+2026-02-15 14:04:58.942 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 2 warnings: Bose installation 957
+2026-02-15 14:04:58.944 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 1 warnings: SAMSUNG DATA-WAREHOUSE 109 Pro
+2026-02-15 14:04:58.946 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Nike migration 678 Pro
+2026-02-15 14:04:58.947 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: BOSE MONITORING 112
+2026-02-15 14:04:58.948 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: MICROSOFT MIGRATION 278 (Universal Edition)
+2026-02-15 14:04:58.949 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: logitech neural-net 44
+2026-02-15 14:04:58.950 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: XIAOMI INTERFACE 437
+2026-02-15 14:04:58.952 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: CANON TIME-FRAME 39
+2026-02-15 14:04:58.953 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Logitech neural-net 44
+2026-02-15 14:04:58.954 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: bose utilization 91
+2026-02-15 14:04:58.955 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Sennheiser circuit 877 Pro
+2026-02-15 14:04:58.956 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Dell concept 646
+2026-02-15 14:04:58.958 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: asus collaboration 645 (Universal Edition)
+2026-02-15 14:04:58.959 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: ASUS FRAMEWORK 516
+2026-02-15 14:04:58.960 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: NIKE PARALLELISM 532
+2026-02-15 14:04:58.961 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 1 warnings: Apple knowledgebase 853 Pro
+2026-02-15 14:04:58.963 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: apple throughput 331 Pro
+2026-02-15 14:04:58.964 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: nike workforce 306 Pro
+2026-02-15 14:04:58.965 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 1 warnings: Xiaomi loyalty 562
+2026-02-15 14:04:58.967 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: DELL ENCODING 236
+2026-02-15 14:04:58.968 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: adidas analyzer 542 Pro
+2026-02-15 14:04:58.969 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Apple knowledgebase 853
+2026-02-15 14:04:58.970 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: bose monitoring 112
+2026-02-15 14:04:58.971 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: SONY WEBSITE 220 Pro
+2026-02-15 14:04:58.972 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: canon strategy 305
+2026-02-15 14:04:58.974 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 1 warnings: BOSE CAPABILITY 303
+2026-02-15 14:04:58.976 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: MICROSOFT MORATORIUM 620
+2026-02-15 14:04:58.977 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 1 warnings: microsoft projection 970
+2026-02-15 14:04:58.980 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Dell help-desk 571
+2026-02-15 14:04:58.982 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: SAMSUNG DATABASE 267
+2026-02-15 14:04:58.983 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 1 warnings: adidas complexity 865
+2026-02-15 14:04:58.985 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: CANON LEVERAGE 749
+2026-02-15 14:04:58.987 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: SAMSUNG TASK-FORCE 188
+2026-02-15 14:04:58.988 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: canon parallelism 784
+2026-02-15 14:04:58.989 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Dell framework 680
+2026-02-15 14:04:58.991 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: SONY MIGRATION 664
+2026-02-15 14:04:58.993 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Sony policy 906
+2026-02-15 14:04:58.994 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: APPLE CAPABILITY 40
+2026-02-15 14:04:58.995 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Xiaomi hardware 699
+2026-02-15 14:04:58.997 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 2 warnings: Dell adapter 930
+2026-02-15 14:04:58.999 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Canon core 545
+2026-02-15 14:04:59.001 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: LG data-warehouse 498
+2026-02-15 14:04:59.002 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: HP POLICY 772
+2026-02-15 14:04:59.004 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Bose capability 81
+2026-02-15 14:04:59.006 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 1 warnings: Dell installation 129 Pro
+2026-02-15 14:04:59.008 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Dell implementation 943
+2026-02-15 14:04:59.010 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: canon solution 737 (Universal Edition)
+2026-02-15 14:04:59.011 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: SAMSUNG KNOWLEDGEBASE 172 Pro
+2026-02-15 14:04:59.012 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: ASUS PROTOCOL 402
+2026-02-15 14:04:59.013 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 2 warnings: Bose group 700 Pro
+2026-02-15 14:04:59.015 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: bose concept 456 Pro
+2026-02-15 14:04:59.016 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 1 warnings: Canon attitude 886
+2026-02-15 14:04:59.018 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Bose architecture 595
+2026-02-15 14:04:59.019 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: apple orchestration 664
+2026-02-15 14:04:59.020 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 1 warnings: Asus line 782 Pro
+2026-02-15 14:04:59.021 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: HP loyalty 757 Pro
+2026-02-15 14:04:59.022 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Sony contingency 554
+2026-02-15 14:04:59.023 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 1 warnings: DELL SET 623
+2026-02-15 14:04:59.025 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Bose moratorium 89 Pro
+2026-02-15 14:04:59.026 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 2 warnings: Bose synergy 451
+2026-02-15 14:04:59.027 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 2 warnings: Bose installation 957
+2026-02-15 14:04:59.028 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 1 warnings: Bose parallelism 741
+2026-02-15 14:04:59.030 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: asus group 381 Pro
+2026-02-15 14:04:59.031 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 1 warnings: nike productivity 656
+2026-02-15 14:04:59.032 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Microsoft definition 139
+2026-02-15 14:04:59.033 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: XIAOMI ARRAY 362
+2026-02-15 14:04:59.034 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: LG installation 699 (Universal Edition)
+2026-02-15 14:04:59.035 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 1 warnings: Dell system 202
+2026-02-15 14:04:59.036 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: NIKE LINE 294 (Universal Edition)
+2026-02-15 14:04:59.037 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Nike database 192
+2026-02-15 14:04:59.039 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: samsung interface 354 Pro
+2026-02-15 14:04:59.040 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Apple line 524
+2026-02-15 14:04:59.041 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Sony array 980
+2026-02-15 14:04:59.042 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 1 warnings: Dell system 864 Pro
+2026-02-15 14:04:59.044 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: SAMSUNG DATA-WAREHOUSE 648
+2026-02-15 14:04:59.049 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 2 warnings: Adidas policy 492
+2026-02-15 14:04:59.050 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 1 warnings: XIAOMI MODEL 770
+2026-02-15 14:04:59.052 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: apple infrastructure 670
+2026-02-15 14:04:59.054 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: MICROSOFT MORATORIUM 976 (Universal Edition)
+2026-02-15 14:04:59.055 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: nike time-frame 856
+2026-02-15 14:04:59.057 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: SAMSUNG NEURAL-NET 482 (Universal Edition)
+2026-02-15 14:04:59.058 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 1 warnings: DELL FRAME 449
+2026-02-15 14:04:59.060 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Adidas engine 542 Pro
+2026-02-15 14:04:59.061 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Logitech middleware 542 (Universal Edition)
+2026-02-15 14:04:59.063 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 1 warnings: SONY MATRIX 670 (Universal Edition)
+2026-02-15 14:04:59.064 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Bose engine 102 Pro
+2026-02-15 14:04:59.066 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 2 warnings: Logitech neural-net 44 (Universal Edition)
+2026-02-15 14:04:59.067 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: ASUS PORTAL 353
+2026-02-15 14:04:59.069 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 1 warnings: Nike analyzer 653 Pro
+2026-02-15 14:04:59.070 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: HP policy 772
+2026-02-15 14:04:59.072 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Logitech structure 701
+2026-02-15 14:04:59.073 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Logitech flexibility 501
+2026-02-15 14:04:59.074 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: SONY SYSTEM 528
+2026-02-15 14:04:59.076 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 2 warnings: Logitech policy 793
+2026-02-15 14:04:59.077 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Asus system 564 Pro
+2026-02-15 14:04:59.079 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: NIKE MORATORIUM 271
+2026-02-15 14:04:59.080 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: SAMSUNG POLICY 670
+2026-02-15 14:04:59.082 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: BOSE ADAPTER 261 Pro
+2026-02-15 14:04:59.083 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 1 warnings: DELL IMPLEMENTATION 743 (Universal Edition)
+2026-02-15 14:04:59.085 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 2 warnings: Dell structure 475
+2026-02-15 14:04:59.087 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: sony time-frame 854 (Universal Edition)
+2026-02-15 14:04:59.088 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Canon interface 721 Pro
+2026-02-15 14:04:59.089 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Samsung intranet 860 Pro
+2026-02-15 14:04:59.092 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Bose improvement 239
+2026-02-15 14:04:59.093 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 1 warnings: LG MIGRATION 186
+2026-02-15 14:04:59.095 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: HP group 600
+2026-02-15 14:04:59.096 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 1 warnings: HP firmware 779
+2026-02-15 14:04:59.098 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 1 warnings: Xiaomi model 770 Pro
+2026-02-15 14:04:59.100 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Bose strategy 369 Pro
+2026-02-15 14:04:59.101 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 2 warnings: Xiaomi architecture 628 (Universal Edition)
+2026-02-15 14:04:59.103 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: bose moratorium 89
+2026-02-15 14:04:59.104 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 1 warnings: Nike groupware 316
+2026-02-15 14:04:59.106 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: ADIDAS MODERATOR 275
+2026-02-15 14:04:59.107 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: HP application 185
+2026-02-15 14:04:59.109 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Nike intelligence 605
+2026-02-15 14:04:59.110 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: xiaomi software 217
+2026-02-15 14:04:59.111 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Microsoft projection 95
+2026-02-15 14:04:59.113 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 2 warnings: Xiaomi info-mediaries 679
+2026-02-15 14:04:59.115 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: xiaomi data-warehouse 382 Pro
+2026-02-15 14:04:59.116 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: XIAOMI INFO-MEDIARIES 580 Pro
+2026-02-15 14:04:59.118 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Canon matrix 220 Pro
+2026-02-15 14:04:59.120 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: HP adapter 758 Pro
+2026-02-15 14:04:59.121 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: LG group 296 Pro
+2026-02-15 14:04:59.122 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: bose knowledgebase 56
+2026-02-15 14:04:59.124 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: MICROSOFT PROJECT 951
+2026-02-15 14:04:59.125 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: lg initiative 624 Pro
+2026-02-15 14:04:59.127 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: hp analyzer 274 (Universal Edition)
+2026-02-15 14:04:59.128 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: DELL DATA-WAREHOUSE 751 (Universal Edition)
+2026-02-15 14:04:59.130 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: SAMSUNG STRATEGY 771
+2026-02-15 14:04:59.131 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: samsung software 456
+2026-02-15 14:04:59.132 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Samsung time-frame 245
+2026-02-15 14:04:59.134 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Nike initiative 405 (Universal Edition)
+2026-02-15 14:04:59.135 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: LG ALLIANCE 840
+2026-02-15 14:04:59.137 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Microsoft moratorium 976 Pro
+2026-02-15 14:04:59.138 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Bose middleware 942
+2026-02-15 14:04:59.139 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 2 warnings: Adidas moderator 177 Pro
+2026-02-15 14:04:59.141 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: ADIDAS CHALLENGE 768
+2026-02-15 14:04:59.143 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: LG PORTAL 62
+2026-02-15 14:04:59.145 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: LG improvement 464
+2026-02-15 14:04:59.147 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Bose installation 957 Pro
+2026-02-15 14:04:59.149 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Bose capability 303
+2026-02-15 14:04:59.154 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: logitech conglomeration 618
+2026-02-15 14:04:59.156 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Microsoft database 674
+2026-02-15 14:04:59.157 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Asus extranet 220 Pro
+2026-02-15 14:04:59.158 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Canon leverage 749
+2026-02-15 14:04:59.159 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: MICROSOFT USER 378 Pro
+2026-02-15 14:04:59.161 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: APPLE SET 832
+2026-02-15 14:04:59.162 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: SAMSUNG ALLIANCE 987
+2026-02-15 14:04:59.163 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 2 warnings: Logitech algorithm 194 Pro
+2026-02-15 14:04:59.164 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Sony function 350 Pro
+2026-02-15 14:04:59.165 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 2 warnings: BOSE STRUCTURE 682 Pro
+2026-02-15 14:04:59.167 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Sennheiser set 795 Pro
+2026-02-15 14:04:59.168 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: adidas improvement 345
+2026-02-15 14:04:59.169 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Samsung challenge 271
+2026-02-15 14:04:59.171 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 1 warnings: LG MONITORING 472
+2026-02-15 14:04:59.173 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 1 warnings: adidas throughput 804 Pro
+2026-02-15 14:04:59.175 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Canon application 351 Pro
+2026-02-15 14:04:59.176 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: LOGITECH INSTALLATION 834
+2026-02-15 14:04:59.177 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: CANON BENCHMARK 625
+2026-02-15 14:04:59.178 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Asus info-mediaries 977
+2026-02-15 14:04:59.179 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: MICROSOFT ENCRYPTION 105
+2026-02-15 14:04:59.180 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: LG hardware 694
+2026-02-15 14:04:59.181 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: CANON CONTINGENCY 766 Pro
+2026-02-15 14:04:59.182 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Microsoft user 651 Pro
+2026-02-15 14:04:59.184 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Adidas complexity 36
+2026-02-15 14:04:59.185 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Adidas challenge 768
+2026-02-15 14:04:59.186 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Nike function 175
+2026-02-15 14:04:59.187 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 1 warnings: sony project 284 Pro
+2026-02-15 14:04:59.189 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: DELL FRAMEWORK 680 (Universal Edition)
+2026-02-15 14:04:59.190 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: lg productivity 326 Pro
+2026-02-15 14:04:59.192 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Adidas extranet 933
+2026-02-15 14:04:59.193 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: DELL PARADIGM 630 Pro
+2026-02-15 14:04:59.194 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: CANON LEVERAGE 749 Pro
+2026-02-15 14:04:59.196 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Microsoft user 651
+2026-02-15 14:04:59.197 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Nike alliance 914
+2026-02-15 14:04:59.198 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Samsung structure 997
+2026-02-15 14:04:59.200 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 1 warnings: Adidas intelligence 877 Pro
+2026-02-15 14:04:59.201 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Bose middleware 218
+2026-02-15 14:04:59.203 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Adidas extranet 791 Pro
+2026-02-15 14:04:59.204 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 1 warnings: Asus architecture 771
+2026-02-15 14:04:59.206 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: LOGITECH ALGORITHM 194
+2026-02-15 14:04:59.207 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Apple extranet 389
+2026-02-15 14:04:59.208 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 1 warnings: XIAOMI METHODOLOGY 829
+2026-02-15 14:04:59.210 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 1 warnings: Canon matrix 220
+2026-02-15 14:04:59.212 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 1 warnings: Canon strategy 305 Pro
+2026-02-15 14:04:59.214 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Nike algorithm 683
+2026-02-15 14:04:59.215 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Sony encryption 787
+2026-02-15 14:04:59.216 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: lg alliance 840
+2026-02-15 14:04:59.218 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 2 warnings: HP complexity 409
+2026-02-15 14:04:59.219 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: HP access 611 Pro
+2026-02-15 14:04:59.221 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 1 warnings: LG SET 341
+2026-02-15 14:04:59.222 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 1 warnings: LG array 65
+2026-02-15 14:04:59.224 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Nike database 192
+2026-02-15 14:04:59.226 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: bose capability 381
+2026-02-15 14:04:59.227 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Samsung success 140
+2026-02-15 14:04:59.234 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 1 warnings: Samsung interface 354
+2026-02-15 14:04:59.236 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: SAMSUNG HIERARCHY 767
+2026-02-15 14:04:59.237 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: logitech protocol 247
+2026-02-15 14:04:59.239 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Canon strategy 305
+2026-02-15 14:04:59.240 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: SENNHEISER FRAMEWORK 769 (Universal Edition)
+2026-02-15 14:04:59.242 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Asus installation 512
+2026-02-15 14:04:59.243 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Samsung toolset 672
+2026-02-15 14:04:59.244 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: samsung groupware 612 (Universal Edition)
+2026-02-15 14:04:59.246 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: ADIDAS LOYALTY 227 Pro
+2026-02-15 14:04:59.247 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: XIAOMI LOYALTY 562 Pro
+2026-02-15 14:04:59.249 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 1 warnings: Microsoft matrices 557 Pro
+2026-02-15 14:04:59.251 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: XIAOMI DATA-WAREHOUSE 687
+2026-02-15 14:04:59.252 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Microsoft flexibility 378 Pro
+2026-02-15 14:04:59.253 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 2 warnings: Asus line 782 Pro
+2026-02-15 14:04:59.263 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: asus archive 231 Pro
+2026-02-15 14:04:59.265 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 1 warnings: SENNHEISER THROUGHPUT 900
+2026-02-15 14:04:59.268 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: MICROSOFT MATRICES 557
+2026-02-15 14:04:59.270 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: ASUS CIRCUIT 501
+2026-02-15 14:04:59.272 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Nike firmware 567
+2026-02-15 14:04:59.274 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: BOSE PRODUCT 15 (Universal Edition)
+2026-02-15 14:04:59.275 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 2 warnings: Dell solution 490
+2026-02-15 14:04:59.278 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: SAMSUNG STRUCTURE 997 (Universal Edition)
+2026-02-15 14:04:59.280 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Dell utilization 754
+2026-02-15 14:04:59.282 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Samsung throughput 193 Pro
+2026-02-15 14:04:59.284 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: MICROSOFT PROJECT 951
+2026-02-15 14:04:59.285 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Dell structure 495
+2026-02-15 14:04:59.286 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Xiaomi solution 306
+2026-02-15 14:04:59.288 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Bose structure 27 (Universal Edition)
+2026-02-15 14:04:59.290 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: sony hardware 124
+2026-02-15 14:04:59.292 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Asus function 725
+2026-02-15 14:04:59.293 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: LG management 321
+2026-02-15 14:04:59.294 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Asus set 964
+2026-02-15 14:04:59.296 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 1 warnings: LG array 65 Pro
+2026-02-15 14:04:59.299 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: LG CONCEPT 792
+2026-02-15 14:04:59.300 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Apple circuit 223
+2026-02-15 14:04:59.301 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 2 warnings: Asus matrix 533 Pro
+2026-02-15 14:04:59.304 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: SAMSUNG INTERFACE 855 (Universal Edition)
+2026-02-15 14:04:59.305 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: LG time-frame 227
+2026-02-15 14:04:59.308 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Samsung software 474
+2026-02-15 14:04:59.309 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Dell firmware 117
+2026-02-15 14:04:59.310 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: hp emulation 227
+2026-02-15 14:04:59.312 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: DELL FORECAST 729
+2026-02-15 14:04:59.313 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: BOSE ARRAY 289
+2026-02-15 14:04:59.314 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Logitech policy 64 Pro
+2026-02-15 14:04:59.315 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: CANON MONITORING 841 (Universal Edition)
+2026-02-15 14:04:59.317 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 1 warnings: CANON TOOLSET 45
+2026-02-15 14:04:59.319 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Sennheiser migration 539
+2026-02-15 14:04:59.320 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 1 warnings: canon migration 332
+2026-02-15 14:04:59.322 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: SENNHEISER PARALLELISM 872 Pro
+2026-02-15 14:04:59.323 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 1 warnings: MICROSOFT STANDARDIZATION 514
+2026-02-15 14:04:59.325 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Nike contingency 357 Pro
+2026-02-15 14:04:59.326 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Xiaomi standardization 361
+2026-02-15 14:04:59.327 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Microsoft knowledgebase 191
+2026-02-15 14:04:59.329 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 1 warnings: SAMSUNG POLICY 472
+2026-02-15 14:04:59.330 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: apple management 453
+2026-02-15 14:04:59.332 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 3 warnings: Canon policy 238
+2026-02-15 14:04:59.333 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: NIKE ALLIANCE 914
+2026-02-15 14:04:59.334 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: SAMSUNG ARCHITECTURE 908 Pro
+2026-02-15 14:04:59.335 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Adidas engine 542
+2026-02-15 14:04:59.336 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: XIAOMI USER 473
+2026-02-15 14:04:59.337 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: NIKE MATRICES 142 Pro
+2026-02-15 14:04:59.338 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 2 warnings: Sennheiser migration 539
+2026-02-15 14:04:59.340 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 2 warnings: Bose management 234
+2026-02-15 14:04:59.341 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 1 warnings: ADIDAS SOLUTION 507 Pro
+2026-02-15 14:04:59.343 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: NIKE MODEL 48
+2026-02-15 14:04:59.344 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 1 warnings: Asus paradigm 146
+2026-02-15 14:04:59.345 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Dell frame 950
+2026-02-15 14:04:59.347 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: lg benchmark 564
+2026-02-15 14:04:59.348 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: SONY PRODUCT 788 (Universal Edition)
+2026-02-15 14:04:59.349 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: sony moderator 526
+2026-02-15 14:04:59.350 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Adidas analyzer 182 Pro
+2026-02-15 14:04:59.352 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: XIAOMI INFO-MEDIARIES 679
+2026-02-15 14:04:59.353 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: ASUS TASK-FORCE 517
+2026-02-15 14:04:59.354 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: HP flexibility 376
+2026-02-15 14:04:59.356 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: DELL MODEL 954
+2026-02-15 14:04:59.357 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: ADIDAS CONGLOMERATION 124
+2026-02-15 14:04:59.359 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: BOSE APPROACH 931
+2026-02-15 14:04:59.360 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Xiaomi functionalities 882
+2026-02-15 14:04:59.361 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Samsung toolset 672
+2026-02-15 14:04:59.363 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: nike array 244
+2026-02-15 14:04:59.364 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: dell project 89
+2026-02-15 14:04:59.365 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: SONY ATTITUDE 996 Pro
+2026-02-15 14:04:59.370 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: samsung data-warehouse 109
+2026-02-15 14:04:59.372 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: SENNHEISER FRAMEWORK 769
+2026-02-15 14:04:59.373 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: sony website 760
+2026-02-15 14:04:59.374 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: samsung firmware 205 Pro
+2026-02-15 14:04:59.375 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: canon conglomeration 119
+2026-02-15 14:04:59.377 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Apple architecture 497 Pro
+2026-02-15 14:04:59.378 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: DELL METHODOLOGY 551
+2026-02-15 14:04:59.379 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Apple architecture 497
+2026-02-15 14:04:59.381 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 2 warnings: Bose workforce 402
+2026-02-15 14:04:59.382 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: HP function 553
+2026-02-15 14:04:59.383 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 2 warnings: Sennheiser extranet 182
+2026-02-15 14:04:59.385 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 1 warnings: Xiaomi software 217
+2026-02-15 14:04:59.386 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 2 warnings: LG group 314
+2026-02-15 14:04:59.388 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 2 warnings: Sony structure 95
+2026-02-15 14:04:59.390 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: sony time-frame 895
+2026-02-15 14:04:59.391 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: NIKE SYNERGY 891
+2026-02-15 14:04:59.392 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Dell Interface 85
+2026-02-15 14:04:59.393 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: LG orchestration 501
+2026-02-15 14:04:59.395 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Apple analyzer 428
+2026-02-15 14:04:59.396 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Dell benchmark 649 Pro
+2026-02-15 14:04:59.398 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Xiaomi orchestration 554
+2026-02-15 14:04:59.399 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Adidas concept 301 Pro
+2026-02-15 14:04:59.400 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 3 warnings: Xiaomi model 770
+2026-02-15 14:04:59.402 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 2 warnings: Logitech capacity 569
+2026-02-15 14:04:59.404 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: CANON NEURAL-NET 43 (Universal Edition)
+2026-02-15 14:04:59.405 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Logitech flexibility 501
+2026-02-15 14:04:59.406 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Adidas encryption 400
+2026-02-15 14:04:59.408 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: adidas capability 273
+2026-02-15 14:04:59.409 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: SENNHEISER SET 795
+2026-02-15 14:04:59.410 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: adidas utilization 310
+2026-02-15 14:04:59.411 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: CANON NEURAL-NET 43
+2026-02-15 14:04:59.412 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 2 warnings: Nike encoding 643 Pro
+2026-02-15 14:04:59.414 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Asus line 782
+2026-02-15 14:04:59.415 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Sennheiser product 133
+2026-02-15 14:04:59.417 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Asus workforce 446
+2026-02-15 14:04:59.418 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Adidas analyzer 182
+2026-02-15 14:04:59.419 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: CANON SOLUTION 737 Pro
+2026-02-15 14:04:59.421 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: ASUS HUB 130
+2026-02-15 14:04:59.422 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: SENNHEISER DEFINITION 639 (Universal Edition)
+2026-02-15 14:04:59.423 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: ADIDAS PROJECTION 288
+2026-02-15 14:04:59.425 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 2 warnings: Samsung set 641
+2026-02-15 14:04:59.426 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: BOSE APPROACH 931
+2026-02-15 14:04:59.428 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Xiaomi alliance 318
+2026-02-15 14:04:59.429 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Xiaomi approach 327 Pro
+2026-02-15 14:04:59.430 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Xiaomi Interface 437
+2026-02-15 14:04:59.432 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: SONY ATTITUDE 996 Pro
+2026-02-15 14:04:59.433 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: NIKE NEURAL-NET 226
+2026-02-15 14:04:59.434 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: SONY METHODOLOGY 638
+2026-02-15 14:04:59.435 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 2 warnings: LG installation 699
+2026-02-15 14:04:59.437 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: hp definition 244
+2026-02-15 14:04:59.438 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 1 warnings: Canon monitoring 841
+2026-02-15 14:04:59.440 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: NIKE MODERATOR 865
+2026-02-15 14:04:59.441 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: HP PRODUCT 77
+2026-02-15 14:04:59.443 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: LG loyalty 961
+2026-02-15 14:04:59.444 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 1 warnings: ADIDAS ENCRYPTION 400
+2026-02-15 14:04:59.445 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Nike moratorium 271
+2026-02-15 14:04:59.447 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 2 warnings: Asus paradigm 146 Pro
+2026-02-15 14:04:59.448 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 2 warnings: Bose hierarchy 633 Pro
+2026-02-15 14:04:59.450 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 2 warnings: Canon website 902
+2026-02-15 14:04:59.451 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 2 warnings: Nike algorithm 683 (Universal Edition)
+2026-02-15 14:04:59.452 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: HP task-force 378 Pro
+2026-02-15 14:04:59.454 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Xiaomi model 770
+2026-02-15 14:04:59.455 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 2 warnings: Samsung help-desk 296
+2026-02-15 14:04:59.456 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Logitech user 255
+2026-02-15 14:04:59.458 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: NIKE ALGORITHM 683
+2026-02-15 14:04:59.459 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 1 warnings: Samsung help-desk 296
+2026-02-15 14:04:59.461 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 3 warnings: Sony hierarchy 371 Pro
+2026-02-15 14:04:59.462 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Samsung intranet 860
+2026-02-15 14:04:59.463 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: bose help-desk 991 (Universal Edition)
+2026-02-15 14:04:59.465 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: asus migration 385
+2026-02-15 14:04:59.467 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Samsung database 867
+2026-02-15 14:04:59.468 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Microsoft projection 95
+2026-02-15 14:04:59.469 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 1 warnings: lg interface 835
+2026-02-15 14:04:59.471 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Microsoft migration 278
+2026-02-15 14:04:59.472 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: LOGITECH METHODOLOGY 727
+2026-02-15 14:04:59.473 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: LOGITECH METHODOLOGY 727
+2026-02-15 14:04:59.478 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: SAMSUNG SOFTWARE 565 (Universal Edition)
+2026-02-15 14:04:59.479 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Microsoft initiative 940
+2026-02-15 14:04:59.480 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Asus data-warehouse 688
+2026-02-15 14:04:59.481 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Microsoft knowledgebase 191
+2026-02-15 14:04:59.482 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: SAMSUNG INSTALLATION 315
+2026-02-15 14:04:59.484 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Apple parallelism 260
+2026-02-15 14:04:59.485 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 1 warnings: Canon neural-net 43
+2026-02-15 14:04:59.487 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: DELL SOLUTION 490 (Universal Edition)
+2026-02-15 14:04:59.487 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: sony knowledgebase 563
+2026-02-15 14:04:59.488 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: BOSE SYNERGY 451
+2026-02-15 14:04:59.490 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: dell structure 475 Pro
+2026-02-15 14:04:59.491 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Samsung contingency 417
+2026-02-15 14:04:59.492 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Adidas concept 301
+2026-02-15 14:04:59.493 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 1 warnings: HP MORATORIUM 749 (Universal Edition)
+2026-02-15 14:04:59.495 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: SAMSUNG MIDDLEWARE 857
+2026-02-15 14:04:59.496 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: CANON FUNCTIONALITIES 361 Pro
+2026-02-15 14:04:59.497 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Nike set 84 Pro
+2026-02-15 14:04:59.497 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: xiaomi interface 437
+2026-02-15 14:04:59.498 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Apple task-force 657
+2026-02-15 14:04:59.500 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: microsoft moderator 339 Pro
+2026-02-15 14:04:59.501 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 1 warnings: LG MODEL 641 Pro
+2026-02-15 14:04:59.504 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 2 warnings: Logitech capacity 569
+2026-02-15 14:04:59.506 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Nike benchmark 996
+2026-02-15 14:04:59.508 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: XIAOMI ARRAY 749
+2026-02-15 14:04:59.510 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: SAMSUNG SOFTWARE 456
+2026-02-15 14:04:59.511 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Dell definition 434
+2026-02-15 14:04:59.514 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: samsung database 867
+2026-02-15 14:04:59.515 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: XIAOMI SOLUTION 546 Pro
+2026-02-15 14:04:59.517 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: HP flexibility 376
+2026-02-15 14:04:59.518 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 1 warnings: samsung help-desk 296
+2026-02-15 14:04:59.520 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: logitech management 300
+2026-02-15 14:04:59.521 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Bose core 228 Pro
+2026-02-15 14:04:59.522 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: SENNHEISER SERVICE-DESK 819 Pro
+2026-02-15 14:04:59.524 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Sennheiser solution 264
+2026-02-15 14:04:59.526 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 1 warnings: asus monitoring 170 Pro
+2026-02-15 14:04:59.528 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 1 warnings: Microsoft migration 278
+2026-02-15 14:04:59.530 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 1 warnings: Microsoft project 951
+2026-02-15 14:04:59.531 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Microsoft knowledgebase 390
+2026-02-15 14:04:59.533 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Asus emulation 120 Pro
+2026-02-15 14:04:59.535 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 3 warnings: Asus groupware 30
+2026-02-15 14:04:59.538 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Logitech project 794 Pro
+2026-02-15 14:04:59.540 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Sennheiser set 795
+2026-02-15 14:04:59.542 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: MICROSOFT USER 651 Pro
+2026-02-15 14:04:59.544 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: hp access 611
+2026-02-15 14:04:59.546 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: CANON MIGRATION 484 (Universal Edition)
+2026-02-15 14:04:59.547 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 2 warnings: Nike neural-net 226
+2026-02-15 14:04:59.549 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Asus architecture 771
+2026-02-15 14:04:59.552 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 2 warnings: Bose standardization 559
+2026-02-15 14:04:59.554 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: sennheiser emulation 936
+2026-02-15 14:04:59.556 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 2 warnings: Sony utilization 237
+2026-02-15 14:04:59.558 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: asus matrix 533 Pro
+2026-02-15 14:04:59.559 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: SAMSUNG MONITORING 470
+2026-02-15 14:04:59.562 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Microsoft projection 95
+2026-02-15 14:04:59.563 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: lg management 321
+2026-02-15 14:04:59.566 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: nike interface 458
+2026-02-15 14:04:59.567 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 2 warnings: Adidas moderator 388
+2026-02-15 14:04:59.569 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Dell infrastructure 636
+2026-02-15 14:04:59.570 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 2 warnings: Logitech encryption 795 Pro
+2026-02-15 14:04:59.573 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Nike analyzer 653
+2026-02-15 14:04:59.575 | WARNING  | src.services.normalizer:normalize:251 - Product normalized with 3 warnings: Microsoft matrices 557 Pro
+2026-02-15 14:04:59.577 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: asus task-force 517
+2026-02-15 14:04:59.582 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: MICROSOFT CAPABILITY 378
+2026-02-15 14:04:59.583 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: ASUS PORTAL 353
+2026-02-15 14:04:59.585 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: bose intranet 230
+2026-02-15 14:04:59.586 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Canon algorithm 443
+2026-02-15 14:04:59.588 | DEBUG    | src.services.normalizer:normalize:253 - Product normalized successfully: Sony utilization 603 (Universal Edition)
