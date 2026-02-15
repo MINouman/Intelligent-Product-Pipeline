@@ -2,20 +2,20 @@
   {
     "group_id": "dup_001",
     "products": [
-      "397c2fb8-b801-480b-8086-a5dcfce4dc8e",
-      "b34fe36e-af04-49fe-8242-45d74621135a",
-      "2fba8c6f-fce5-4d78-9a27-1866121a2cce",
-      "a505971c-241b-4b98-84e5-2e95ca4901e6",
-      "3c733a66-54a3-452a-a278-fee1bfc638c1",
-      "719b7b4a-b93d-4e81-b3fa-dedc55c7e443",
-      "6967734d-89ef-4170-9408-046af8ade5c2",
-      "bf9f134c-4a5b-4cf3-9746-5d0e7bc4bbaf",
-      "b0823f5b-8068-44fb-b04f-308c85fd3b01",
-      "2fde10dc-e561-4506-acbc-375ba41f8ba9",
-      "7bbf2ca4-8e9b-409a-acc5-9d9a04c4394b",
-      "ee8e71dc-a5e3-4b98-a624-e96d5350cfd0",
-      "2706b0c8-43ec-4a6a-9bba-910d8f03a261",
-      "5ec71fb3-a2c0-4098-93f8-aed51e50ce58"
+      "fd52a934-8ac9-4f72-93dd-577cce0800dc",
+      "1016ff49-a8f2-4fb2-b031-d0621b83a928",
+      "a1232029-a854-4f68-8f0a-6983bb18bee9",
+      "ac4d7f43-b109-4ac0-bade-69a303b6b8f6",
+      "b63000a3-5a95-4766-8b13-2816bebb6c16",
+      "276008b1-8f80-452f-ad12-ebe9ff25e70c",
+      "5879b954-0455-4cc5-85f1-d8afaa877c5e",
+      "304c8192-5424-416a-815c-e911e4cc8e73",
+      "d4b44323-2680-424f-9b7e-b605c83aa045",
+      "2b380755-bcfe-4635-94f2-420ce35aa45c",
+      "dce32a42-14af-41f1-ad92-58d09a27232b",
+      "be4c72c9-37ca-4b0a-956f-f277d5deeed4",
+      "d01dd1f5-d446-44d5-9695-a7527f8ca511",
+      "d8c4b54c-9348-4323-81db-756e81f44c73"
     ],
     "confidence": 0.641,
     "method": "hybrid",
@@ -29,67 +29,67 @@
   {
     "group_id": "dup_002",
     "products": [
-      "39a520d3-0d2e-4a53-8aa5-dc0edd334ed8",
-      "c2423671-3b8d-4861-82d8-7ff0cc2ec806",
-      "b7c3e6c9-ee8e-4ceb-90ff-95b7bf236fc7",
-      "31f31d51-65ab-4b28-aace-8bbee703b51d",
-      "1d8b00ba-c981-4bb2-967b-610d36659568",
-      "127cbae1-2fc1-4f2a-990e-41937c067c69",
-      "992b9b7f-8b16-4ba4-8a4a-c486f1a94672",
-      "304783e6-5ce4-4282-b93c-9b19a8ab22c4",
-      "d572e37b-9a57-4a9d-bb08-a2dc869306f5",
-      "e1bb954a-b7ac-4241-9f9f-47a7105ca7c1",
-      "329ef5b1-660a-42e5-adcc-9ccf41132617",
-      "2f2e901f-2bd5-4647-8b24-2610b676801f",
-      "82e0baeb-a995-4aa3-aebe-4e388a02c038",
-      "1811daac-6bcc-4cbe-9dfb-5249c2cface8",
-      "bb596bba-ba8e-4600-9819-4274b59fba74",
-      "67a6f25d-1c14-4e68-bf8a-bcb0d5dab22b",
-      "c8a353bf-144e-4acb-af1c-b936d828f8cb",
-      "31300c68-d472-4789-acd9-7ed8f23c4a2f",
-      "becb2316-815c-4118-bde3-8face475ef95",
-      "ff2d17e7-7620-4c8c-934e-62cce367f162",
-      "58e0f1ca-ca90-449e-bfce-1c147133ce1d",
-      "3bbabe87-fd8d-4f6e-9e0b-1bb1fa3abfa5",
-      "c153ebc0-fa16-40bf-b878-90edf802e325",
-      "10413322-673b-4d33-a112-1865788bacd9",
-      "db333ee1-8c45-4e5f-8438-2423934fc748",
-      "83a22682-9956-4f8c-8390-b5b96c1dba47",
-      "1944ca1d-2fa4-4a72-aefc-ce70d1c1627d",
-      "dbbd691e-aba6-4621-a057-7e1e92492ecf",
-      "a8e3bc2b-3b69-4b1f-8843-d2adc6c98723",
-      "f3697fd7-b13b-43f6-a45f-185e7943cdc8",
-      "65607518-c417-423b-8a08-64bdca3e123d",
-      "6b646e72-a5f2-40c0-b590-d4f7aeb20861",
-      "5d059ead-f9ef-400d-878c-d3b689b01462",
-      "326ebe02-ec16-47c3-87a6-4452972171c2",
-      "cda031a3-fdaf-40e4-95fe-72362e751c01",
-      "340b0f70-aabd-4474-9cd5-d31bcb0a9fe2",
-      "809834b5-d290-4a72-9222-b6fdf1155426",
-      "695d4855-b9e2-49d6-8b51-6d0d9cb36a41",
-      "a2df59cb-d375-4e87-a423-e9601a4b7716",
-      "3a7c9a34-16f5-46bf-92c3-3b0104280ae3",
-      "813f524d-8f6c-4b29-9523-ec63c7bf6d3b",
-      "dc516f6d-1878-4209-ab64-6b3f13f06b09",
-      "39496fd9-7a3c-4983-8f3c-ca6507968c3f",
-      "4c44d322-6753-4405-9330-3dd9c2162d4c",
-      "3433d1db-83f2-4996-afa0-d24a03cd04d1",
-      "42f1a6f9-a3d2-482f-9832-356dfa339754",
-      "65ccbb0f-40bc-418f-bc17-91b75edf4974",
-      "c56e9659-de83-4df7-a586-ad5ef9045625",
-      "109c4599-13a3-46ed-a58f-a3c058233e09",
-      "9253cdc9-7662-4f5b-b62d-bb7aed0383c9",
-      "c3d75fd2-453f-4091-8ebf-6f41d1024f12",
-      "7ec73f92-fee4-4642-8e63-1877e13ab9af",
-      "235e2c96-2f40-4d0f-96f3-a9f7192ebb75",
-      "dcac0fdf-30b8-4d89-b126-ab296f60bae8",
-      "d41e637f-a990-402f-abdf-ba8da11fde78",
-      "8722c0f4-a64e-4a85-a55a-9d40703d9669",
-      "b2f2bce9-6383-4497-a8a8-a24a460ae2f5",
-      "ca47b125-c5fd-4619-b432-1ba1bd6aa812",
-      "5a8d69e7-a97e-46ae-8ad6-97f20c7b5ec7",
-      "5c0c98cc-5577-4a61-a065-2d0ae1f80064",
-      "c7ee525c-60b9-4d7c-bdb3-e8f6bcfc8872"
+      "aabf9d41-69ba-4de9-aac2-56c3261567ad",
+      "cfff44d8-73a9-4531-89c2-f9d71bba4a10",
+      "e1e0ef87-0af9-49be-9103-99dcbc4a4049",
+      "5df5ca20-c8cc-4948-9ed4-bfe51e6def66",
+      "073e0aa0-b024-4f39-bfae-a731c64b01c7",
+      "aa0b3036-ad71-4fde-8385-738c8b6d20ec",
+      "0289ac09-4e83-45ec-b0aa-0672810fa0fd",
+      "ef17bbbc-5c04-4bdf-a4f6-3b5c27f79a50",
+      "b097c992-bba4-44f1-963e-371f9be835bd",
+      "040bc7d4-f143-4c7e-b821-0ef8c1ad4e18",
+      "4288ccdf-b2af-4f75-a614-30a2eeb980b0",
+      "dfd5a4b0-c04d-4786-9796-dc0b732a9a96",
+      "4e325fcc-1054-4716-9884-70c6a9974487",
+      "676b7bb3-6288-4a74-8b0b-50e393ad661b",
+      "498bdc01-d15f-44b0-93f1-305671e478ac",
+      "e37b8a61-dd64-4137-a7a3-299c541a1749",
+      "b38c90ee-6fe2-489c-ab6f-12148c83407a",
+      "53cdd896-531c-45ad-bb59-29b6016d93c8",
+      "bdd33b3d-9537-435f-a6f6-5535b5bb0723",
+      "76612a98-7afb-42b5-b73e-c5e4bad3b2c4",
+      "4d03da90-33a2-422b-a3ef-cf06b6adb31c",
+      "a9c5edfb-3eec-4f70-a0be-4d6e9e02207b",
+      "4e84c874-c26c-48fe-96ab-024ed96eb395",
+      "df17554e-b0a8-43c3-8956-311b8815a9fb",
+      "1f71e583-f225-4601-b6bd-7cdfbb67c7bf",
+      "ced422f1-bb7c-43f7-9887-5fed228a8246",
+      "01ffd153-7271-482d-888c-e0f402436600",
+      "ccef031d-2b4e-4603-b9eb-461d9a024253",
+      "7b9845a1-4aa0-49c8-a3dd-8ec0495e42f2",
+      "130d9d5c-829f-40bb-ab0a-8bf0395d17dc",
+      "a0c89c83-2024-471d-ab93-5dc10a699fd6",
+      "237ba606-a999-4607-983e-4310a21ee69b",
+      "2db2cda1-2d7b-450e-a65c-332c2b3b0a82",
+      "05a436f5-5a99-4eb9-acbe-790ac1737afe",
+      "688e0fda-3e9f-4e6e-897c-373c26a4d55e",
+      "e91598dd-7076-4626-b2a2-1482e5161bb8",
+      "bd2a9b24-5dc3-4bd1-a0ee-34dd8436831a",
+      "a3f8f771-306d-4ae1-a29f-f4e47159d025",
+      "e22379bb-65a5-4218-bccd-9953fdc4c53f",
+      "d96abd28-7705-452a-969a-8b31aaecc9c9",
+      "960aff6e-f1f2-4bb1-a353-8930d7993864",
+      "3d5df28e-461b-4c0b-ab29-b57721175206",
+      "05182eb1-a23d-4b91-b039-037c6fcf5fd0",
+      "fb033ba8-398f-43d4-bce4-cc3ec4e520ce",
+      "b3b8771d-578d-463d-9154-423b2572b9c4",
+      "7fe442eb-ee0a-4dbc-a419-13f0621a50fa",
+      "4a6004aa-a8ed-4f3d-8474-48afea32219c",
+      "476599e9-7b6e-427c-b7f5-fd53b30786d6",
+      "6afb4c49-604a-423a-a886-e0a92d930c01",
+      "b1a33afa-495c-4bab-b71b-0592f05257d3",
+      "caeec663-9c76-4033-81d4-4f9a5d502f52",
+      "61d17c7e-45ff-4526-bb09-67680673e885",
+      "59fe5054-aa0c-4dc9-b9db-bb56e074a67e",
+      "2d23faa4-d79a-4b2c-8576-1bcb172fc9f3",
+      "635c2f28-6a65-46f6-8e42-791355bd49dc",
+      "a13c34bf-128a-4695-bc3a-afeaced114e2",
+      "f6460328-c11c-4a48-b7e6-baf4c1d93c43",
+      "9143b4d7-9320-4d63-8763-265e991b562e",
+      "66db55e3-6eef-4d7d-9a42-949fcacfbbd8",
+      "9099de4b-7350-4708-af9c-70496a20225f",
+      "97f2b645-cad1-4875-a28b-2b57aadd9921"
     ],
     "confidence": 0.652,
     "method": "hybrid",
@@ -102,27 +102,27 @@
   {
     "group_id": "dup_003",
     "products": [
-      "c5437329-b4ad-405c-98b2-ca652bf85ccc",
-      "c55fcf92-1505-4ac8-ae24-84157723e869",
-      "31cb9020-3673-4818-825a-c376acaa88f7",
-      "52ed6df8-54a6-4476-b41f-74add3eff47d",
-      "9bbc9940-c52f-4ee3-9dbe-9ba312b714aa",
-      "e6beb527-f045-4d85-938a-06e50aad1641",
-      "441aafb4-d6b8-40bd-a4d8-c2c59d9a0744",
-      "a3208252-c9b6-45de-8b92-19e028b7cdda",
-      "91417c97-595c-4de1-aae1-b5314f29e01b",
-      "9f7654b0-b04b-4eee-b4e3-bd35da924bf2",
-      "f6dafa3d-469e-4849-9be2-7e96a46a4d68",
-      "90acedd0-b20a-462d-9fa9-7cdd0f708fae",
-      "33814e17-4ee6-4fb1-8701-571a319824bc",
-      "6c7c7960-6cbe-44bd-8bc5-a397e824f5d2",
-      "e1a44b62-dd7f-49d2-8d47-8f7cc1f1038b",
-      "4b88ab4d-ff80-4971-b429-bef58160576a",
-      "dfe73815-9ad8-4d4d-a54a-1c46ffc2015e",
-      "18d3a436-3e49-4ffe-9311-ca5c66b0b912",
-      "5a999351-299f-4c34-9bb5-4d1436f94331",
-      "a2ff7064-00c2-44ee-a9e7-eb9ee3b65833",
-      "88ca188b-c74f-44d5-aa1a-bde5074e183a"
+      "c5180a74-48d1-4106-abb6-0082b5da661e",
+      "f0321999-9261-48c2-9625-0d027686b1b0",
+      "3fafa4a3-32ce-4cec-819f-c0b98736789c",
+      "cd513bf1-ff00-4992-aa31-23adab949b16",
+      "4444e1c7-29ce-40ec-b2fb-1a18dd9186d0",
+      "bf7edf6f-ec71-4c6e-9138-bb4c9772e862",
+      "266de9a6-6d0d-4692-8d42-a2a391e1d663",
+      "99255129-a955-4896-9f71-e9f1c3f9a274",
+      "1bf5194b-9ddb-4009-857f-4077db7eaedb",
+      "22818fa9-4e44-4cc0-b98f-99b9bdf420b2",
+      "0d58a2a5-0f19-451a-9c01-238168e72a70",
+      "e7c71303-f685-48fe-bcb0-fbb0f836954e",
+      "50b0a333-f668-47cd-99ed-29bb9933f051",
+      "961df15b-2b17-4e4a-8964-2f52a3dd426f",
+      "691dd015-9dc1-4261-a0f2-be45513e5b8a",
+      "d1f75d01-b12f-4c40-bf77-7b79a6da501a",
+      "177fb3d2-21fd-4bc3-b8ed-958f8b8fa306",
+      "433ef2bc-6ae9-479f-ba9a-f55edad20097",
+      "d23aa195-88f1-438a-b251-2cc67fb8d87e",
+      "e183c4e4-251a-4770-b7d4-c4ac5f4d8130",
+      "8d37f0f9-488c-4913-914f-a015e6d8822a"
     ],
     "confidence": 0.665,
     "method": "hybrid",
@@ -136,47 +136,47 @@
   {
     "group_id": "dup_004",
     "products": [
-      "c77e3df5-4e47-4521-b618-5493a655d481",
-      "c4b663f0-50c1-4daf-b30d-c3ef66e0297b",
-      "b7909ad5-e775-42b0-82dd-68b664ca58e0",
-      "e146d1fd-2c07-43fc-92ea-e35e4661be03",
-      "9ae400c4-a1d0-4a86-aec1-c64eddf7f6cf",
-      "17c0eb55-51b5-479d-9237-1ea43e6584b2",
-      "38878d54-a610-44d7-854b-470ab839291e",
-      "527ec746-d85f-4902-bc82-1c784fe17502",
-      "36ef11a1-238c-4b77-ae0b-f2bdac6e5c0a",
-      "52639342-f688-4928-b5f6-022ff6d01f3b",
-      "44fabf55-7305-4716-99f7-8d471dc1d527",
-      "fe32c731-71bd-4cdf-bf30-552281a7a309",
-      "122010da-ba23-4267-99c1-5c88182d318f",
-      "be49fce1-ee73-41d6-8c25-4fa9fe97db56",
-      "6f22060c-71a1-45cd-82e8-8b9dff2432ce",
-      "55fc7fec-7c78-4e41-ae46-0074ec242f94",
-      "0adbcc64-5a48-4631-b223-9eb79604526d",
-      "2bcb7b60-77c3-4722-a6d0-b753a58a562f",
-      "7c5fa88c-0a49-4c83-9ded-11d082f32057",
-      "47a866eb-98bb-4084-9366-ab4b5029cb4c",
-      "1167d7ce-3abe-4052-8627-bb9e5d5da64b",
-      "a0d2908b-d6d0-4c65-9f85-e2ba8d580a53",
-      "2ef09def-febe-41b3-abc3-9af7e6e0f7fa",
-      "f2951406-7d73-42ee-8a43-d3aa32f92097",
-      "fe602525-15e5-4e1e-a8c6-72a0f9b2324c",
-      "f516bac5-75dc-4cb4-8ed7-f9e88b62664c",
-      "f6b04d8e-587d-48be-91f3-357787fc43dc",
-      "146356d6-1b0d-461a-84ed-a3a896f500fb",
-      "cc760160-7912-4340-912a-f48a6cfffa56",
-      "a54b7b1f-8ea0-45ba-a670-ea0d6a159fdf",
-      "4d6b7ed1-377e-4304-a111-67e30764c4e9",
-      "73c1cffb-f949-4774-9948-17ccdd39a259",
-      "2243dffc-f100-4aa1-bf49-9e8ce850f69d",
-      "f07ddab1-8b1d-43b0-a723-7b587c98df1a",
-      "2d3b8a0b-dc7f-4f7a-84f6-59791e208069",
-      "7400c50f-7534-4a10-817a-d44470401b43",
-      "316aac56-ab60-455c-844e-266d0505d837",
-      "b121927b-42c7-45d9-951b-09bac29305d1",
-      "c953cda9-bff4-4d79-a8bf-a285e8268dc3",
-      "4bb478d5-afe3-4975-b030-94a3401f77c2",
-      "49903701-4eff-4362-b979-a605eedc490f"
+      "084bc698-3e6b-44fa-a6f5-3a1178bafd16",
+      "fd9ad7a0-4101-4880-b070-6148711bb7ab",
+      "e48030ed-a1db-4cfc-9d63-5ec44c121bc3",
+      "3fd0e2fb-1f45-4955-8b5d-a1996b95dc93",
+      "d4a0a94c-73e4-4e5b-833b-3482b4b9625b",
+      "1ed40024-bdbe-46df-81cf-d9bf42280e4f",
+      "ccb925ec-2a00-4ca2-b665-866329c162bc",
+      "470fc6b2-6681-4b6f-a630-9b3c5d053947",
+      "9674617b-a501-40d4-b735-80e6f217191a",
+      "c48fc2c7-306c-40d1-aba4-14da426c5382",
+      "b28ef7b1-ceac-4531-81a6-1d0939b821a8",
+      "26a41aad-fa82-440e-b8d0-ee72f3a8eefc",
+      "6c8b90a2-7cd7-4b1d-bc2f-4f16358855da",
+      "d2d2a1d5-22b7-459a-be29-7c17e6192d0e",
+      "96c94e35-d791-4fda-b7ee-862b29bfe8fe",
+      "132e992c-7b13-48b5-960f-97260594c050",
+      "0a35799b-5d5d-47c8-a1ac-3614ba63ebff",
+      "969c46c5-7205-479f-8219-2e24eaf561e7",
+      "1c02da62-02f7-473d-8d40-759379102e0e",
+      "ef1e0545-ba23-487f-a410-7c73b4d34287",
+      "5a5cacc3-827b-40d3-9eb4-51a4244c6ba8",
+      "83641689-dadd-4a9e-98cb-e6db1284f459",
+      "538b2456-0be4-4f09-a36a-76c8f032e944",
+      "56efc556-8b49-4c7d-8a24-0ce6b25635e7",
+      "6ea06d66-ac57-4a71-899a-a3569c336900",
+      "68c818c3-ca8b-42e6-8dc4-b6eee6b1721e",
+      "e7d9b4ff-aba5-42b8-8b3b-fccbbed04e4a",
+      "2530b41f-5dc0-4170-8d32-e811ce54364f",
+      "75cb748a-9d03-4aa5-bed7-f2e17bc8e7d7",
+      "aa150d2d-b359-44fe-aa66-b76d8b25f2d9",
+      "921842fa-f12a-49d5-bbb5-bf7f62560b8f",
+      "84c7adb9-6564-4c74-adc0-47bef9ad753f",
+      "933fe7f9-8389-4cb4-bf7d-48878ebc5309",
+      "8dea08df-bb4a-455c-b789-45e936c95ec9",
+      "471fa8c2-c3c2-4d38-a63c-9ee31c6f48b9",
+      "7a8cc1cf-d8b3-4739-864c-1ae8e5165c24",
+      "513f8ecf-9a76-45a8-b9f4-606880d81d98",
+      "a895ce02-b50f-463d-8b94-90ad81867202",
+      "203cb368-fbd9-47d2-a2f8-4c396fe6892d",
+      "78a30abc-16cb-4315-8952-a2fefaecf58f",
+      "88750b1b-59d0-4c84-94c0-4fc599d20d11"
     ],
     "confidence": 0.665,
     "method": "hybrid",
@@ -189,16 +189,16 @@
   {
     "group_id": "dup_005",
     "products": [
-      "bf7a584a-36b7-453f-beb8-82536e062de2",
-      "f545f7ac-3550-4ba7-a5ca-746fb953a82e",
-      "e93e5e5c-f8a6-476b-a1be-df82f628ccdf",
-      "0fc22538-d326-4934-87b7-cbfafc17ea63",
-      "3c086622-dc19-4193-89f8-7e70c44eb109",
-      "4887b56f-b4ab-48ea-8bee-292a5acd3f3c",
-      "77022f26-0458-4906-beb7-4f2422aa4660",
-      "e6743fa9-8c0f-4adb-9b88-ba76aba0f114",
-      "291c4596-4ccf-40f1-8f66-2c4d47a19f25",
-      "fbfc200a-c000-45d4-9f08-0bf6b02d5919"
+      "1bcd57e0-c969-4468-8828-f2c1bec8869d",
+      "8e13c69c-03a5-40a5-8a6d-8f1910309001",
+      "4b2aa88b-8a0f-42d6-b101-5e924de82c3b",
+      "fbe9231b-c6ca-4bd3-b7be-752648edc461",
+      "6462d9eb-6781-4653-89d8-2c4da0a1aaf8",
+      "dd071499-48b6-4236-9c7a-67b71886b858",
+      "9d8a73e7-152d-460e-b2f2-d342ee185663",
+      "4dc81f43-6be4-4d2e-8c23-0d64d13bbcd6",
+      "daa1ebe0-98ed-4ae5-bf7e-3597156d78f6",
+      "d7eeaab3-2138-4780-a6b1-c140c0f57cd2"
     ],
     "confidence": 0.631,
     "method": "hybrid",
@@ -211,50 +211,50 @@
   {
     "group_id": "dup_006",
     "products": [
-      "694492e9-ce96-4601-8906-b2e5584c09d4",
-      "f2b11a0a-c29c-41d4-a2f2-41c0ae962207",
-      "9cef4a66-4981-4879-a81e-12ba0c4f0c87",
-      "13bda0ad-384b-4fe9-a4e2-97f443b3f776",
-      "663311f3-5c50-4370-9e70-4a841a098581",
-      "99967aeb-7fe4-48fd-a1bf-35b7570f73e0",
-      "491bf1b9-a4e8-4c78-ba6c-8180423f2956",
-      "ffcff2d1-10bc-4a0b-844f-76390509146c",
-      "fd457c2a-5a91-40bf-b363-494b595fa507",
-      "96758d5c-c6a8-4758-9714-5b8d675e08cc",
-      "3f5f3a22-456a-43dc-9ca3-51cfd6f1634c",
-      "1ec740e8-184e-4107-a797-ce6d5083381c",
-      "7ca5d8ac-7457-4273-a5b6-710d44ed9f19",
-      "6b0ddf27-294a-491d-996a-d05344fa1ead",
-      "2d8ef620-6490-4eb3-827a-98a1abf8af16",
-      "1dccab06-8abc-48dc-82e3-fd40e11ec4f8",
-      "e8aadf1d-cb34-4bbe-adb4-88b242a032e2",
-      "28756175-06ea-4c7c-bec1-13a7b06b9a91",
-      "afa693b0-d9b5-4dc4-82e7-41095c7bc25e",
-      "5f4d174b-0f04-4b5d-805b-ff21ebbe7bcb",
-      "89a4c611-23b9-4844-afe1-3b4a622553c5",
-      "bfa2a2fa-67fc-4095-ad24-68166787b367",
-      "73d1b378-08ef-4dcb-bc32-c9cfbdd31bcb",
-      "4f039b28-8001-4849-8617-7590fe2b9670",
-      "74966fbf-154d-41cb-809c-d345be089480",
-      "9d21e815-c47a-4de4-b25e-0f9f79138268",
-      "ab6593ee-44ee-43b1-acc8-9b813bb388ce",
-      "f3ac7e7b-ff52-4434-a76d-15a23ce13415",
-      "95c94a5d-b71c-442c-b4cb-0b84a512babe",
-      "5f444a9d-50d2-41f1-8692-6efd2a973132",
-      "b5a72a9f-21fe-493a-92e0-08a42b3677ac",
-      "c30a081c-e949-47a2-a318-e9c307920720",
-      "366453a2-cd66-4437-917d-8d4047b353f3",
-      "58546385-b23f-4da2-a4ec-43b1492f0986",
-      "63fdd97c-c27f-4f43-a506-5ae4d96c1731",
-      "4ef6235a-2fb7-49b8-af23-dca7df5bb327",
-      "6d8ba030-b6d6-4e94-899e-f9c0bdc1db1b",
-      "21ebcf55-95e8-4d6b-a88f-92325d80e08b",
-      "e4914b06-2e21-4a18-b819-fbe49ce5b841",
-      "956e218d-815c-4cdd-9d14-52cf01520c7c",
-      "e9fa18c4-f670-4ae2-a9f5-1a6548fa4464",
-      "da2d2a22-512f-4a35-b211-bed36a1abb06",
-      "db898891-c75e-49b4-a73a-711b2a22e2a6",
-      "7b8803f2-2be0-4bb5-bde8-b58dbb55ee00"
+      "25e451dd-5d71-4642-aed3-b1ed5a6c8fb4",
+      "1d79ce05-9a08-4218-ad50-f051f36ca2b7",
+      "0da24b62-d468-42e8-8fee-ac05e1b2630f",
+      "f3df18a9-cc19-44cc-8a60-2941584ec902",
+      "e45fd8bd-95ff-492c-ad54-1287575f5388",
+      "4e2ab869-5ea2-4d52-a4ed-c3b9e55cd604",
+      "e8bac3f9-28e8-4a57-9b08-9c40e26b716d",
+      "a26ef29c-c00a-4f5d-9107-e62dc292f0cc",
+      "806da9cc-1f57-4aec-a791-ade41eaebbe7",
+      "796e7a23-8c4a-4745-a92d-6cc551591c19",
+      "213aa742-0a67-4bb1-a4e6-dd6c49701d1b",
+      "bdab589c-5792-452b-b882-8b2d8a7906c8",
+      "4e9f0eb3-a279-42b3-9ec7-7e85a1a24a3b",
+      "79936d2a-5313-4d84-82c0-ca5fc0cb4082",
+      "98fd9c9f-594e-43ff-9e6b-dbb346706228",
+      "2e640b9b-2797-47a5-ae79-dfdf25863899",
+      "a65b6ea1-c921-44cd-9e45-651426531ea1",
+      "c4d1a7ba-8681-48aa-ac36-850627c05be2",
+      "a1190282-f77e-4405-bcbd-a16d634ad079",
+      "4a882025-7bc0-423f-a947-ad575940c3bb",
+      "9087717f-13ca-4f1b-9bba-6604e80f3eb7",
+      "10c262be-5987-499f-a34d-432b56e29729",
+      "236e752f-a73f-4010-af6f-a40e11e70db5",
+      "039b9dd6-5d66-4505-b767-ee4e9bbbf36f",
+      "776f6019-e97e-403c-8cdc-7b32f6375140",
+      "4e5d1e44-7ec5-4044-946d-8908cb501004",
+      "97d01253-a6b5-402f-a72f-9faa5a0e06b4",
+      "cc7f069b-690d-4178-acc6-8de8877bc698",
+      "377e33a8-f39e-479c-944e-62bee17d8087",
+      "35803fd0-1a0f-4574-b512-18be9d61c19e",
+      "ac4ed390-d64f-4bf5-b5dd-835d44710359",
+      "bd832277-2051-46c9-975d-89cc0f396fa4",
+      "aa442de0-a26e-4cad-8b43-766dce42ea34",
+      "4a836cdf-27cb-412b-88d1-373ad5bb044a",
+      "7ae9b8fd-b18b-4f7b-bd3f-05354bfcb2f1",
+      "18633221-4bc5-46cb-b55f-aa426b43cd1f",
+      "f0813c25-4bc0-4798-adf2-de7837675e9e",
+      "6d2a86fa-3dab-4309-860b-8b3034b8bad8",
+      "680924d2-0c0e-41d8-a003-33cb88b56846",
+      "033f4424-6e08-497c-b7a7-5530ce9444c5",
+      "9fd70641-b143-488c-891b-bd08842df250",
+      "f02cbe81-2af3-4633-aeba-4fcee1821fa3",
+      "1af7876b-be00-4ad0-b5c4-67752aec0e80",
+      "2d96de69-d8c8-42e1-88c0-d3bd511390ec"
     ],
     "confidence": 0.657,
     "method": "hybrid",
@@ -268,31 +268,31 @@
   {
     "group_id": "dup_007",
     "products": [
-      "e4de0ec7-5270-4148-bd0f-b532192c5c92",
-      "fef35331-bfe6-4871-986c-0ee7db4e41f7",
-      "fc2b10c3-35b2-4287-a668-a44aaacc3649",
-      "7f30048d-ce5c-4544-bedb-09519fb4d23c",
-      "4ae8bfef-161d-4215-b298-83a5ff832454",
-      "f10c007f-7f73-407f-b30a-e343788f2434",
-      "039e3156-69b4-4ed5-8c58-8a744cfb7a3a",
-      "b844834a-5517-4050-b5ff-dbd08679c2c7",
-      "034c2074-8db3-4cfd-a287-9ddebe3a1398",
-      "3ee93c4a-059e-4c85-9871-02c75da54c89",
-      "8e6c1bb2-46c2-46b9-8095-a15f0466dc7e",
-      "ba1d3947-1d7f-4a78-aba1-693c689f002a",
-      "2ff84e8b-0e63-4d4f-a04a-4977cdc5d347",
-      "82d3f235-8978-4485-be36-7a9fa02e2025",
-      "4d07336d-38d2-40f6-bbc9-f29349fab670",
-      "3496a5cf-2569-490c-ab78-acf69e2aef2d",
-      "1349a940-346d-41f9-b196-3ef694be4c7e",
-      "81f0f600-fc9f-4721-9a0c-17f93cc9108f",
-      "00d06ece-6352-486c-a7b2-2a53e863f258",
-      "60d3444d-c223-42d9-aee1-5fb8cff682b6",
-      "b0e49d1d-3b93-46f5-8aaa-8e37798ba199",
-      "7815a9d8-f995-4ee8-af7e-c8a422d8cf04",
-      "9d8a2fa5-5781-457a-a5b6-3b4d195fd3f3",
-      "21c8308c-ecef-4cc6-a4bc-5beba9ea752b",
-      "055069c0-c98d-4913-ba8c-026fdd3b7c12"
+      "68fc9210-75c5-4b70-8242-6e767a53beab",
+      "96dda3d8-5a52-4b56-9e6b-83d1705bc8ce",
+      "8222cb00-2d15-498a-a2e0-ced1fb1432bd",
+      "2faf7b43-a08b-4228-92a9-c6e3536b280b",
+      "644d17a4-23f2-486e-8e49-50fe362fc7f4",
+      "ae169340-3845-43c1-a266-7c441fb9e302",
+      "40adc1fc-efdb-4ec8-a8c5-5386171ef0f9",
+      "8c977166-840a-4f24-a8fa-22f2866686d9",
+      "af446159-7723-40a8-b6c9-8be216c5e9cf",
+      "302a2d70-bf1b-4ad8-be4f-59d323697462",
+      "cae6d5c5-182b-410c-955d-94e86a6bdfb9",
+      "34c26375-85f7-49a7-b297-cc7d144df392",
+      "d3bf89b7-3939-4019-b5ba-356d93615161",
+      "f99d3fdd-af4c-491d-b514-6bf7b7f12394",
+      "14b904a8-d8ac-4e26-9828-e6af5703e4c9",
+      "a2b22ce3-6307-491f-96c6-90a574957d6d",
+      "443aa44e-d331-4a6e-8f98-ff158bd2a499",
+      "ef2d3179-5156-4757-8575-bbedd48c2b1d",
+      "f5385801-f2a4-4825-9725-e6b36603c0a1",
+      "9b7be74e-09ee-412b-b32d-306a88c606f4",
+      "3862ca14-c097-41f6-b5e4-2150f2a0e818",
+      "903ae0ad-de81-4eb3-9f7a-a649eb1f84d7",
+      "511b5c16-d341-4a86-ae98-74cc08598316",
+      "071e0750-bc26-4059-a849-e9ac22de9941",
+      "836cac01-210a-48f1-a794-9b2873908cd0"
     ],
     "confidence": 0.639,
     "method": "hybrid",
@@ -305,13 +305,13 @@
   {
     "group_id": "dup_008",
     "products": [
-      "a5b37f43-64fb-474c-af71-eafaf4625fcc",
-      "0294f8fc-5ed1-4914-bd41-ca9eb6dab050",
-      "95eeb37b-122d-4e26-9cfc-3a162287666e",
-      "7f274c6d-2220-4848-b530-356e98ac1b0a",
-      "5bc47fd3-f543-4900-9c75-39f3baba3bb4",
-      "280ef684-755d-4ca8-b131-ac50a58cb416",
-      "02b7f0ad-a780-4925-8be4-49cffa1ebef4"
+      "ac5c917a-f317-4a1d-9f19-273925927e25",
+      "d18e4750-1e0f-493b-90c4-40370c7c25ff",
+      "f47798bf-e528-414a-8256-09ad0612ce21",
+      "49f51898-9c8d-4fce-827b-cd546359dc9c",
+      "5a93dee0-c37b-4c3d-b88f-08726fb7666b",
+      "8f9d8649-f148-4a59-82f2-b821a3bac0df",
+      "423f814c-4a57-46f2-8784-c97853a71587"
     ],
     "confidence": 0.748,
     "method": "hybrid",
@@ -325,16 +325,16 @@
   {
     "group_id": "dup_009",
     "products": [
-      "d83be72b-0720-40e7-b297-31e4e0cb140d",
-      "1ee943e3-93e1-4a4a-9af5-69d649ebc04c",
-      "0753381b-57b4-402e-96b2-9ba31ba4c8e0",
-      "fd5487b3-8762-4b3d-9531-6c2e8b4677ff",
-      "d5d99f28-ad98-44d9-9883-6ecefa90a411",
-      "a22865fc-22f3-4084-97a7-fa1af102273d",
-      "d139fd6b-086a-485c-8f54-5851a9954526",
-      "78f21e1c-6749-4b79-89f3-4b771938f715",
-      "6688d666-0b5c-479c-b904-e6b58dd9a6e0",
-      "47519df3-acfd-4267-ae0f-730653a85f95"
+      "cc3aa932-09cc-449b-9681-a4ac1bd57b34",
+      "6dd33d86-96bd-4d98-a45e-93b14b01d593",
+      "c2710eef-0aa5-435a-8ab8-eb564eaa5abe",
+      "5a1f9a5c-edee-4c6d-84fa-92f7b68dc614",
+      "33aec609-a5b4-4529-bb79-b51f23bb8af1",
+      "65174b5f-aec2-47a6-82b4-148def27e433",
+      "4e78aa2b-8891-439f-87a9-4afb57dbb2cf",
+      "0e3a365f-b9f3-4487-8793-34583a40dd20",
+      "362d857d-b8dc-4708-be8e-1cded0dbc657",
+      "20b289e9-61f1-4c09-9cea-5bfc715dc2a4"
     ],
     "confidence": 0.753,
     "method": "embedding",
@@ -347,35 +347,35 @@
   {
     "group_id": "dup_010",
     "products": [
-      "c1662ef6-bfcc-4a8f-9a9c-9b68a3079a59",
-      "ebdb3b51-6dea-42ec-925a-93202af0c6e3",
-      "f94cad44-8aab-4caf-8fa4-44d05b7a11bf",
-      "487dc0d0-f147-4748-a705-5ccbe14a0fd0",
-      "4d1e9984-d6bf-4b0e-808f-5e81de3c7df5",
-      "dededb89-b927-43bc-8429-b48bac369112",
-      "682eb348-a568-4fef-b78e-28ade6191c6b",
-      "c9cb314e-4d4f-41af-b693-69847c67170a",
-      "cf25aa04-8c73-4d6d-946c-5fada85b39cb",
-      "6200a3b7-2771-45d2-b59d-cbc329fb844a",
-      "9fb1224f-5271-4eb2-aba6-6390b4fa5261",
-      "1009d155-203d-4067-87b2-0436535d8f21",
-      "b767a24e-00dc-40cb-b3ef-53b81c3f1247",
-      "175dfa6d-8ee8-41f9-ae4a-ba8e31024b62",
-      "6adf5c9a-6d5f-44d5-bc49-ede7f11d5dcb",
-      "20302a98-eaaf-4957-9b7c-51beebc4d884",
-      "9b8c12c7-bec8-479d-b4da-3721bd2b26b3",
-      "c62728f0-c524-45f7-8b3c-21c22762a9a0",
-      "ea972f83-ae76-4880-96dc-5e8da7b53b97",
-      "9bdea8af-b253-4dba-95ea-fc204fe5bb5f",
-      "4576c972-3a3f-457d-8668-a69fe5f3bb04",
-      "e38cfa93-bfa3-4e0c-99c2-8a288891206b",
-      "4b26a1e1-b1b2-44f6-8925-d7952d72fd17",
-      "16645bb5-abff-4b85-80c0-ea7bc199c79e",
-      "9de56700-ec4c-4bb3-8f98-b175169e5020",
-      "b4e811f2-d753-4a79-8078-b334e86b4887",
-      "fc640216-9639-442a-9dd1-f756d36c2f4c",
-      "cb692700-a0f9-4869-9265-3d696012f7b4",
-      "2122d373-373d-4c67-b902-325e8327567b"
+      "41b4e5cb-5611-4318-926a-9378c1eaed92",
+      "3b0787ec-0c4d-4a85-85f8-79b12492c1f9",
+      "04aa31a4-20f3-473d-977e-0240fb1096a2",
+      "06ed93e5-f908-4c1a-ab38-0731a9429c07",
+      "9deb9cf6-c171-4d78-b51a-51d5d92405e6",
+      "b692c1eb-dc62-4138-9741-4bc59019fb48",
+      "efdec239-9a94-430c-a58b-106453e01ad2",
+      "71da9f6b-44ee-477d-9854-628c5c6b8b91",
+      "4a3e4f15-1c64-4c75-a98f-ccc26521d834",
+      "67a17463-7141-45cc-87a8-22053131ffb3",
+      "eeccf49f-6222-4b9f-8125-0d0260d51877",
+      "9e1edf11-031d-4893-8525-c0902ccc275b",
+      "a0456655-fead-4207-9d84-7cb801e6a870",
+      "0d0abe8f-96ea-45d4-a920-b0318026d5ad",
+      "98fa10a7-75f8-4e26-9f8c-5ac83c17daeb",
+      "3752e6f8-a8df-462c-bdc5-a3e3d4440754",
+      "d788ae1c-1a7f-4ef4-9ff1-2d968395233d",
+      "c28d93be-ab93-4914-a5a7-01815870143c",
+      "3a35d711-45c7-47c0-80e2-60639ec2e799",
+      "3e897ebd-5ac8-48e5-962d-73670ba27533",
+      "12ef5475-8f67-47a2-a2e3-74859af6ef7e",
+      "593ef19f-669b-49a3-8cef-3c0aaceb7802",
+      "dd4d0a75-185a-4395-b8ac-92e420fca39b",
+      "e34bfaf7-d766-49c9-9688-1d0d3ff7ca2e",
+      "93a0f4a8-4116-4753-9783-6b18d5aded15",
+      "9cd04702-9e01-4815-940d-42c739f71204",
+      "8caa7785-57c0-4ea2-98c1-8d581679ae22",
+      "3a74c064-0c3d-44f6-baea-f8fb49df9fd7",
+      "4dcfdca7-b7ac-48dd-8646-61d8587c3867"
     ],
     "confidence": 0.654,
     "method": "hybrid",
@@ -389,15 +389,15 @@
   {
     "group_id": "dup_011",
     "products": [
-      "9c7ed918-d228-4013-8ff8-064fc04215cc",
-      "a2584eff-9fa0-4867-9b6d-f68f264e2924",
-      "791ed141-4b6a-4922-b6d1-153037d2dd49",
-      "cb7c1a79-7cca-4fc1-8cd2-ceffac47541e",
-      "1706fbb7-a8e8-4348-839a-3c21024ec005",
-      "e48dcb8c-72f9-4ea8-b0eb-f365e425d18b",
-      "ebf07c3e-beaa-4c96-bd27-9efa6f711391",
-      "89c313cf-1b7a-435c-b38f-417483dc53d1",
-      "0a4eb4e5-025f-4613-b66f-6251d875dc22"
+      "ebfcd903-051f-4d06-8284-59efb3a5a823",
+      "00133769-1cd5-4b85-8370-fce0638acd44",
+      "c8cae154-b4e4-4bf2-888a-2e5cb36fd7c7",
+      "7383909e-2a44-49dc-9cd5-4c7ba6540655",
+      "43a274be-8927-4676-9ec0-da542d044deb",
+      "770c2bec-314a-470d-8709-fff64575fc18",
+      "ab762c93-1179-489b-8b01-e3cbc0be6d8b",
+      "e8edc822-e083-4fae-85fa-5ba1ea673a41",
+      "3c879361-ae1f-4238-9f90-b9d52f7d243f"
     ],
     "confidence": 0.764,
     "method": "hybrid",
@@ -410,12 +410,12 @@
   {
     "group_id": "dup_012",
     "products": [
-      "826cd7d5-16ad-44b0-996c-b5e3ee5c89a1",
-      "fc38e4e9-17f1-4aa5-8b8a-c5ca98b3c844",
-      "e9950dbc-fdd6-47a2-ab8a-707b3787359f",
-      "191f4933-9c8f-4858-bf81-a8d2d3771396",
-      "47fdfd0e-891b-423d-994c-2c5dd4965c59",
-      "7be0eca4-e4a8-46ec-ac43-dc51d41ba91c"
+      "afa59fd7-c0f6-4717-90d5-671c3dfb87a7",
+      "05a9c02c-10aa-4ca3-ac1e-8300fda8e271",
+      "3131de18-fb15-4ef1-8f3d-94b1500cee69",
+      "5958edf3-f0f6-4a69-baaf-2bcab6233f74",
+      "eb43b13b-49f3-45fd-b99b-ea981134451e",
+      "52dbce67-38ff-4a1d-9456-c4d6ad52b3d0"
     ],
     "confidence": 0.695,
     "method": "hybrid",
@@ -428,20 +428,20 @@
   {
     "group_id": "dup_013",
     "products": [
-      "a0506f45-1c84-4f1c-bf14-fea878e3c330",
-      "5932a853-6aaf-4017-a56e-355a53b51d4c",
-      "38595965-6a74-46dc-968f-92a2ceabe2d8",
-      "21df616f-0d40-463d-8102-044d4e0e38c5",
-      "4a00cd51-61fa-4c1d-8d8d-791395e7aec8",
-      "47f305e0-9651-4a70-8c09-95245cb73eea",
-      "6d88f934-c027-4adc-9e00-f3ff32b5e8b1",
-      "5d12b3d9-a28f-449c-9a67-2a4591f25100",
-      "34e6d0ab-7fe8-401a-9586-b58700e1b36d",
-      "e846b258-44a0-44e9-acf5-dcb0e7e1e5e2",
-      "374232dd-2dfb-4ce0-9184-722b02b59e92",
-      "650ee10b-b502-4b64-9708-da4dcecade21",
-      "4edef101-9835-4137-a081-b8531262866c",
-      "b9ac9a7e-5f77-4fa9-a335-63760d263ac4"
+      "9d24ada6-4804-4b0e-ae3b-a9f462e08d08",
+      "e24c766e-3fbf-4f1c-886a-302bb34c2c80",
+      "49839326-8cb3-4619-afd9-82b39675af2e",
+      "8784e7de-d905-4857-a8e3-41272e4bc85e",
+      "da8890e3-4ce7-40c7-811a-8aedeb253862",
+      "2cfa2d2d-84b7-47e3-afa4-0803a0de9b71",
+      "60f647b6-a0aa-4468-be30-c8304761788c",
+      "bdd630c0-9ed5-4a00-b7ac-5b482d83122d",
+      "af670411-b779-454f-8875-971f954de5e8",
+      "bc7f9b61-9088-43d2-92a0-6392d99e784d",
+      "7614ff87-51c4-4c6f-a41a-f631477c51f3",
+      "ecb3d28c-60c6-45c1-99a8-c758332f08be",
+      "d1f332f1-f3fc-489e-ab2b-892de84ccabd",
+      "2ecf89bf-dbdb-44d9-86b1-19fb5c09602c"
     ],
     "confidence": 0.645,
     "method": "hybrid",
@@ -454,40 +454,40 @@
   {
     "group_id": "dup_014",
     "products": [
-      "6a1ee69c-82ff-47cb-9f42-7b232a55a44b",
-      "592fd100-cfa0-4aa2-b9a6-6c4a5461434a",
-      "b22d6fcd-bc25-4930-9046-aa30517c422f",
-      "9ddc1973-bed7-42dd-bc73-5eaab50b9dea",
-      "25c27bf1-e89e-4857-9ef9-98e7b1cec105",
-      "257c981a-b41e-453e-ab46-7530fd180034",
-      "ffe4282d-0a8e-4551-be2f-0f62a1bf767d",
-      "be5a2e99-3275-4fd6-9996-397b19e8daf6",
-      "e34687cd-856b-4532-baf0-1037547f1eea",
-      "bd8ca356-9cf1-4df4-a134-dd654ecdbff0",
-      "6acbd43e-9b84-40c6-a1b4-2a8bb7dcbbed",
-      "ead64711-f0db-4858-89c6-eabf6e36ca75",
-      "3b0eb587-4cd8-473e-9773-3f22b8444405",
-      "a843c0d6-cad1-404c-a0c9-14ffe89b6aa4",
-      "2cd906d5-39f3-4566-bbcd-1ca93db6f9c4",
-      "632c5a71-6512-44b5-af12-70f7d9de6d48",
-      "dbf28167-91ed-413b-87aa-0ac94b7cb417",
-      "1df45c09-2779-4984-be50-45c7f4d3e300",
-      "bb2f3ce5-cf4c-4d5c-9b27-97607688449f",
-      "19bc449a-dcd6-49d1-90a2-c702dc23c736",
-      "361b368f-b8b8-4b5c-b6e1-d76e9a2f46f3",
-      "27aea3fa-8456-476d-8a60-b129f6b6cdd4",
-      "39a460ad-6078-462e-91af-bf666daef73a",
-      "e48d9703-eaab-4347-bfea-707b97b16fb2",
-      "f03cebf3-7b8a-4ae9-9ce1-5e9de52a286b",
-      "43183017-1e7e-410b-92e3-c91704472a95",
-      "cb1b50f7-d1ae-4356-91e3-be3689c61aeb",
-      "1f05eae6-c431-4536-a35c-a6dd0c2f5c54",
-      "d35168ef-9e28-4ff7-a2af-74f2e32f6bf5",
-      "4464cf84-f5c2-418c-99af-9d1df931dd45",
-      "bd7a092d-9938-4439-a98f-c434fb40d30e",
-      "1f395bbb-1659-4fc0-8e88-0c54bd7ee3fa",
-      "6689f2c9-59c3-4e00-a3bc-c68c73568cd9",
-      "d7f111fd-68c3-4fd3-a694-6894814c5ab5"
+      "103fe675-5a9b-441d-a63c-024e3ab8fe09",
+      "3be41921-91b0-4c1f-8111-b1461b438620",
+      "039f2511-eff7-4029-8ab2-5cb63b15087c",
+      "002239da-8df5-4c5c-9368-7586c89344fd",
+      "421d573f-6736-4c01-8352-2b94a3cc221c",
+      "12e23189-0ff8-4f2b-852b-b103b2a8a293",
+      "8e1f7a02-f82e-49f0-aec0-a509738f6963",
+      "b5c8fba1-49b7-4534-95d7-c6bc9736023d",
+      "834cffe3-bc5f-4d72-9d12-d040d2cafbc1",
+      "09a0442c-9f0d-43ac-b5ae-deed6cb6f555",
+      "34c87feb-dd85-42b3-9a05-d6605404c5b0",
+      "d8433500-1c1f-4dcd-8cc9-9c6dab2c7a67",
+      "e6084812-0898-44bc-a1e7-2c87a8af9264",
+      "3c73b066-6f68-46ac-842f-0a42e8aba71c",
+      "89b991c7-54ce-4ba1-95c9-b758b282110e",
+      "945b704e-668e-4cfe-852b-17a17bfc05bf",
+      "dcc1b7b6-9d08-4538-9ce6-948cfe75e5c0",
+      "352aa3d4-fb80-44b2-a84b-9439165f4b6a",
+      "5e82cece-5be1-4124-989a-f3aa6c3411ad",
+      "cc1126e9-c780-46bd-94b9-dbd8537d9041",
+      "ce89e91e-0447-4773-bffd-a9ceb83e63ab",
+      "10922d61-85b4-45b8-9abc-f75ec46da470",
+      "a1d676df-86bf-4ddc-8137-585d9a07b263",
+      "81200788-146b-4edc-88a9-c23956d7957f",
+      "0a3aba09-2a4d-456e-9119-11014f793fd4",
+      "0ee87de6-3610-49f8-8fcb-c72b90780b68",
+      "0c27218d-2a8b-4598-9a28-a9ceb346eae8",
+      "6d270de5-3cad-400c-852f-dad266d78e4c",
+      "d9426dbb-49f3-4210-8b90-48b983ab33b7",
+      "4ef68510-e78f-40ba-a982-861269314a4a",
+      "ab8febe7-af50-4603-bace-0ae74bb7cb94",
+      "9b212b4c-03dd-49c7-a039-7d79f2639daf",
+      "f7e1de82-0f17-4a12-be3e-0ff43e62e66b",
+      "992083f6-04bf-452f-be81-3619bb8d0be3"
     ],
     "confidence": 0.638,
     "method": "hybrid",
@@ -501,9 +501,9 @@
   {
     "group_id": "dup_015",
     "products": [
-      "3d53f139-f178-469f-a3df-65f715f936e7",
-      "c22f8c9d-f5ef-4e9f-935e-76718ad6fdc0",
-      "90b407c5-c54f-44fd-99f8-962e17e56567"
+      "9bec7dbc-116b-476b-a03b-d432e8405ded",
+      "45ba09e5-b8e3-4f1c-84e2-af2700eb85a2",
+      "59f79518-c5e7-4484-ad14-1aa83df2076b"
     ],
     "confidence": 0.761,
     "method": "hybrid",
@@ -516,19 +516,19 @@
   {
     "group_id": "dup_016",
     "products": [
-      "f252fe52-c74d-4edd-8880-b726efdeaafc",
-      "1c8b0b4b-f92e-4654-ba99-3cd02ca00b6d",
-      "6c535491-456a-4dc9-af34-2330dddeab7a",
-      "eeb3268b-2e6e-40b3-b778-5abf94ca4d8d",
-      "1367e62b-8d8c-4b65-9ec2-c8c79391201e",
-      "eb17cbcb-337e-414b-9bbf-ed691b2f3ccc",
-      "0bc8c635-2b64-4f4a-9506-d46f46bcf2a4",
-      "84c9388f-5960-497e-a09d-bc1439327015",
-      "b2d7f582-0157-45af-96df-481c94c5a9c1",
-      "7fa85588-5698-445e-ba05-d06df465c8d8",
-      "885622c7-26f7-4185-b392-30231b8c9a5f",
-      "c1fc6b58-7682-48cf-bd89-369707d05ca4",
-      "aa070d81-13af-4bf7-91eb-9ac8423f3491"
+      "ae551016-81a3-49d7-9807-cb93100fa9bf",
+      "f758ddf3-e347-4b73-92ce-bc1d44aa920c",
+      "339fba6b-e520-4b9a-b1be-f0bc6fcefb6e",
+      "444440b9-b0ee-43c6-8223-b415e2cf0181",
+      "bd745861-78d1-4920-8238-f1ffa47b816c",
+      "34847818-bb38-4086-9eba-edb951771544",
+      "959831a6-3a07-411f-b7ce-693c1f421953",
+      "71d1cc87-e72a-48c8-85ef-f1b9cdb17a13",
+      "41faa181-fe8e-4fed-91e8-236debcc0309",
+      "1144c76b-b39f-4da2-8bce-1b67f870d772",
+      "e36fc8c0-9045-44fd-b63b-9d8b514249b1",
+      "cd2dfaf9-d71d-4daf-8afd-693bcd847015",
+      "a854ccb0-db0b-4871-a03f-171657c39a23"
     ],
     "confidence": 0.631,
     "method": "hybrid",
@@ -540,10 +540,10 @@
   {
     "group_id": "dup_017",
     "products": [
-      "4a9753d9-f850-47fc-8326-5b11ee08b31c",
-      "e43c1326-bb83-4fd6-9c57-c2e7e8930daa",
-      "b4e56ce8-81e5-4171-90c5-83e0582b5c30",
-      "b5d13e2b-fba2-491a-9b0d-25f1bbe561e0"
+      "da0b15da-2506-4c52-a484-e9ea84af2a88",
+      "143815e9-971e-4f6a-9ac1-8cb4d378af2b",
+      "0d65cbd6-afc3-4c45-9841-3150861e70e5",
+      "0a3d5bc3-f446-436f-9419-cc164a0c6330"
     ],
     "confidence": 0.906,
     "method": "embedding",
@@ -555,9 +555,9 @@
   {
     "group_id": "dup_018",
     "products": [
-      "4d260c8d-b41a-408a-a77d-70898deb0fba",
-      "ff899831-12c3-4c1b-8ab3-a20fba709e71",
-      "eeac961e-1330-4013-a66b-6211f0c44ce7"
+      "a8e6cf36-d98d-4e21-99b5-bf04944fe675",
+      "79b289ba-76f6-4a57-a81f-8a955fb01282",
+      "f71f1aa4-f017-4af1-9e5d-ec03427adb15"
     ],
     "confidence": 0.801,
     "method": "hybrid",
@@ -570,12 +570,12 @@
   {
     "group_id": "dup_019",
     "products": [
-      "0ffa4e87-9e17-4324-8b9b-5d25929f36d3",
-      "5151aca3-2b6b-4696-abd3-b405354500ee",
-      "605c4d5d-a726-47b6-b661-32d23173946b",
-      "349fa7f3-b255-41c4-993c-6270a4fc8b07",
-      "0abcccf8-ff96-4530-ba0e-f7c0cf5d3a9c",
-      "47e431c5-9acb-4a69-951b-b51874070bd6"
+      "0772f2f6-34b3-4f06-974a-917d036faf79",
+      "646f7da7-0540-4fd5-9460-53ea7c63ca92",
+      "7d385d77-9487-4356-9d04-6bcaf8dc0fd5",
+      "153fbde1-b30e-48dc-9dd9-854b99af5a67",
+      "69036206-df0e-4a68-8c02-286f0e93a9e4",
+      "35727e54-67c5-480c-b84a-ad5acaf3c720"
     ],
     "confidence": 0.748,
     "method": "hybrid",
@@ -588,27 +588,27 @@
   {
     "group_id": "dup_020",
     "products": [
-      "1ed0cbd2-0748-407c-8c00-5396af855359",
-      "bc2d6884-8658-4588-bad2-32c98f86ea4f",
-      "894425c7-2944-4e5c-ae3b-be5b5acb96ec",
-      "f42cce4a-3f2a-4f5f-8725-0fed5900de4c",
-      "943f219e-dcad-4242-80d0-c2418e7efb16",
-      "8903a7ac-59b1-46f0-9d00-dbc1fa74b38e",
-      "a9eba85e-431b-41dd-b83a-ff217c897545",
-      "7f83c297-c328-43a4-bcdd-0aeecf05b808",
-      "0a631878-a728-45cf-98bb-9ef66cd06d03",
-      "4989740d-e5d6-4fc7-b179-5b42a2fdc92b",
-      "cc57f952-f430-4d49-880a-615d20b9665e",
-      "61b2b268-1aa1-4c94-9bed-ff21db8e02ed",
-      "45d9d368-03cf-4045-96ea-5988ae532d6c",
-      "7e60ee75-2cca-4b48-b85f-51ae6bc1cdee",
-      "1b96facf-0a0b-44fe-ad9a-52097eda0866",
-      "09c30e7d-d289-46a3-9ae1-6a4b89f5f7ed",
-      "aea78d5a-0c9e-49e3-8423-92ceb0988378",
-      "71e31982-5f0a-4794-b384-ec4ed016226b",
-      "833880f1-31d7-4be3-970b-27224ec54fee",
-      "1a3a5330-e05c-47b4-902e-d7bbab82c023",
-      "bdd7729c-71cb-4da7-8f2d-a5efb534924f"
+      "7ea52b2b-12a3-40fa-be3c-977a990e61a0",
+      "93e6d0dc-9c92-4bf9-b300-8be9c07d4898",
+      "febb242e-0bb4-4c1a-905a-ab959de402ff",
+      "361773bb-c7f2-4c3a-a32a-fa4708bb6f44",
+      "fc51a6c8-8a82-4bb5-909c-6dd5d6a845e9",
+      "fe5c3422-d9a0-451a-8c8b-26ff41254c83",
+      "494c32de-a355-4967-b385-76e51a7a3234",
+      "ab381d93-1f19-4fcb-96bc-e486db397317",
+      "f588a3fc-d107-486b-a8cc-bb4f3a8babfb",
+      "15b69bc9-35e3-4bd2-8893-6b8cbec6c576",
+      "ecb7cc8b-d7d1-4553-bb67-e6cdbff44ff3",
+      "12b7ba96-52f9-4802-b77b-2b60407d5c09",
+      "2d4394d9-dff4-4332-9e95-5452729be832",
+      "ad0af7c1-7783-4c39-a4d6-78db5fb98bdf",
+      "ae112ff7-729d-4ef1-ac49-3e75a4a74a95",
+      "e9933dfc-8b35-4965-8805-92e442935f27",
+      "2d7f9dae-efa7-4522-8195-292e464f421b",
+      "5c015840-dfb9-4a29-a941-e333da15fb15",
+      "985e9c63-488a-4207-9bae-eec588f7b7df",
+      "277d7752-eacd-458d-a763-180afd61f183",
+      "a61fcc95-04ac-45a4-9fc3-e2a497d421d4"
     ],
     "confidence": 0.663,
     "method": "hybrid",
@@ -622,25 +622,25 @@
   {
     "group_id": "dup_021",
     "products": [
-      "7ffa2e5c-4d16-44fb-bf98-5e3867de99f4",
-      "15bf6c9f-bffb-4d7d-ba5b-74d2aadbeb5e",
-      "50b40a7e-f499-4db6-a7da-42077f49a586",
-      "189a2b4e-5c23-4bd8-8f37-094caedabcfe",
-      "5c17e2f9-0974-4eaa-a9ba-b668bfd25972",
-      "2bcb618e-e944-49f9-bc33-3ca895679bce",
-      "7e0f7672-e75e-476e-b003-107316c08cbc",
-      "b49f3fc1-03a0-41e7-b1eb-4e5cc4524ad6",
-      "bc783ab9-87b1-4803-a729-46efa7f88fff",
-      "b2c68e1f-ee75-43d1-81af-23f596376b73",
-      "d3dc29fd-2740-4ed9-b090-0fd49623f56d",
-      "68b7e548-8f8e-46ca-a27c-bc574d814e9c",
-      "6d5e041a-a456-4915-b8a3-8ab4bc6e8e10",
-      "d1fbe4f7-3bd0-4043-bfa0-5666c2ff85b4",
-      "a458bc32-8a44-4264-a064-60b6dadde20f",
-      "ba539c84-80ee-46b5-8760-078d364c26d4",
-      "f529920e-02c6-4391-b7b4-aab00d9cc1f3",
-      "25d94166-9859-416d-8aeb-206de8acc5d1",
-      "046163e2-599f-4ec6-9b7e-60e38e840a29"
+      "a595701b-b5f6-4676-b628-4121f1ee8f28",
+      "0ea9ae64-c9f4-483e-aa71-8facaa734541",
+      "be8bb940-90ec-4325-9f6f-56fd835c4906",
+      "244e07ac-7476-441c-8190-a92cbb273c10",
+      "4dcf51a0-dd0f-4707-9b96-f99812a8a4dd",
+      "71e14315-aa1d-40fa-ae0c-ed495064cdf5",
+      "8cdd05d9-61ff-4471-9c20-6c0fc2a735cd",
+      "921a7bbb-6071-4cb4-a9d4-6d1b74a44c06",
+      "fa0c1f80-9005-4a3f-bcc9-5660f4a623ce",
+      "9d4b0f46-9172-492f-8739-91a1b2ff5b1a",
+      "dd3f2b53-5c73-4a02-8d08-6fbe96b0dd0d",
+      "d1beb1c4-ceb9-40c2-9a73-ce73e64ff350",
+      "d345a432-5b1a-46be-bcae-8bddcc1dcb6e",
+      "9d3a8dd1-1542-410f-9665-4260ae9f6a00",
+      "ac05c67b-8fde-488b-b57f-9a97242a28c2",
+      "51901e25-5e6b-403d-ba17-27947cfe41a9",
+      "a81e9f08-c0b4-47b3-a910-2986b07c4e62",
+      "e57b6311-7b72-4869-8f8b-fa32d1863af8",
+      "2f54438c-9f86-4755-9d91-58b50f20d76c"
     ],
     "confidence": 0.653,
     "method": "hybrid",
@@ -654,10 +654,10 @@
   {
     "group_id": "dup_022",
     "products": [
-      "5b5c5a00-b7a8-4688-918e-74f039c35980",
-      "a9044554-eb85-424f-bc1c-21ee96d9f40d",
-      "a40ff54d-ae5c-46df-a31b-43f4381a2281",
-      "63465b37-7ee9-4ca1-8b1b-6eb6ef4d431e"
+      "37fd1402-93fb-4f28-b0bf-649251d92c6d",
+      "636fa41a-b2db-4135-83e2-cf0267d5003d",
+      "57139cc2-be19-4297-894b-9249723dcb49",
+      "a4fe4c79-6210-4929-a887-2758b9c4acb5"
     ],
     "confidence": 0.652,
     "method": "hybrid",
@@ -669,23 +669,23 @@
   {
     "group_id": "dup_023",
     "products": [
-      "17192ed7-a848-4a02-b8be-a754c6cb2c31",
-      "a6094218-d652-4171-abe4-4604f67c0348",
-      "3ab6fefd-7791-4cfc-a486-1ba94c48616c",
-      "6737cb81-d264-48c4-8723-4abb2c976bcc",
-      "37de8042-6a4b-49b5-8149-df2ed730b655",
-      "47a41a5a-d2c1-4d1c-b274-ab7d8eb39e09",
-      "8957c65e-3f04-4c78-8ce1-093cfa76bb81",
-      "a645b2aa-6012-4d45-880a-d41ab718b58d",
-      "abf09112-3ef7-4063-a193-d764ec157eff",
-      "047e87fc-848c-4702-9f13-5d655a14cd77",
-      "d08a2d41-877b-410d-a305-6e5a5282b37d",
-      "7987203e-7f6f-4717-8bbf-5b73c676e2be",
-      "0613c8f4-5f59-420d-97f7-5f87dd960c51",
-      "7fc54c0e-0b86-421b-8c40-415e40df898b",
-      "2cb009ef-7aa5-4c4a-a188-108e9f3c91b5",
-      "93cfc552-a2f3-4b2d-820b-91ee9abcc24a",
-      "4f231998-8d1d-4cc5-b3b5-38dc8896937e"
+      "423fe4a2-acd3-4210-84b9-40c8d02da38a",
+      "8b34d6ca-80a6-4b03-8bc6-a85e6d9541e9",
+      "59a0b715-45bd-447a-bb49-2d2793a658c1",
+      "71c65e0e-06bf-4f12-8c88-c1f2be86075d",
+      "4e950ff4-edd8-495a-80dd-587aefbce5be",
+      "c17ee2f0-fe94-4259-adeb-86bb13a643d0",
+      "a82357c6-f0b2-4116-95ab-2a9b949b7ba8",
+      "456e96c4-c2d9-42bd-b61f-e55a86a1d990",
+      "4ce357a1-6894-40d2-9449-aa55d9a05bc5",
+      "bda4a518-d575-4efe-bd8e-3e598f9c9f91",
+      "608c2ae7-1d81-4799-8de5-31eda184ff39",
+      "ba9c81de-e8fb-4738-a605-a7d00a6a4209",
+      "5034e3df-e2a3-4951-80f3-74e58fe8a734",
+      "7bef1d3a-65b5-4b39-9482-27f9231d9797",
+      "c71d057e-4c99-4bf6-b50d-c7130b9ae4d4",
+      "0d2c8f26-715d-4f99-b090-234f8074c707",
+      "d970181f-28fe-4c33-91cf-91168c26fcc4"
     ],
     "confidence": 0.638,
     "method": "hybrid",
@@ -698,11 +698,11 @@
   {
     "group_id": "dup_024",
     "products": [
-      "852845ad-a002-4028-86ff-965e730b5c69",
-      "1332392b-1143-4327-8e19-60ef116c738e",
-      "30d25784-7db4-4998-bb7b-720b47503868",
-      "627f9da6-e8f0-461b-95fd-f2e39cc061f5",
-      "47797a27-0dbd-492c-98b0-749992ca86ad"
+      "94df65b2-fbf1-4d15-ad32-9e859ce509f7",
+      "e989b879-a87f-4bde-bc85-dac5eb8ef63a",
+      "8fb0b0a9-a9d6-4764-a808-2c5128176019",
+      "3b90ff4d-3703-44ef-b9cc-2fdd39e1ec75",
+      "911979e4-1eed-40aa-8ab0-9356be7942f8"
     ],
     "confidence": 0.917,
     "method": "embedding",
@@ -714,12 +714,12 @@
   {
     "group_id": "dup_025",
     "products": [
-      "de7a544e-150f-49ed-8b16-714742d0138b",
-      "2cb9a2cf-aecf-4e16-bb4b-7510d8ca18ca",
-      "ec912f3d-1f34-4175-abba-7735aa925471",
-      "5ebda4b3-7a17-4d6b-9513-a3c06d5d37d2",
-      "9115ec40-4a16-4d4e-9fb1-8c06a2f03c8a",
-      "b6cb664c-ef02-423e-b1b8-02e358ad4e43"
+      "ba609b10-f9be-40fc-b59e-81b9c9321880",
+      "235f2f37-255a-4b5e-ada4-8e0bc465d9b1",
+      "5247089d-cbf9-4b00-88b0-9b0c6c004116",
+      "34277781-39c9-442e-a052-67ea545f0a2a",
+      "4f78d77f-c6df-46c3-850e-99cbfcbbba1a",
+      "329265a2-a2a1-4e46-874f-ffcb094f7d30"
     ],
     "confidence": 0.7,
     "method": "hybrid",
@@ -732,13 +732,13 @@
   {
     "group_id": "dup_026",
     "products": [
-      "618dd196-f12d-40e7-9e5e-c333de2b7971",
-      "434db2d6-3004-4c56-ac31-204f7635b9d8",
-      "61c41173-614d-491f-901d-cff80afbdbff",
-      "379f4afb-4e99-4a35-9e26-e3ac61947966",
-      "ef0ad3e5-c008-40b1-8b15-6562c971cee9",
-      "332d7fac-cb2c-4d6e-afc9-9d5313752e1d",
-      "27c42509-3679-4897-9e40-123711130188"
+      "0e02af27-7cc2-48fe-a1a9-153fb49fef98",
+      "34484159-31bb-4fe4-96b4-3ca5b3164c04",
+      "cedeed85-bbbf-4dc5-a4e8-e91510d23c2e",
+      "e698bf8d-65e1-41bc-ac5f-c235e67ef2d4",
+      "cb31a677-4e25-4143-b970-425c39652e11",
+      "79573524-7d79-4d37-a0cb-deb9cf39c403",
+      "e8beb6a0-a02d-4d72-b8ef-a94be6f65d0e"
     ],
     "confidence": 0.682,
     "method": "hybrid",
@@ -752,18 +752,18 @@
   {
     "group_id": "dup_027",
     "products": [
-      "ae79e0e6-a5ad-44cf-a11c-502d3be56d2a",
-      "2bf1397b-a576-4507-bd45-da2f6c98ac11",
-      "93543c1b-4f62-4439-9fd8-43d64b2b5d6c",
-      "797ccac0-cbfb-481d-aeb4-c70669eb5dfa",
-      "5a4a6528-4892-45d3-b79f-82fbc01ec1b0",
-      "d60291fe-c4dc-40aa-beca-956eade8069c",
-      "be071337-386f-4cd2-823a-964127d616ca",
-      "51917583-538e-4028-a226-f318931e20ef",
-      "812839b2-07ce-4009-a5bf-dcf610140866",
-      "afe74b15-f613-417c-a4f4-1e8dce4d4cb3",
-      "3235ee01-ee5e-4682-b396-eb508c4303cb",
-      "d989742b-6e94-4237-bdeb-2b53ccce75ae"
+      "b667f36e-3de1-44bd-bac8-e89134e02fbd",
+      "2ce7fbae-f6f3-4ffc-befb-59da756f1033",
+      "e2883c00-0380-4cd9-a6d7-88ac3c92b3cc",
+      "0ecf737e-bfb5-480b-9042-be184fcd56ea",
+      "c263d322-84e2-45af-a26e-cdf584680ff0",
+      "7894d45e-1d64-4e04-a8d4-413f0013cdfc",
+      "198d4e88-1b7e-4b7a-9f5c-c50f4fe01fa4",
+      "3845151d-be96-4c00-b25b-b417ff0a3f99",
+      "90762d81-fce1-42a4-aaf5-e2a2c1a1f5aa",
+      "bf354021-143a-43da-b2ec-b7d0fd7ca404",
+      "de921cfa-11e6-403b-9000-746608724a60",
+      "efef8906-6daa-4541-a263-8a4b3b2fd928"
     ],
     "confidence": 0.691,
     "method": "hybrid",
@@ -777,20 +777,20 @@
   {
     "group_id": "dup_028",
     "products": [
-      "7ea3ea91-ed25-4d11-9171-9af1b473e466",
-      "6fb787cc-76c9-49b0-a197-4b797304c5c8",
-      "daaf7082-4ce5-4c41-85ad-95487679d4f4",
-      "6a0712ec-2c3a-4c85-9f88-326adfcb05d3",
-      "63030c56-01a7-4ce5-8055-37b96b6379f7",
-      "6ccf8f69-3b80-4e1b-bc65-5317e5f1d78c",
-      "8b968b5e-001c-440d-bd60-468df7cceca0",
-      "74db8984-2c14-430c-9851-dee1a80fb22f",
-      "2e56ec41-7373-4f61-b3bc-666679127db7",
-      "4e49825c-811e-494d-bab8-5982f5e393f1",
-      "466a77c1-88ff-45e8-b11d-ab54afa5be75",
-      "90c0fbe3-37ab-4e2d-8a56-6fde06713edd",
-      "15f53450-25e7-4f3d-98c5-4dd476a658e2",
-      "ed0b91cf-e0c7-4d9c-a773-6f193c4894cc"
+      "01e0083d-489b-4ae4-b3b3-e37c9bde042d",
+      "3d04428e-c501-473b-b35e-37b166c4ac5b",
+      "e3d4f22c-1dd2-4166-bffd-d20898802bbd",
+      "5b77d763-b941-4dac-b439-85c95fdaf164",
+      "d60ab6df-8034-4261-bff3-4ca3fab81e04",
+      "be658b96-c45a-4b94-a9d3-ac47360261a9",
+      "3fe2037b-4f84-4b16-9009-eacc11c1579d",
+      "fb51c968-3478-4fa1-9cbd-657c3e972764",
+      "64094189-b60e-47ec-a5c9-bde395763c20",
+      "34daa219-a1a4-41cb-b9dd-01be26efa4c8",
+      "eb16428f-2171-417f-9fcc-4309b1c25a7d",
+      "5482cad0-585f-4116-91d2-7211b7234f7e",
+      "64e3f9b3-e2a4-40af-bfae-4e1509e34b7e",
+      "8a37d676-fbdc-4394-91db-ecb13eb81708"
     ],
     "confidence": 0.649,
     "method": "hybrid",
@@ -803,11 +803,11 @@
   {
     "group_id": "dup_029",
     "products": [
-      "e3e06a7d-fc9a-4bff-a7cf-244cacb23908",
-      "b02fa74e-d382-4744-9087-1e231fe30ba6",
-      "b47c1029-71e5-442e-b818-e5e39ebccf0c",
-      "b50dd4a9-15cc-471d-bf21-e4fc7f3b1b7f",
-      "8814f594-fe8a-4493-a7a4-f0cc6764a0d3"
+      "8e941691-e571-49e5-b036-054a93721282",
+      "c6b23c75-1e56-4ce0-9bef-b7c1777c8d66",
+      "1050d81d-0a11-4fb9-ad98-a37e87eefd08",
+      "775077e9-57d2-4e6c-abe5-bc63d50c1ad1",
+      "2c8b0a84-0f54-469f-95e1-2444e925a467"
     ],
     "confidence": 0.711,
     "method": "hybrid",
@@ -820,11 +820,11 @@
   {
     "group_id": "dup_030",
     "products": [
-      "b6174372-9fa9-46fb-b7b1-42dedd6b247e",
-      "bf8de2b9-96b7-413e-bc80-d3785152a064",
-      "c3856dee-bb0d-4022-b946-e32e18fb0d5a",
-      "331fa1eb-d4bb-4899-9905-d4219c1351a6",
-      "471b8c66-4205-4a64-afca-2e96ce5ef83f"
+      "6cf9ccd3-0caf-452c-a2ff-0a1b5b4b7f0b",
+      "46ca972f-0ccb-4932-a758-89e7212c00a3",
+      "c772ecd1-9600-42f6-8771-3970c9357df0",
+      "79dfab8f-2e2d-402f-87b2-ba01222d06d6",
+      "085feece-4e95-4c11-96d4-6348b839fba4"
     ],
     "confidence": 0.628,
     "method": "hybrid",
@@ -837,8 +837,8 @@
   {
     "group_id": "dup_031",
     "products": [
-      "a9e7f189-37d3-4687-9bee-54d12f4db711",
-      "6adc6b06-ddce-42bc-a3a5-a49ba4f96b0c"
+      "711fae90-1a2d-47e5-8089-50063d1b3695",
+      "aa285afd-998f-4b86-8614-eb44541839c6"
     ],
     "confidence": 0.925,
     "method": "embedding",
@@ -850,10 +850,10 @@
   {
     "group_id": "dup_032",
     "products": [
-      "be3a27e5-7635-44d8-aa99-bf9fa643c9ff",
-      "108d0479-3fc0-469f-8350-72291f917a85",
-      "1771234c-a51b-434d-bca6-d48eb31b7d8e",
-      "1e159341-8299-48a6-a6f0-51b1e2626ee3"
+      "7cdb8ed4-43d7-44a0-9633-2fcadd457521",
+      "98151728-6b71-423d-942a-3bf9719e24c2",
+      "ee77ceef-a91d-4620-b67c-233577e1e517",
+      "251fed57-85b6-4c19-8c5a-2fb28d9316d9"
     ],
     "confidence": 0.632,
     "method": "hybrid",
@@ -865,13 +865,13 @@
   {
     "group_id": "dup_033",
     "products": [
-      "8cc33721-741a-41ba-a0e7-8bd2d2e2665f",
-      "758addf4-c23f-4f2f-a780-83e8415220e5",
-      "15aa277b-956e-4328-a9f9-f47719c98493",
-      "22ffba03-b86c-40d5-a03e-566e3284ebd0",
-      "824fda0c-b7dc-44e6-96b7-0a01f0e028bd",
-      "f04b2eea-071c-45f9-9151-fd51b38cc79a",
-      "19e70e6b-f9aa-4ce4-84f4-7ca41100cca4"
+      "b9b39402-cd05-4552-8ef7-4fe5250f0131",
+      "83028506-f63f-4689-b7cb-c1811ba731a0",
+      "d61214b8-7842-432c-9a04-a5cf7f45ba8b",
+      "bb66538c-35f9-4b85-b505-26c6507a0233",
+      "93b69a62-f631-4b3b-8352-9f81c20ddbd2",
+      "8e99fc80-2c6c-44d0-8376-09b4721597df",
+      "c4bf9551-1205-4492-b5f6-20b8e22cdba9"
     ],
     "confidence": 0.739,
     "method": "hybrid",
@@ -884,15 +884,15 @@
   {
     "group_id": "dup_034",
     "products": [
-      "609c47de-63ad-4dc0-a6fb-45cc8625add9",
-      "f73787e3-4174-4a95-942e-7d4b96159ffa",
-      "46e0accc-8074-40e6-b6fc-b3dd8a697048",
-      "364e031e-59c6-4937-a551-181641934747",
-      "9abbfd3c-0125-4e9a-8711-b636e5145c5c",
-      "8fbb234e-6c49-44d1-b6b7-f44eba7cf8e5",
-      "fdd43ae3-f49e-4245-a223-39e849b52640",
-      "8fb760d7-0050-4cfe-aeea-06a9b076f4e3",
-      "d02aa5d5-c711-475b-923e-c7992dc789e7"
+      "62f1cfa1-1229-453f-9914-3b906791ac20",
+      "a2c9e166-8f78-47af-8d18-340154559f08",
+      "cea45169-2172-47e4-8831-924391090de6",
+      "abe50399-1857-4641-b46b-86e4d75eb401",
+      "b6dc3b6f-8d60-4f6f-895d-74c7e0f123fc",
+      "7508d6b1-8d6d-4d04-aded-7c84ea3725db",
+      "fe20a9af-874c-451e-8347-6140315fb655",
+      "c183fa98-241f-426b-be85-6792f328a2de",
+      "68f2aada-1593-499f-b83e-d529cce480f4"
     ],
     "confidence": 0.787,
     "method": "hybrid",
@@ -905,8 +905,8 @@
   {
     "group_id": "dup_035",
     "products": [
-      "976187c7-9c27-4946-907c-9399622d3b78",
-      "8d4b62c0-19be-4010-84c3-af1f2f5d55ae"
+      "2df16a5b-21a6-45d4-831e-7fd9796a6911",
+      "acbe40f5-6399-41c8-bd1e-f397ff2d829d"
     ],
     "confidence": 0.965,
     "method": "embedding",
@@ -918,13 +918,13 @@
   {
     "group_id": "dup_036",
     "products": [
-      "fcdf08c0-afdc-497d-ab28-63663357dcba",
-      "cf0c265b-8e9b-47be-b990-6b4be05a7e49",
-      "b1481f04-4b6e-4a52-8d87-66bcc833c673",
-      "4094b8af-f4be-4990-9e3d-e8ad7dce887b",
-      "dbcf969a-f4e1-432e-8465-dcd337dad618",
-      "9dc0cc73-c7a0-4d4f-84d0-9c500c114a53",
-      "c14ce850-fa35-46a7-8aeb-c7bfdfe157aa"
+      "83b93b95-dfc8-471f-b558-722419510c79",
+      "e4dd4f9e-ced6-4e6d-9d8f-2a31b12d5e8f",
+      "2d5c5cf2-bec4-4902-b0c6-c9d08a9b3363",
+      "d1ac527a-57d7-4a01-aa8a-6db3bb4a6b82",
+      "b8c0d323-0a40-46cb-87b6-34c60d4e8bac",
+      "3915ef80-b24a-4a17-a5b9-af9aba85d1b2",
+      "e66978dd-6e5b-4dfd-b369-efd646160f7f"
     ],
     "confidence": 0.754,
     "method": "hybrid",
@@ -937,14 +937,14 @@
   {
     "group_id": "dup_037",
     "products": [
-      "fba0d8de-ac3d-455d-a221-0e8def3b394c",
-      "cc0b3fbe-c60f-4e76-bb68-80d4b41d4e98",
-      "837d94e2-7852-4479-8950-f6957b542c58",
-      "b5cf2db2-bbff-4b9e-beb5-5558955598af",
-      "5cbdcb2f-3526-428d-82e6-b17470159fbb",
-      "f5c3ce8b-7746-4c86-b13e-941dc38c9682",
-      "1f472fa6-13b9-475b-96a1-3bc5f4a5354c",
-      "cc206a27-b41c-4713-aa2f-64a5e9ff73e1"
+      "74275385-6540-451a-87f5-ca20f6883192",
+      "884b8354-cf44-4280-92c1-c87365ec311c",
+      "18bba77a-bbca-4abe-9185-3440bc2ef8b2",
+      "95279929-2e14-45c8-bf35-2f5d19b06cc5",
+      "d871a1c1-f5f1-49d8-ae37-687dbcbbaa88",
+      "0f34f575-3e62-4739-a109-1fbb71c9dbfd",
+      "3340073c-8e80-476c-91a5-12c794ef9f06",
+      "a987637a-f69f-4050-9c9c-6bbede53acd7"
     ],
     "confidence": 0.735,
     "method": "hybrid",
@@ -957,10 +957,10 @@
   {
     "group_id": "dup_038",
     "products": [
-      "f451ecca-2eed-4344-bc8d-40fc8b456be0",
-      "2fa5d06b-cd12-4c47-9b1f-13476666273b",
-      "238acc96-6ebf-4c17-b29d-d59443caa780",
-      "3d7a05ab-7829-459e-9597-56967c5b0e51"
+      "9ddcd9fc-f30e-4fda-870f-19a3fcdb0725",
+      "68746857-70b0-47f8-95e8-85299088e3e6",
+      "aba937d4-b89b-423f-b080-fab0f62cf994",
+      "db62962b-5054-475f-b86a-d08dddd7ead7"
     ],
     "confidence": 0.767,
     "method": "hybrid",
@@ -973,9 +973,9 @@
   {
     "group_id": "dup_039",
     "products": [
-      "fdc00f57-fd32-4a0a-9f07-bfe313a267ef",
-      "0f0ba209-fefd-4e83-ad5a-186b17a5ca73",
-      "d16d8538-6517-4db0-b1a5-1121978b3003"
+      "b0a32262-3bc5-4ff2-bd2a-91452236a951",
+      "c0d7d16b-b448-495e-812a-bab7663d7046",
+      "ce7ae5c5-5e3f-41c1-b6e9-7f3742c93f39"
     ],
     "confidence": 0.978,
     "method": "embedding",
@@ -987,9 +987,9 @@
   {
     "group_id": "dup_040",
     "products": [
-      "e9029fd0-dcda-47e6-afb7-0d263ac38e5e",
-      "c3d97bb9-4de4-44a4-8ba8-82abacc4c13f",
-      "be981f1a-721b-45ec-b9e8-eef423040240"
+      "27a9fdc3-8a14-4b63-a98f-9b689808f863",
+      "12e3f1dc-1c00-4c36-898e-58edbf132b88",
+      "79382400-866d-4fa7-b24d-245db62440d9"
     ],
     "confidence": 0.78,
     "method": "hybrid",
@@ -1002,16 +1002,16 @@
   {
     "group_id": "dup_041",
     "products": [
-      "ec178e9c-d5ec-44a0-84ec-b0ef9f2aa712",
-      "5f067773-a113-4766-a2eb-b1f2862f5839",
-      "69dbe648-c425-43ba-97dd-0004c5f31678",
-      "f7a47010-d3ea-4f77-ba25-4005dfa2d3f7",
-      "000068e1-d9c1-41df-b72d-0732300016bb",
-      "990122f1-d0d9-4f13-8b41-b6a803003521",
-      "58028a9b-3293-4c3a-9639-767e2bb6963a",
-      "da75891c-d750-45ea-b11a-a7dc9cfa5fd4",
-      "916b5553-840f-464c-8045-3ee2c7f582a2",
-      "56b05c09-b883-48d5-b7d4-559bae19d6d8"
+      "d8ba0cf3-567a-4e52-8593-5bdd120de7d5",
+      "64195421-e8ff-43bd-be30-dd0adc4cfb49",
+      "4037a0fd-6b1b-470a-b29d-fb5b2614f836",
+      "0afd3d6c-17fe-4471-8371-8ad0380f0328",
+      "2de998b8-05aa-4d5f-b002-0115a7ec1dca",
+      "5caab20b-92a0-4fca-b635-852fb33936a8",
+      "f13d5178-b1f2-4c16-b8dc-d05db2c1d9d1",
+      "03df62be-162d-4a2f-90f7-c3c9497ffb82",
+      "a38412d2-2a98-44a5-aed3-87147edd96d4",
+      "e464c2ec-5187-491b-a4b5-393b65aab88f"
     ],
     "confidence": 0.735,
     "method": "hybrid",
@@ -1024,14 +1024,14 @@
   {
     "group_id": "dup_042",
     "products": [
-      "8bd14834-01a0-4a44-8048-39219c99bb5a",
-      "0e8f1564-69ba-418e-a9aa-7a168d8218e2",
-      "10fdc537-8852-4130-a6d9-5f39560637d1",
-      "6a039c64-58d6-417e-ba40-bc333af8c7f1",
-      "69891de9-16c6-4e74-b65f-15229f22b862",
-      "b831927b-919e-4596-87f9-0a3d640ac627",
-      "3f4eca51-7dd2-45dd-b838-9e1821547a1c",
-      "eb985ac3-1c46-4e6a-9e04-1a9172748deb"
+      "01b09a77-4ec2-40f6-a65b-59ac337b46ac",
+      "b41b23f8-1ea5-49b5-9505-369438a5cee3",
+      "0764a23c-83a1-48fd-86b0-5a51c86e8272",
+      "5ee62006-143e-4f03-bfbd-0fa21184405f",
+      "25a74f60-438e-4b8a-b992-684ddfdf2125",
+      "35752dc1-63c7-480d-a384-c8064f0b7c37",
+      "c04ddf8d-3adc-48a3-8bb3-b411d38384cd",
+      "bd3166d2-fc0d-41cd-9259-578c41bc42e8"
     ],
     "confidence": 0.75,
     "method": "hybrid",
@@ -1044,9 +1044,9 @@
   {
     "group_id": "dup_043",
     "products": [
-      "f6bd7023-0d88-4269-8064-59fcbc3872d6",
-      "83a16a83-c009-4126-b707-9d8332c142df",
-      "1aae5af5-b296-4927-8131-1634fa2d681e"
+      "0c718222-0229-44c9-b845-604d574269a7",
+      "495a8efb-5904-4517-8175-1b8e471462fb",
+      "3be9c68c-d384-44d4-8192-fe9a8d4d212a"
     ],
     "confidence": 0.847,
     "method": "hybrid",
@@ -1059,10 +1059,10 @@
   {
     "group_id": "dup_044",
     "products": [
-      "16136b1f-e096-4233-8a1a-a1dd837fc37c",
-      "b59da2eb-46dc-4ed0-bc6a-fc673cf45034",
-      "0c7d3a58-933f-4f77-8162-ee2669236ecf",
-      "a9cdb02e-2bd8-4baa-90d1-29a5515c4d0b"
+      "9fd162e4-658a-4bf7-b408-850884610084",
+      "fc96a507-316c-4d68-9409-5cdd7077effa",
+      "220df904-0e99-4261-b7bb-b88f038e6fa5",
+      "2be88814-681b-4b5a-be29-4e7cd31296ea"
     ],
     "confidence": 0.763,
     "method": "hybrid",
@@ -1075,15 +1075,15 @@
   {
     "group_id": "dup_045",
     "products": [
-      "66bd2d23-7ba3-4172-8249-06d0595c33b2",
-      "a557afc4-e7b4-43ae-bf5f-2f12949c8078",
-      "a6278e25-f81c-4d22-a167-5a9824e27f2a",
-      "5f8e6fbb-a1e9-415e-ac8e-50629029cd18",
-      "284dba64-0c2c-4926-9b35-587f3d821a2c",
-      "0058441b-572b-49c7-993d-cc7d7d936c3e",
-      "f995ef17-23f9-4091-9fc5-98b2851b5608",
-      "68e29f38-e910-4633-be22-2029c3c2e3d4",
-      "a78ffc4c-66f2-4e1a-a104-6ac53a167322"
+      "f6bee8f6-c0cf-47af-945a-709147a8d460",
+      "2d6debc6-e4e8-429c-9684-24d959335ad6",
+      "d4d2e886-2d9a-4377-a050-62d0da67974c",
+      "127fb33f-acbe-4886-a9ed-e4805bd0b818",
+      "e0a1aa61-f2bc-4534-987f-ced1b5869ddb",
+      "ff1624e5-8284-4fca-a336-a4fe30fb0209",
+      "25760125-1f4a-47a2-b099-20373c489944",
+      "8e4e9fe6-580e-4c5a-b3bd-7b1039a58a0e",
+      "215a8863-909e-4bb4-9785-80015392707b"
     ],
     "confidence": 0.711,
     "method": "hybrid",
@@ -1097,13 +1097,13 @@
   {
     "group_id": "dup_046",
     "products": [
-      "1d45f8f9-6b3f-43e3-be71-7c9d871746f7",
-      "1c28ee32-d2ea-411c-8f0b-9f2fbedd813d",
-      "4e053262-ecb3-4532-8731-058f8c79e1eb",
-      "e6b44d6c-a20d-4b2e-b6a4-3930defad674",
-      "350e3bc7-2a01-48e5-a618-bc6c46d0a561",
-      "1e4ae794-bc2f-4756-9d5a-5865d8d9fb4c",
-      "2ee2c565-b049-4846-9adb-ae912eebbfb2"
+      "ea8c3e78-0f01-4a07-bce6-7c172448719c",
+      "66cd93ad-6604-459b-bb29-65ab6617ec4f",
+      "eea60dce-7f44-47cb-b61b-431e8433d24b",
+      "47d93b8a-fc8c-426b-8f42-5fc6092ff922",
+      "a4c17555-96db-460c-aea5-90ddb8c2e27b",
+      "2d8929c4-d7af-47d6-94cd-0722b4ca781d",
+      "403dd48f-b5a7-475d-b085-650d876e88a6"
     ],
     "confidence": 0.637,
     "method": "hybrid",
@@ -1115,9 +1115,9 @@
   {
     "group_id": "dup_047",
     "products": [
-      "1429252a-3937-4e6c-b4c1-c83c7565f4cf",
-      "69624794-827f-4541-a04e-4684b3e9fd04",
-      "b21f9a8b-3128-43f1-b3f0-bcb30ad20d1a"
+      "8260576d-f110-4beb-9e63-e481325ef815",
+      "0a6b5c90-aaa3-4b77-8229-70014ac36a8f",
+      "e843b2b7-fdef-4fa5-87b4-4215f4373593"
     ],
     "confidence": 1.0,
     "method": "embedding",
@@ -1129,9 +1129,9 @@
   {
     "group_id": "dup_048",
     "products": [
-      "f26e8f3c-c82e-4213-94dd-471ebfb3aa01",
-      "e7ba2fc2-3033-486a-b782-b4dfaf03e96d",
-      "47d4741d-19bf-43be-b594-ec293a8e5160"
+      "d96070eb-bee5-4cfe-9242-6d44afcfcd72",
+      "2ff5171d-525c-43f7-abb2-8b5fb98ce368",
+      "9365b765-0d68-46b5-a26d-26d2b8ff9bd6"
     ],
     "confidence": 1.0,
     "method": "embedding",
@@ -1143,13 +1143,13 @@
   {
     "group_id": "dup_049",
     "products": [
-      "f41e43d3-466f-48b8-8a46-d914a3590685",
-      "b5b54abe-f787-4bf7-b8f5-73621d6395cc",
-      "6f5558fc-f771-4969-ada5-36e35ecad341",
-      "420b8be9-a30a-41d5-a3ba-85a93352a4b2",
-      "16b75cf3-28b4-4f7b-a976-84e26cbb5261",
-      "09116573-089e-418a-8418-5bdcb8e57507",
-      "4d1ece45-20b7-4c50-aad8-f7d71c401f1f"
+      "0ecb4159-78e0-47be-8f4e-92857623334e",
+      "d8e9524c-26a8-4288-89bd-33458bfbd97f",
+      "81e49b5e-ad48-4255-be9c-96bdd36bac35",
+      "b0b79904-2181-4f66-a495-355b8df121be",
+      "42c50d3b-f3cd-4427-adf8-c95f1e8e0696",
+      "be1aae79-c63d-40f1-8b3c-a2317bbc9e7b",
+      "54c6e61c-86a2-4fa0-83e8-71247c0bf699"
     ],
     "confidence": 0.799,
     "method": "hybrid",
@@ -1163,21 +1163,21 @@
   {
     "group_id": "dup_050",
     "products": [
-      "24ecc7c1-d6c7-41c3-81d3-21e0317d0dc0",
-      "29c81a00-fc62-4ac3-a212-962858579e08",
-      "1bfa9f0a-5ddf-468c-b073-a96fbeb51ebd",
-      "0c4a9682-de9c-4a64-9dd1-dbc0feb53b9a",
-      "651380ae-be45-4742-b573-218b9b740178",
-      "69162a76-0230-44d1-aaf2-112d6f15237f",
-      "73d69f52-5e88-4cf8-becf-0a8446753348",
-      "9a8430ae-40f2-4671-8753-a1646812012f",
-      "645678f7-841a-4022-8e13-7413e361b317",
-      "c2efbda1-74cf-4c3d-95e6-d56fbf0e8271",
-      "823dc56e-36b3-4362-9d8b-bceceaa5ba46",
-      "ea3ea6bd-e346-47b2-8de9-034b23aefbd6",
-      "896335ea-aff4-412e-8f4c-5a048aaade0b",
-      "9da03ac5-6bdc-43aa-9aff-cc1da5b45241",
-      "b8642b87-5afe-45b8-bd1d-bb5f83824b29"
+      "26783d4d-62af-446f-8951-3452a11840dc",
+      "b4a650c9-aa17-47c7-93f4-c841c5141387",
+      "0fb1cf54-405c-46e8-931b-083950320fc9",
+      "8880fb14-cce8-4f72-80ae-a42f74b1b65a",
+      "35fcfc3d-e47a-423a-95c3-2462578553a6",
+      "37d30256-c783-429d-9c72-9d842e2e52b2",
+      "bc40c0fc-0935-47a7-b103-cb2f7862febf",
+      "cc91b012-0968-46ce-9b5f-545ef35f138d",
+      "24f072e8-6d3d-4d77-9aa5-886310774346",
+      "d7dacc81-006b-49d5-b7fa-971de2642072",
+      "0e9c1584-fc89-47ce-954d-394bf4356a71",
+      "d3d1f127-c724-413e-b23d-fd4cf1f114d4",
+      "080fc082-ab6e-4a97-95f6-7a9cebe6604f",
+      "669532a6-3747-4b0b-ae94-a7dd01db8f1f",
+      "5098863f-de2d-4731-ae31-a4497234107b"
     ],
     "confidence": 0.636,
     "method": "hybrid",
@@ -1190,11 +1190,11 @@
   {
     "group_id": "dup_051",
     "products": [
-      "eeca3355-3c74-470e-96b7-4a50f16eefe9",
-      "10f3e114-826d-444e-943e-1eafe54ab4cf",
-      "ee7e73b1-837b-42c2-82e8-330b2fe7f24f",
-      "e9daa2bf-61b4-4767-9ea9-9ea75908e1ae",
-      "cf4c064b-a615-49db-bca0-d3d0faec7534"
+      "f6cbe431-c31a-4dce-9b81-dd750c683e13",
+      "cde2a94c-03b0-47a4-9f90-a59309cc6930",
+      "d4088561-651d-4a4d-a4a6-8ec3f007a95c",
+      "213b96c6-05ab-4e81-a8cf-b2a111b57c20",
+      "08e999bc-5fc5-4194-a39f-62493ad59a82"
     ],
     "confidence": 0.879,
     "method": "hybrid",
@@ -1207,15 +1207,15 @@
   {
     "group_id": "dup_052",
     "products": [
-      "5b407944-a132-41a7-9dea-1bcf92b4d58b",
-      "9d780641-86b7-425d-939b-7b4dc5626145",
-      "fb0719b1-0b02-42bf-bd57-92a557bf2379",
-      "ffb7db7c-bece-4dc2-a450-259bb6dbad6e",
-      "3ff9a2f5-df9e-475c-8d9c-9dae901304ff",
-      "253c7196-1290-4855-960e-f1e58d5765d4",
-      "6a87b6ea-04af-486f-904c-b4a89e544deb",
-      "ca23cc55-2531-4087-8fa1-12bd93f7689d",
-      "042dc438-1b26-43d9-8553-a026658be444"
+      "6a8a8663-fb9e-43bd-88bc-654368c6b208",
+      "79dcdc60-d22c-4a3c-b41b-c35596d59ed0",
+      "fd35c629-9f1a-4983-81ef-e10d931ec14c",
+      "b1e0dc2e-d48d-4f7a-8d0b-6c4c3ae45e6d",
+      "691b6029-e3fc-4de0-8e05-cb5011f6a1e2",
+      "e9ffc70a-fbf3-4035-9f23-f4b3c32c257d",
+      "6d4b7884-d967-45f3-b41c-f5dc40433585",
+      "55ca2a2e-5cc9-4f2a-93a5-51b8b7ffa229",
+      "7b1388e5-2d4b-49d5-be74-e38c16197312"
     ],
     "confidence": 0.719,
     "method": "hybrid",
@@ -1228,15 +1228,15 @@
   {
     "group_id": "dup_053",
     "products": [
-      "c1e08f33-dd9b-4a77-9457-2d30fa326a21",
-      "eb80dbff-2241-4d0f-99a7-496fc6c4b001",
-      "9f2a95e7-004a-440b-b839-df0d2840b649",
-      "a7bcc9f5-d9d2-485a-aaf4-45fca0f9bac8",
-      "fa69f094-ff6f-4959-977e-9b264a4deeda",
-      "bf85dc69-2e2a-451d-af0c-a4f1c676c248",
-      "b4eb2c9f-5510-4473-b6b0-7229e1db31e3",
-      "9b73c2c3-bcf6-47c3-a798-b0e1cef3e008",
-      "9add9825-2525-47c8-b035-ee0d086a064f"
+      "05ba05eb-5d83-4c0e-a9e1-531e14d9e516",
+      "e1136022-8e12-4a13-9b8d-d7d0ab40713b",
+      "708c417b-b58e-459c-b316-7ffc3ea44de2",
+      "960aeaa3-b1d4-4d4e-a478-7179433a04ad",
+      "a1d64b3d-96ae-4945-8ecc-97b1c6300458",
+      "2c7f496d-2101-49d0-97a3-a3f30325fe14",
+      "a0e8be29-8983-4467-a846-217fecca0d9f",
+      "bd47ef76-c51f-42c1-b96f-f62905aa4acc",
+      "cbd2c3f8-eb5f-47eb-a6a5-de2b8db10219"
     ],
     "confidence": 0.751,
     "method": "hybrid",
@@ -1250,12 +1250,12 @@
   {
     "group_id": "dup_054",
     "products": [
-      "2bbdc9e9-28b5-4b42-bd73-e491671bc8da",
-      "a0f1fb69-7088-4a7b-bd31-483fc26e4459",
-      "69767ec6-2217-4081-81ae-617f4f445799",
-      "4b03f872-8b71-4d37-8b6a-cfb79aed0363",
-      "6a89f4d2-40d0-4008-b1e8-7c85833e5e9f",
-      "5797fab9-d80c-4e7b-9300-6ff439a6dc22"
+      "820617d9-a45f-41d7-bf89-cf8692531305",
+      "36d003e1-a5d2-4ae4-bdb9-d8ce20cd5a62",
+      "fecbfd89-fe37-431d-b7a0-8cc5784431e9",
+      "426c2f29-2012-499e-b278-1de769d19175",
+      "c3b85bcf-9485-4f1c-9b13-5ed898cf83be",
+      "2b5f8f4f-4d75-43d6-a0da-da246aa3ab84"
     ],
     "confidence": 0.762,
     "method": "hybrid",
@@ -1268,9 +1268,9 @@
   {
     "group_id": "dup_055",
     "products": [
-      "186803f6-e48f-4e97-9654-e0d9aeffe27f",
-      "6e7de072-f355-468d-add7-d321c720c221",
-      "93c26f0d-a510-404b-8feb-73953971c2cf"
+      "1a1dbba8-d449-40eb-94ef-9787508665cb",
+      "c7c7668f-271e-4e83-abfd-22d0a9290f78",
+      "285c1799-3741-4eb0-b8a5-24e63b175a4b"
     ],
     "confidence": 0.668,
     "method": "hybrid",
@@ -1283,9 +1283,9 @@
   {
     "group_id": "dup_056",
     "products": [
-      "9840169b-82dc-46f2-88cc-f60f31fe5e79",
-      "680662f3-e836-4053-985f-586796035321",
-      "ee24a1ff-e2fd-48d2-a707-e471745b4e2b"
+      "5c804b62-4b96-422e-a360-41bf2e1f4d33",
+      "65348b7e-c198-4102-a86a-3b58b47c8bde",
+      "0075b173-63e7-41ea-a74c-7341944823dd"
     ],
     "confidence": 1.0,
     "method": "embedding",
@@ -1297,11 +1297,11 @@
   {
     "group_id": "dup_057",
     "products": [
-      "8f1f7efc-1218-487d-94ed-a50663b0b716",
-      "1894070a-f1ce-44fd-ae07-f2cb54c7111f",
-      "4cc26530-cc57-4a83-b3ff-edf5bbfa3e5a",
-      "6ecc8a82-c425-4d6b-b004-c590459aa424",
-      "76783e29-6849-4f75-aec9-73fb5ee78560"
+      "ee3ea5ba-23e4-4c93-96d3-a9b837f52d5e",
+      "543aecf1-a48d-405f-831f-117e8b823e8c",
+      "82f2646c-af28-4458-9ed1-c73bc5382df3",
+      "0877cc86-9031-42a0-a9a1-878163b60bd2",
+      "86f2e7fb-d184-471e-b544-83c64eee97f5"
     ],
     "confidence": 0.809,
     "method": "hybrid",
@@ -1314,9 +1314,9 @@
   {
     "group_id": "dup_058",
     "products": [
-      "38e23d49-50db-4301-b143-38659517b0d9",
-      "520d41c6-2b27-4179-a880-21a1f2bf1b3a",
-      "f6651cbb-873d-4945-99ea-f55cef560e9d"
+      "9181a888-4c48-41bd-9424-c1bffc7d5286",
+      "8fd9435a-84a7-4f15-a706-f08e2ebb6e3d",
+      "fa798d39-2921-4dde-8655-6511f8a744e9"
     ],
     "confidence": 0.764,
     "method": "hybrid",
@@ -1329,9 +1329,9 @@
   {
     "group_id": "dup_059",
     "products": [
-      "a18c80d6-d76b-47c3-98c6-aeddd068a5b3",
-      "cd9bbfd2-aca1-4736-b58b-1860735b14b5",
-      "511dd10c-93b8-4cc6-b75b-1d229be3193d"
+      "caf88408-e0de-47fd-b02a-2330010a573a",
+      "778afe73-4a8e-48e1-896a-ed30731e075c",
+      "fb9cea66-459d-4c92-b08c-05ce848fdc83"
     ],
     "confidence": 0.89,
     "method": "embedding",
@@ -1343,9 +1343,9 @@
   {
     "group_id": "dup_060",
     "products": [
-      "29bffe26-713e-45de-8745-fdeac534a19c",
-      "bbdeee4c-bb33-4406-a585-503f9ea3516a",
-      "a2a7a332-c665-4259-bafc-880519bfafc2"
+      "33c7125e-cc90-4a3e-909a-126c3b6da12f",
+      "b8218b65-de57-4d63-bc9e-4466a98a3d28",
+      "8cec22ae-b1d5-4269-8dff-0180aef528bf"
     ],
     "confidence": 0.807,
     "method": "hybrid",
@@ -1358,9 +1358,9 @@
   {
     "group_id": "dup_061",
     "products": [
-      "dee6c7e9-af72-4a59-940b-5a3057d562c0",
-      "9e91027d-5186-4ba5-afad-18ad379fbb67",
-      "42a3f44b-114d-4bb7-bb8e-9fc39ff4db80"
+      "2e127909-183b-4834-8e3e-dc1badae1541",
+      "5214416a-0e0b-44ba-a687-558b5fc2b044",
+      "39623655-dbcf-4c5b-b3fe-bfd75a9c38f0"
     ],
     "confidence": 0.962,
     "method": "embedding",
@@ -1372,8 +1372,8 @@
   {
     "group_id": "dup_062",
     "products": [
-      "c041513b-582e-4092-ac40-bc0c9d612710",
-      "3726b375-f645-4b1b-a96a-39537cedbe3b"
+      "a5f3dc92-ee88-4c9d-aa93-6cc42b4a3153",
+      "0af631dd-5c0d-4379-8db0-e04b2422ffad"
     ],
     "confidence": 0.934,
     "method": "embedding",
@@ -1385,9 +1385,9 @@
   {
     "group_id": "dup_063",
     "products": [
-      "0f2891c0-666a-494e-960d-98f393aa94f3",
-      "78682150-01e4-4f2a-864b-4e475ef169bb",
-      "eae729d3-369f-45a7-a498-1b7c1ddabcbd"
+      "94d42d78-30a9-4cc4-83ac-ffcf27aa3f03",
+      "96af01f9-5585-4bf3-81bc-7aee66882233",
+      "ebaa56dc-9122-435c-a5bc-f0d513f307aa"
     ],
     "confidence": 0.805,
     "method": "hybrid",
@@ -1400,10 +1400,10 @@
   {
     "group_id": "dup_064",
     "products": [
-      "bfffccbe-0f50-4323-ab81-e3274a156acc",
-      "289cdc0a-0c76-4f30-8be5-f53c448a8be6",
-      "bdfbec40-56fa-46c2-b3dd-d37d05778b05",
-      "a281390b-485b-4393-b1b5-13a98fc906ed"
+      "5c995283-d109-4cf4-bdd4-173c897bb07f",
+      "f1839f6b-6418-4c17-942c-3e2bd39a2ccb",
+      "44758626-bf66-487a-8bba-8010e8a454bd",
+      "1af492a8-dc21-4b0f-a55a-539bd412a3ca"
     ],
     "confidence": 0.868,
     "method": "hybrid",
@@ -1416,9 +1416,9 @@
   {
     "group_id": "dup_065",
     "products": [
-      "34e951ca-73d7-45f5-bba1-0b24e989bc2e",
-      "3255a363-7a92-4598-afe1-761d8cb37e57",
-      "e1283b8c-0b92-4257-9ae7-d1d734ceda0a"
+      "2fde3438-a2a0-4607-81a0-00c57e989f23",
+      "ae058840-5921-4117-a774-b3db68dedc53",
+      "06df6994-13c1-49d2-acfa-ec3eaaf658ab"
     ],
     "confidence": 0.881,
     "method": "hybrid",
@@ -1431,10 +1431,10 @@
   {
     "group_id": "dup_066",
     "products": [
-      "0b8e827b-0081-4ac8-b375-6a5b79911500",
-      "ef93a5a2-de30-4b0c-952a-4b830d9cc759",
-      "892e225b-bb6e-4087-ac5e-fca4294fc04d",
-      "edea57cf-ca8e-4e06-90ac-c02b99c82f58"
+      "2bef41fd-7630-4c28-ae77-d3041306a1c3",
+      "f50a6e56-f657-4121-a199-5ee477c0e9df",
+      "43592126-24c2-4f87-82af-94893f0be19a",
+      "1fee526b-e905-46b3-b9b9-260427625b9f"
     ],
     "confidence": 0.816,
     "method": "embedding",
@@ -1446,8 +1446,8 @@
   {
     "group_id": "dup_067",
     "products": [
-      "88a5a390-b6f8-4e74-a3c5-a8917d0a1970",
-      "63ffbe91-4758-4abe-9303-ff872f07ac45"
+      "ddc8a8c1-e870-4727-9bbb-e9e3e0989812",
+      "e017c735-2ddf-4433-99d9-71e5a71ae929"
     ],
     "confidence": 0.775,
     "method": "embedding",
@@ -1459,8 +1459,8 @@
   {
     "group_id": "dup_068",
     "products": [
-      "90bdf5d0-90bd-45a8-9fe8-b9bf03905fa1",
-      "50d92caf-9dbe-436e-a6ce-a667b5108d21"
+      "441a53b7-188e-40f6-bb40-341052cbc2a5",
+      "6e5e2706-dbde-4db5-bdca-d29e155861d9"
     ],
     "confidence": 0.701,
     "method": "rule_based",
@@ -1472,9 +1472,9 @@
   {
     "group_id": "dup_069",
     "products": [
-      "38b01d32-11f3-4dfb-83b0-68ca0ca2ed6f",
-      "0dad30bf-8c8d-4d4b-9903-e7a9a20066bf",
-      "1f540c42-b023-45bf-95e1-a653884bd6e4"
+      "280c925f-7fdf-4260-a69d-11a463fe6762",
+      "f44855b6-2964-4ac4-bbe9-ba291708b55f",
+      "bd90c773-1ab0-4512-a856-4c8e89b35cd8"
     ],
     "confidence": 0.941,
     "method": "embedding",
@@ -1486,11 +1486,11 @@
   {
     "group_id": "dup_070",
     "products": [
-      "449c1d59-71ae-4272-9533-a04e611b6353",
-      "f21e7092-a345-4d67-95a7-c29041cb54c2",
-      "a4faacbf-c8e9-4cea-bd2a-303912b8b7ae",
-      "ba7de272-9b89-492d-a1c9-6456b5656f3d",
-      "ed305536-a02d-4d92-b84b-7f022a38dfb3"
+      "74f5a1d2-e878-478d-b5d2-03488b704174",
+      "8f1e7d42-c5bd-40fd-be3e-9b8a7749c86c",
+      "865c6c57-a856-41fc-8092-69cf2cb3c217",
+      "5fafa4fc-6d3b-4ced-a7d5-9ce82d796a13",
+      "43226b96-1f49-4abc-aec4-88e01fd27971"
     ],
     "confidence": 0.742,
     "method": "hybrid",
@@ -1503,11 +1503,11 @@
   {
     "group_id": "dup_071",
     "products": [
-      "37eb76f8-96e1-4376-8d0e-f0595949c494",
-      "3f671af4-434d-4024-a750-db7fcacbe378",
-      "34675cf3-1ec4-413b-8b87-717cd55e2611",
-      "a889c476-4e62-4eef-a090-d94bab15ea88",
-      "907d1dfa-1b0c-4ab9-8c47-1644752ab2da"
+      "b5f40597-4412-4e7e-99fc-d4e989f4a3c4",
+      "1c62d55e-07ce-4e48-8772-66c30fc52d36",
+      "5a4891ad-125b-4f20-8439-ccc6f66b6766",
+      "e266ff40-87b1-4230-becf-3083d0a0af73",
+      "0cf35a43-2098-448d-aa30-0697fa4dd7e2"
     ],
     "confidence": 0.649,
     "method": "hybrid",
@@ -1520,9 +1520,9 @@
   {
     "group_id": "dup_072",
     "products": [
-      "efc9b4e6-fcfe-4aa9-94da-d7ce55d685a9",
-      "f7ef7167-b24f-4918-9cd5-65eb47eaea77",
-      "b8484869-311a-4287-8b92-7fcd55acd7c0"
+      "17a36a30-d88d-401d-89ba-706fc70be36d",
+      "ca765290-c309-4fdd-8edb-79651d061419",
+      "3e45c6c3-b4ff-460f-a620-5aeaf934527c"
     ],
     "confidence": 0.661,
     "method": "hybrid",
@@ -1535,12 +1535,12 @@
   {
     "group_id": "dup_073",
     "products": [
-      "4a88bacf-213c-4a69-9822-1c44a17567d5",
-      "4ddc7530-b791-4320-8279-8a5b97739d42",
-      "cddb3ceb-908d-46ce-8fcd-8f407f3a2ddc",
-      "3d7cdde7-1665-4db4-a292-47226e4c48d5",
-      "95af0382-86d0-48b6-b12a-fa3e6ffdedfb",
-      "dd8d6d31-c7d0-4fad-9ccc-fbe67fffdb88"
+      "468cafc8-ad16-4193-8545-c86d679c8c7c",
+      "4f4aaabd-280f-40a8-b996-198f351d9fde",
+      "2ef53af1-ad63-4821-a62c-113cfec6b591",
+      "6706bc02-6e09-475f-9b8a-8d5e52576364",
+      "7842ae4d-95c6-4d01-98c5-426b5db9aa2b",
+      "8d69ba6d-a545-40a1-bbe2-61a931b34f6d"
     ],
     "confidence": 0.741,
     "method": "hybrid",
@@ -1553,15 +1553,15 @@
   {
     "group_id": "dup_074",
     "products": [
-      "fa6b3ead-3b5d-4fd9-987c-7b68b6c108f7",
-      "bd4003ea-fc40-4ef9-89f7-2aa797ba6ca5",
-      "9cb683eb-1cdb-4610-a6b5-fc556e3a9720",
-      "efc46b13-b1f6-4d1b-99b1-e47faf15c017",
-      "d50c9d9c-1797-47d1-8f98-0b4a8e643009",
-      "151fa177-a615-4704-8d39-28e24f1ebed0",
-      "5614e5a7-9e2b-4dce-b83d-3e43f60b64fa",
-      "3c2ca7dc-6a0c-449d-8ce4-723e69df7b95",
-      "46d4d452-972e-4b66-b6be-8e6a87547e29"
+      "05956b56-bb35-4173-b6b8-391d49f240b8",
+      "9ade91a7-3946-42cf-a50e-ba521cca1ba2",
+      "941e12ea-2aea-48c4-b68f-9081c39b7d33",
+      "4ca08f01-987d-480f-ad89-0325f1af2a50",
+      "12125b79-5f87-480b-9207-2f2084130424",
+      "0cf996aa-cd27-4662-992c-6f84120837e6",
+      "a229c400-8ff1-4abb-9870-69d12ae1aca8",
+      "8c6dbb70-a166-4f39-a766-540741cd8e9b",
+      "bb927e8d-98bd-45d9-b102-a605fe80f69f"
     ],
     "confidence": 0.852,
     "method": "embedding",
@@ -1574,11 +1574,11 @@
   {
     "group_id": "dup_075",
     "products": [
-      "b6327bc3-04fb-4f0f-846e-6eac9c1483b5",
-      "006f21d8-8d0a-4ede-829b-5a3ac11fba5f",
-      "d73782f0-e51d-497c-96f7-0b7511549804",
-      "42f689a0-db33-49cb-8646-feb37a874006",
-      "33bf6b72-44e8-4d21-9f9c-033626bb7c17"
+      "430ec617-e8c5-49a9-8850-fcc201f9ac01",
+      "8e8fe11c-4c51-4620-b644-d9688b2c3df2",
+      "9e504660-1ea6-4eaa-9f9e-9ea57e08d066",
+      "61620e3f-afd2-47ce-9c2d-ab332315c699",
+      "00221f51-c8a8-4310-921c-2567d0420f6b"
     ],
     "confidence": 0.698,
     "method": "hybrid",
@@ -1592,10 +1592,10 @@
   {
     "group_id": "dup_076",
     "products": [
-      "06ada037-9b24-40b7-b135-e1a9692f2cec",
-      "484185bb-b831-4840-b997-f0c5af8acbf0",
-      "98adc14f-3423-4178-8eae-c656adb59497",
-      "76b51fd1-164f-44ff-85a9-a776142b64e6"
+      "16b97f23-3ea5-453e-a8d8-94128353f096",
+      "998c1e90-a69f-4ee3-9c5f-d13d1dc98395",
+      "f1996d51-71cf-4808-9d36-9261ccdd0492",
+      "0944002b-1e95-4c0a-9273-1371830a4169"
     ],
     "confidence": 0.824,
     "method": "hybrid",
@@ -1608,10 +1608,10 @@
   {
     "group_id": "dup_077",
     "products": [
-      "c0c69543-212c-4035-89f0-492998db9692",
-      "f712cd88-bcb1-4609-bb53-6018e3fedb70",
-      "fce320a1-b48c-4748-90ab-71b8ef708342",
-      "e5d8a675-126d-4824-8824-16fe88320655"
+      "550f9ecf-f291-4c70-a25f-181bda355402",
+      "cca64bd5-293c-43b4-a025-8716ff36a11c",
+      "927a841e-1a28-40ea-b137-1a00b8f246b7",
+      "646730e5-9747-4df2-bd47-8408dce95806"
     ],
     "confidence": 0.807,
     "method": "embedding",
@@ -1623,9 +1623,9 @@
   {
     "group_id": "dup_078",
     "products": [
-      "a4281e8c-4fbc-4925-8c70-c4fcbcd3c33d",
-      "d83e0642-a791-4e7b-8bb8-bfc9ddba8fa1",
-      "6c3cb2aa-abe6-41a6-b309-e946c2d18460"
+      "8cf81ef7-eb0b-439b-aa53-a78ebe33eee0",
+      "21bbf014-e148-4147-8c81-fc2a6c330de1",
+      "bc9a3bd2-bbbb-4062-b39a-2201dce0b9b3"
     ],
     "confidence": 0.605,
     "method": "hybrid",
@@ -1637,8 +1637,8 @@
   {
     "group_id": "dup_079",
     "products": [
-      "de68076b-7266-4489-95e1-63d5c659731f",
-      "2b2a615a-f508-43f6-a121-3f29210e809e"
+      "ec82ea31-6c5d-4922-9c8c-fc5d2e907389",
+      "14181674-2c9c-462f-9223-cf36dbc50dd9"
     ],
     "confidence": 0.925,
     "method": "embedding",
@@ -1650,11 +1650,11 @@
   {
     "group_id": "dup_080",
     "products": [
-      "1d64a48b-7357-41ef-af86-33de398e109d",
-      "26b21614-ccb7-49d4-a60c-c0b2dc65222d",
-      "17d345a1-60be-45a1-b6e4-76adfbb1ae30",
-      "01ebdd05-5c1e-4ff7-b361-14bec4042c27",
-      "80094f47-e1b7-4c67-bb62-42ff12961a7a"
+      "0ac63305-81c3-473b-94bf-7f21cf9d9242",
+      "c2775423-6fb4-41f0-9ad6-62af928c47fb",
+      "38912727-2775-4495-8d59-4ce38418fa12",
+      "01c853cb-22e1-4bea-b412-d95f432bf616",
+      "30e19f7e-e053-4fba-aad5-62e138813c18"
     ],
     "confidence": 0.703,
     "method": "hybrid",
@@ -1668,15 +1668,15 @@
   {
     "group_id": "dup_081",
     "products": [
-      "f90abb28-f8a1-4833-9a57-eec5f743385f",
-      "e0718af9-48b8-4648-919a-1a5f15bfa924",
-      "3722aa91-9db9-4e93-b530-e821dc2ac296",
-      "fd47ab17-30ea-45a7-baaf-43c34711eaec",
-      "fd75e891-cdc4-4b70-ad7d-070f61df639f",
-      "0e845e31-3b30-4a04-a26b-f4f3b419d6f1",
-      "b8346c83-47dd-409e-9b01-b98c9d9f033c",
-      "5a34ede1-e905-4f68-a1d3-b256d8ba0e51",
-      "b910762f-074f-4010-b4cf-0e89eff3b54a"
+      "5f373e3c-cef8-4d32-8f2c-89bbd1bb2fce",
+      "bcde94d9-2cbd-4ab1-bfcb-5be31c05a458",
+      "3b40fcf1-2730-46f2-b484-ccd285edef60",
+      "8f1a3038-a89f-4610-ba7e-ddb06e03b238",
+      "8a9bf609-1815-459f-b50d-d8bf66d23453",
+      "8ae8d574-a2e5-4dc2-8617-7f698fa30709",
+      "d488e894-0a2f-4975-9e09-7e74c9d620e5",
+      "5270a023-6b67-4421-8771-f50abfe4dd18",
+      "58418263-d41f-4bab-9b3c-816c50c3869a"
     ],
     "confidence": 0.75,
     "method": "hybrid",
@@ -1689,9 +1689,9 @@
   {
     "group_id": "dup_082",
     "products": [
-      "b6313783-a567-4d97-8eea-d7b60ff9e953",
-      "7b3d1d87-8af2-49bc-be36-5b8cb1bf6034",
-      "6638edcf-3fb4-4c97-9d0c-401de0d2817f"
+      "44943dbe-63a8-435b-aae3-f1ddb9f9b70b",
+      "d15f2db7-b748-4607-b3b0-ac089101f6a1",
+      "596b889d-7a47-4eb5-a454-1d0de15c0037"
     ],
     "confidence": 0.708,
     "method": "hybrid",
@@ -1703,11 +1703,11 @@
   {
     "group_id": "dup_083",
     "products": [
-      "63c0c55f-7732-462e-bacd-998065268fea",
-      "5e412999-71d5-40bf-b8a3-d6627f094e63",
-      "69db75ec-b1ba-4883-8dab-6ed7c3232411",
-      "7e36c4c6-a3e9-4b18-a34b-0548ca687769",
-      "baab415c-7b99-479c-9a69-5923577b28f4"
+      "fa7bcda1-7076-48c1-9215-329a0e4c5074",
+      "c716a431-e51f-4d5b-9971-47fe6c57b231",
+      "bd5a0fb5-7457-4e7a-9d6a-5d0dadf8b8f2",
+      "3436ad57-ed6b-4f82-8a3d-d5ee93aaf76c",
+      "a829c2d9-e3fc-4515-a9c9-0daca1e2f508"
     ],
     "confidence": 0.661,
     "method": "hybrid",
@@ -1720,13 +1720,13 @@
   {
     "group_id": "dup_084",
     "products": [
-      "f37af9c2-94b4-4748-b9ec-31c22c063902",
-      "ebef98b9-2dc6-4a2f-afdb-659e2f25c919",
-      "862542fc-52e8-40f8-8fdd-07ebfa0b0c44",
-      "b5ef4133-aeb0-44f7-ae8d-ad330142ec7a",
-      "0f0ff73d-6817-4f1f-962c-4f149ee1c380",
-      "df78f994-1e49-4ff5-af88-a1ceaf578775",
-      "1f70897d-d132-4cf2-82b1-661f1c025d8c"
+      "551f936e-37f5-4bec-8000-1ee7773b5881",
+      "db5f9f5f-d961-4235-bc8f-d8ac056319f1",
+      "ed44baff-d380-4e04-b722-8c2780fd338d",
+      "9b9f4902-f0a0-4048-a4ce-19f085707ddc",
+      "811fcb46-a248-4fa2-9ade-095e770a79e7",
+      "a0dd1b17-91e6-4054-9e61-a140442ed8ba",
+      "469b4aec-2ec0-4ea9-926c-4e68e2cfa2c4"
     ],
     "confidence": 0.84,
     "method": "embedding",
@@ -1738,11 +1738,11 @@
   {
     "group_id": "dup_085",
     "products": [
-      "8cacc90a-c762-471b-a2cd-58fb79d3e07a",
-      "75a8bd86-36da-412a-8912-594aeb1cac6f",
-      "27b1a9d5-7752-4c40-958c-4c753b6d10a1",
-      "bceb15f2-a740-4bc5-852e-8a7313602856",
-      "950336ac-a10a-4821-8cf7-a2f6b9d75a15"
+      "77b7af94-f981-4c56-a2b7-f1b2bc82bfe8",
+      "290d8199-bed8-441a-ab3b-732cf82dd797",
+      "db74e7ee-1994-4451-b175-873ef1a1e64c",
+      "dea6cae6-1989-4130-a0cb-8d68cf8f73d6",
+      "fd99b2d0-b44f-4464-bda9-7f160442c463"
     ],
     "confidence": 0.828,
     "method": "embedding",
@@ -1755,9 +1755,9 @@
   {
     "group_id": "dup_086",
     "products": [
-      "e13470f4-a8a4-4fd5-9dc7-ff7d512bf092",
-      "e243182a-67f4-4ffe-a7ca-9338a172ee94",
-      "5ecd326c-c6ce-4815-8e42-c01c572232c6"
+      "4055a8d6-aa7e-41cd-be7d-a83b671cbda8",
+      "8fd4e2cf-2ee9-4d97-b91c-9eba9a99f434",
+      "ff2d7491-49c5-40ef-8e98-b2fe9cd4c27f"
     ],
     "confidence": 0.644,
     "method": "hybrid",
@@ -1770,10 +1770,10 @@
   {
     "group_id": "dup_087",
     "products": [
-      "78993555-bef1-421a-b9fa-5bba48d2644f",
-      "07b893c0-4f31-4887-8d93-e554c5dbcc8a",
-      "b5da80f0-1816-4c99-a9a2-3fc16d8649b5",
-      "bc4de575-97b4-4781-b9e6-86b76c12ee67"
+      "f6a0a095-a5f0-46bb-b253-97eff742a9ab",
+      "f538fb8a-e8e5-4f6c-b607-c83325895e1d",
+      "415f81d6-d3f3-4a25-8e1d-f32ac19b2d86",
+      "42a3df7f-2ac4-4efc-a81b-28e87de79505"
     ],
     "confidence": 0.612,
     "method": "hybrid",
@@ -1786,12 +1786,12 @@
   {
     "group_id": "dup_088",
     "products": [
-      "b7a71a3b-953a-48c7-9e63-9047c32b754d",
-      "e5853814-89ab-4e71-8113-b36cd1ae1fc5",
-      "72837504-d329-43e3-af18-0af0b26d8f84",
-      "d66094eb-f122-41e4-99a5-5c1bf7769bd6",
-      "0b38ba01-54d4-4d39-a61b-8d023b676cf9",
-      "9f8975c3-e655-4a8b-af50-d174f6311b40"
+      "001bfc5e-bcdc-4151-8a6e-35efe0957b4f",
+      "300a009b-fb15-4d7e-a2eb-a511194b27eb",
+      "8a2d3947-7d10-4b57-bb5f-6e8810361fe4",
+      "b8c5e160-337b-4f9c-8a10-2b18bbf9d4af",
+      "d6626b03-c828-4926-8124-c6e243404106",
+      "9b39555c-19ba-44df-b10e-a3fae63f77ac"
     ],
     "confidence": 0.621,
     "method": "hybrid",
@@ -1804,10 +1804,10 @@
   {
     "group_id": "dup_089",
     "products": [
-      "26595403-d125-41cb-a2e7-f91b60491598",
-      "b965b7e6-a0c5-4b00-a3a4-59a8183b8894",
-      "8615d8aa-4589-4831-bde0-065aa7c42771",
-      "9891760e-8714-4a6f-9cef-00ce0ef4330b"
+      "f1f371ab-b524-4c26-aab9-f2c40ada10c3",
+      "1a33dc1b-95c4-448d-a231-4fa56c677f91",
+      "3d75df8d-cffb-410b-96d5-07528cc531ee",
+      "32a56e70-aec9-488e-b4f1-954e8dcb610f"
     ],
     "confidence": 0.778,
     "method": "hybrid",
@@ -1820,8 +1820,8 @@
   {
     "group_id": "dup_090",
     "products": [
-      "9118918f-3b2b-4753-85d3-13c080542192",
-      "6f6d381f-ede7-4cf0-9249-8f19ae7e412b"
+      "ea66e97b-edce-4a8f-85f7-a1c91d916083",
+      "a907a92e-5779-4e5d-85f1-8f324f4597c8"
     ],
     "confidence": 1.0,
     "method": "embedding",
@@ -1833,8 +1833,8 @@
   {
     "group_id": "dup_091",
     "products": [
-      "4c172830-faf1-4f4e-a9b4-4e7644730f91",
-      "bbe90849-2a82-4cfc-92ba-4c71a8bb8e71"
+      "52bf83d6-a367-441e-a28b-591ee7f948ba",
+      "74073847-a723-4ac3-9f80-4a093ed194a2"
     ],
     "confidence": 0.867,
     "method": "embedding",
@@ -1846,8 +1846,8 @@
   {
     "group_id": "dup_092",
     "products": [
-      "9ec0dfc8-6601-45b6-8beb-0983248c448d",
-      "ad047d4f-40c4-49c9-85b2-1afc3f9eaba1"
+      "36b8b617-f42d-4b45-ac9b-40e5bb3f656e",
+      "c3763dfc-4ac1-44fc-b2fd-50a9615996b6"
     ],
     "confidence": 0.69,
     "method": "hybrid",
@@ -1859,8 +1859,8 @@
   {
     "group_id": "dup_093",
     "products": [
-      "320f754f-7685-4d8a-b14f-9233b229a52b",
-      "dff47e30-778c-4a14-a8ff-2ebc64bfafb2"
+      "01c836fa-2e93-49c2-8099-edb8f214a8a2",
+      "9e7137b7-1300-45eb-8a45-40823a587a4b"
     ],
     "confidence": 1.0,
     "method": "embedding",
@@ -1872,8 +1872,8 @@
   {
     "group_id": "dup_094",
     "products": [
-      "f888d25b-e3fb-40bb-b337-31d2c58049a0",
-      "64ee2d39-887e-4db4-9477-baad700f55e9"
+      "5ec4e0fd-8af4-429d-83aa-ad69e2b3adbf",
+      "ad4340be-8426-46c7-9aee-eb6baa455771"
     ],
     "confidence": 1.0,
     "method": "embedding",
@@ -1885,8 +1885,8 @@
   {
     "group_id": "dup_095",
     "products": [
-      "fee1de10-f45c-44e4-8e58-628ce8664098",
-      "6c308850-fd33-4759-b5f7-011aedf4fdcb"
+      "3759d302-fcfd-49d7-8bc4-7d3810a23168",
+      "25b49669-1434-44d8-9f49-8e3360dac405"
     ],
     "confidence": 0.818,
     "method": "embedding",
@@ -1898,8 +1898,8 @@
   {
     "group_id": "dup_096",
     "products": [
-      "22685d10-d51d-42c6-9bdd-f8329749d74f",
-      "a10a0840-5810-4b79-aad5-4ba71f607ba9"
+      "f7f1d3ff-3344-404c-b1d2-f4af74db0005",
+      "c468ac51-e9da-4c71-95b3-fd306c289b27"
     ],
     "confidence": 0.96,
     "method": "embedding",
@@ -1911,12 +1911,12 @@
   {
     "group_id": "dup_097",
     "products": [
-      "3982902e-abca-47cc-8329-9a674596f3b5",
-      "d276f58a-dd39-4c25-8282-d4802ad6d730",
-      "88e849f5-a4c2-4e5b-aefd-ccad21a80518",
-      "e77c7687-d5b5-4441-a3c8-9128bd5f5a32",
-      "fb4b555a-6c4e-42d4-9f3f-76f7bd1c030d",
-      "271f6a0c-11d8-4c63-9516-43dce4487b2c"
+      "5c2bb10c-64db-493d-bfa7-7993b0619fe4",
+      "f69e4baf-923d-4a08-9f26-c220872d4424",
+      "ba584368-4a1a-4018-a27d-ccbf5edc85cd",
+      "fb455beb-5d12-46c4-ae87-0842222ac5e3",
+      "94cd7bec-b2ed-4882-a14d-48f9df3d6ff1",
+      "aff2f647-d52d-4287-9a8b-4b37828bae5f"
     ],
     "confidence": 0.807,
     "method": "hybrid",
@@ -1929,8 +1929,8 @@
   {
     "group_id": "dup_098",
     "products": [
-      "fdec9891-f327-4e81-b1c0-1cd901e36717",
-      "c0c0f8e5-7930-40da-9bb0-9f9a77dc62df"
+      "c817895f-07ab-4cea-b9b3-2661ac03aeaf",
+      "09158754-0c13-4f36-bbdb-cf3a3c9d728e"
     ],
     "confidence": 0.934,
     "method": "embedding",
@@ -1942,8 +1942,8 @@
   {
     "group_id": "dup_099",
     "products": [
-      "555714ab-3e59-4b8b-8253-296507c59e39",
-      "89014483-0c23-45da-9a59-10db043a3ed0"
+      "995a451b-c6b8-4410-91f4-86a8350d3601",
+      "2ef74f5b-bfa9-4e85-b9d6-34cc824ef194"
     ],
     "confidence": 1.0,
     "method": "embedding",
@@ -1955,9 +1955,9 @@
   {
     "group_id": "dup_100",
     "products": [
-      "c8867280-84fc-45a8-98f8-109b24d30a0a",
-      "1c141f61-75fe-404f-b9e9-36c1ac0ae1c1",
-      "64079f40-6b41-42aa-b7bf-3340f292908c"
+      "ba7c466d-2a5c-4d69-a324-df536f593565",
+      "e3769a4b-ddd7-4c92-8caf-542a73f776ce",
+      "5b50db89-7b49-4205-8dbc-70868a8180f2"
     ],
     "confidence": 0.888,
     "method": "embedding",
@@ -1969,8 +1969,8 @@
   {
     "group_id": "dup_101",
     "products": [
-      "0d3297df-62d4-4057-bc5e-9e30a124964d",
-      "3fe0e831-259c-4cd2-8872-5bc924d5ecef"
+      "ce204bbe-6096-4d5f-b253-f68c8a4e5c2a",
+      "7bbb6e15-880d-41fa-a1f5-145bcbb8c66a"
     ],
     "confidence": 0.85,
     "method": "embedding",
@@ -1982,8 +1982,8 @@
   {
     "group_id": "dup_102",
     "products": [
-      "11ed4a60-8039-47d5-a907-f8be75dcbbb0",
-      "78ab8600-caf5-438c-abef-0ee36b3dd2dc"
+      "d9b6ce1a-7f0c-4f53-a1a2-565d59cde0ea",
+      "0490868f-7e83-4508-b9ae-1e408adbd3c7"
     ],
     "confidence": 0.634,
     "method": "hybrid",
@@ -1995,8 +1995,8 @@
   {
     "group_id": "dup_103",
     "products": [
-      "931030b0-b110-41b9-a5d1-44953063ea66",
-      "8fd2fd46-e19e-4b02-8f6f-3a91bd75fc91"
+      "253aaa3d-3b86-4c43-9936-7163479467e9",
+      "a0805404-32c4-43ee-a362-1e8d1703f221"
     ],
     "confidence": 0.925,
     "method": "embedding",
@@ -2008,10 +2008,10 @@
   {
     "group_id": "dup_104",
     "products": [
-      "dd80d7b7-488c-4dc8-83f6-fb41d832a8bf",
-      "4c9efe9b-1e00-4e53-af86-1fa1004bc5cf",
-      "fb2e9a23-8136-4c30-8933-b919d66ccfee",
-      "40610672-1308-4d6b-8c18-13fec81c8b5f"
+      "98f91b18-0133-44d0-8f20-9df898601dac",
+      "013d7431-d9be-4da8-9860-51c2712baf46",
+      "77e46401-e153-4834-8fe1-d8d3b3b9f228",
+      "2d15fa08-45cb-4bca-8451-43d3dc8af8e4"
     ],
     "confidence": 1.0,
     "method": "embedding",
@@ -2023,8 +2023,8 @@
   {
     "group_id": "dup_105",
     "products": [
-      "eb96c920-1ec4-4952-b752-a2c5e62abf82",
-      "583361b1-eb79-44e4-9d8f-d42200c59e02"
+      "ebb26686-4613-49d3-b186-3837f5f44e0e",
+      "0e4a9958-a9a9-48ae-bd99-0688f3343ea8"
     ],
     "confidence": 0.886,
     "method": "embedding",
@@ -2036,9 +2036,9 @@
   {
     "group_id": "dup_106",
     "products": [
-      "57694caa-5e2d-4edf-aeb8-5777be7fcf31",
-      "22163d5e-24ca-44d8-b091-78c0a2e0ab21",
-      "e9de3c7b-dad9-4789-bbf2-48e272b9a8b1"
+      "bb4b5232-518f-46f4-9511-55ed5d9ae55b",
+      "8b89aa75-9f7c-4231-b244-90bc362e0f62",
+      "7cf9b4f3-dc3a-404d-bef9-7974cb955fb1"
     ],
     "confidence": 0.925,
     "method": "embedding",
@@ -2050,8 +2050,8 @@
   {
     "group_id": "dup_107",
     "products": [
-      "e745538e-8f7b-402a-9526-b3017268992d",
-      "99c11fb5-03f2-444c-b0d1-9f65c0fa4683"
+      "0842ed90-11dd-4ae8-a16e-d48596fe9598",
+      "22778e79-b14c-4d93-b5c7-f95c57293164"
     ],
     "confidence": 0.63,
     "method": "hybrid",
@@ -2063,10 +2063,10 @@
   {
     "group_id": "dup_108",
     "products": [
-      "43e57ce3-47ed-40a6-8090-45107ad8c273",
-      "330a22e4-d4bf-4970-aa54-50b7f5a4c682",
-      "bb62f006-22be-4fef-b7ef-0b12a11e92bf",
-      "699a63e0-4753-428c-b9f2-84a5336c9291"
+      "013349a0-2d56-4adb-8c67-a272b77c998c",
+      "e3add173-57b7-4baa-9e35-bd0a6c20a65c",
+      "abefd8c2-f9b1-475b-a3d0-0985891476ff",
+      "2aad1dbd-2b30-4ac9-844b-d6f5f97a8666"
     ],
     "confidence": 0.633,
     "method": "rule_based",
@@ -2078,9 +2078,9 @@
   {
     "group_id": "dup_109",
     "products": [
-      "e3a6f03a-33c0-4842-948d-32f65f37e4c4",
-      "beeb74b4-7f0f-4ee6-8b13-bf57ee0fd96e",
-      "2adbf7a2-fa47-48ff-b10f-ec528b3d68c1"
+      "5c70d602-01d9-40dc-98b4-c4a1e7517fe8",
+      "d0da93fc-5b9f-4e83-af16-513ccac16269",
+      "d760821d-3f99-41ba-b56d-bc38840e1283"
     ],
     "confidence": 0.796,
     "method": "hybrid",
@@ -2093,8 +2093,8 @@
   {
     "group_id": "dup_110",
     "products": [
-      "c5817fdd-9d5a-44df-ad19-45ba595f0869",
-      "ba1e0cd2-8d41-48a8-8be1-0a8416ef1d4b"
+      "2448856f-e631-4872-900e-0210d2385933",
+      "bd7773f7-c0de-4fe9-8322-7b1660eac915"
     ],
     "confidence": 0.925,
     "method": "embedding",
@@ -2106,10 +2106,10 @@
   {
     "group_id": "dup_111",
     "products": [
-      "70668023-4106-4ee9-a29c-4cbeab1daacd",
-      "0530d401-7509-44c3-8842-b6d68154e07b",
-      "8aa461ad-4bf3-4afe-a072-cb4df3c444fb",
-      "bb9255c7-ccde-4281-9820-5b2797a7ca0c"
+      "1a6daf41-a864-4ac7-817b-c29a8717b625",
+      "1e3f84ce-2109-4d94-89b5-aada0ecbae76",
+      "c6f62ae4-7f3e-400c-bb3a-a4fb128d4e03",
+      "9859ff4c-7046-44c4-8b6c-6b7912f5d17f"
     ],
     "confidence": 0.763,
     "method": "hybrid",
@@ -2122,8 +2122,8 @@
   {
     "group_id": "dup_112",
     "products": [
-      "f2eb0625-3d7a-4a8d-9fac-22fa6ba04258",
-      "9eb8bed6-8538-44b2-b05e-5f40fd06ce78"
+      "3e2eed7f-b2f2-414b-bf76-520b383026d2",
+      "b2c34f33-a755-431f-9b30-a2914ed174fe"
     ],
     "confidence": 1.0,
     "method": "embedding",
@@ -2135,9 +2135,9 @@
   {
     "group_id": "dup_113",
     "products": [
-      "0bc9c853-2bed-4690-8add-3cb7ff47f8e0",
-      "283bfdb7-0b18-4258-ac6d-1197988276f8",
-      "fa420654-37e5-4c23-88a6-c2940b3f5c13"
+      "10685d5f-c838-46a9-97aa-9b5a4bed685d",
+      "2e9fa368-a2f7-4e88-bd36-86be0b7d9b3c",
+      "1f7f9fa5-d9c6-4f5e-b0ad-44adcb0942c1"
     ],
     "confidence": 0.793,
     "method": "hybrid",
@@ -2150,8 +2150,8 @@
   {
     "group_id": "dup_114",
     "products": [
-      "4114a269-6d27-4e19-abaf-eae561859d71",
-      "561a0a5b-1a8d-4ade-b406-54637052e35b"
+      "03f3fe93-cb2f-4fdd-b3cb-f430fb301243",
+      "bcae74bf-04f1-44c2-83de-9a8848c8a5a0"
     ],
     "confidence": 0.96,
     "method": "embedding",
@@ -2163,8 +2163,8 @@
   {
     "group_id": "dup_115",
     "products": [
-      "2fa9b06c-f4eb-4bb1-9ddd-fd657d085a11",
-      "5952ee22-0b15-4c3e-a6a4-f314f3c93f24"
+      "b7bdc53a-e984-4aa1-b6be-3e21da9eade9",
+      "0efd70e8-8ae9-4722-9723-d7bd19035348"
     ],
     "confidence": 1.0,
     "method": "embedding",
@@ -2176,8 +2176,8 @@
   {
     "group_id": "dup_116",
     "products": [
-      "8f443fb5-7295-4b58-9c14-705a2218bd22",
-      "080467bf-dbb8-4a43-97e8-e2eccff7dd6d"
+      "a0a80e85-36be-437c-9199-67a7d94adead",
+      "b40f8166-3611-4e6b-b125-25f1be7dd51b"
     ],
     "confidence": 0.925,
     "method": "embedding",
@@ -2189,8 +2189,8 @@
   {
     "group_id": "dup_117",
     "products": [
-      "ab9b0b04-9547-41c6-ab3a-4b2c1f6bfa77",
-      "3f5b376d-fddf-4e88-a766-4fdff40e1c6d"
+      "c0804f76-4b6a-4498-b7be-355dffa92fdc",
+      "b71d21bb-b5e9-451e-ac3f-7edc62a23947"
     ],
     "confidence": 0.623,
     "method": "hybrid",
@@ -2202,8 +2202,8 @@
   {
     "group_id": "dup_118",
     "products": [
-      "11c154f1-8d27-44d3-a379-935aabfb704d",
-      "7b3289ad-498b-4723-ad76-32edd33400bd"
+      "be1a93c2-9080-4cd7-804d-250996c6da21",
+      "820e5ec7-9b22-4cd7-a36a-f9f81f788293"
     ],
     "confidence": 0.713,
     "method": "hybrid",
@@ -2215,9 +2215,9 @@
   {
     "group_id": "dup_119",
     "products": [
-      "fb20f39c-6649-4e1b-b93a-8dc12919c5d1",
-      "2535c04b-1a2f-4c3d-920e-b7698b942739",
-      "9d09142a-2e05-4da6-bb7b-4b3ab8b426c4"
+      "c819c466-1c5f-4319-b1a2-4ff76c9bb7e1",
+      "d070d30a-b294-4ce2-bf31-1f5a5b2cda24",
+      "cdf8d0aa-8200-4444-a311-35a098249001"
     ],
     "confidence": 0.668,
     "method": "hybrid",
@@ -2229,8 +2229,8 @@
   {
     "group_id": "dup_120",
     "products": [
-      "4ef099a2-4381-4c10-a513-72f569e0970e",
-      "d4c638dc-f5ad-4fbf-b03d-aaab202bbe36"
+      "db25924e-39c2-41b6-88fc-68386c43d111",
+      "174a5847-1b64-49e7-b862-8a8f8d20e667"
     ],
     "confidence": 0.954,
     "method": "embedding",
@@ -2242,9 +2242,9 @@
   {
     "group_id": "dup_121",
     "products": [
-      "4dc21380-7309-4bf7-b8ee-7275eb4e9c57",
-      "007b3e9e-0b35-4f17-9b91-cb21e6b2417f",
-      "f250d102-6068-40b2-a976-13d730e95133"
+      "b1229238-bb3a-4b5a-b890-c9acdb8419de",
+      "11d4c923-7f57-42dc-a748-8f7f46377271",
+      "674da196-ac2a-49cf-96bc-fdfe62dcd593"
     ],
     "confidence": 1.0,
     "method": "embedding",
@@ -2256,9 +2256,9 @@
   {
     "group_id": "dup_122",
     "products": [
-      "a2047858-a0c6-4c90-9e1d-0a9c4f028586",
-      "a1c8ec16-7733-485d-b631-08b6498bba50",
-      "b9f79f45-0ef2-4b39-a754-0285a6dab505"
+      "c5576f57-d60c-44af-8720-3816d1c72b97",
+      "033f208d-1ad9-4350-babb-9b79a6bd47dd",
+      "79093f7c-032d-4f0c-9ade-b6a0c0f94072"
     ],
     "confidence": 0.614,
     "method": "rule_based",
@@ -2270,8 +2270,8 @@
   {
     "group_id": "dup_123",
     "products": [
-      "2420d675-5b07-4942-bc49-28d460fbec61",
-      "7a65459e-2ec1-448e-8b3a-2328c24610c2"
+      "f07f95df-0037-4f1c-b17c-be26867b956b",
+      "12e90792-81b5-4c49-b45f-a5c5c7bba6c2"
     ],
     "confidence": 0.89,
     "method": "embedding",
@@ -2283,8 +2283,8 @@
   {
     "group_id": "dup_124",
     "products": [
-      "0082a4ef-cf6b-4f12-a0c2-0c2523c3ee6b",
-      "9d37b3e4-85a2-48b7-ace4-67ef8239f81d"
+      "42c8c6e1-06ae-473b-b4de-95139d820a6e",
+      "dadacd8a-63e2-4f39-a3bc-c574bad2eda7"
     ],
     "confidence": 1.0,
     "method": "embedding",
@@ -2296,10 +2296,10 @@
   {
     "group_id": "dup_125",
     "products": [
-      "f084d39c-d42f-4c2d-9c13-0a8f9582572d",
-      "0577b383-db91-4080-9137-f69974d5a7ed",
-      "fc7a9ce2-f8e5-49e1-9a98-6f5d80d95bd0",
-      "ca9a6917-bff9-4b0d-ba89-067087adb2b0"
+      "27e5164b-7c80-4107-abae-431b0a8bd947",
+      "7719f0f7-c3be-462f-9c37-85e913d1ab27",
+      "dece7409-9940-49b0-bc79-cf00c9082957",
+      "949aa939-5613-4d3b-8f1c-f4cf0cb19e55"
     ],
     "confidence": 0.929,
     "method": "embedding",
@@ -2311,8 +2311,8 @@
   {
     "group_id": "dup_126",
     "products": [
-      "9c2c3b93-cea1-4743-8d6c-21631e0b9620",
-      "42be3c53-a70e-4dd1-b123-0dfae81609af"
+      "dd60b181-c2c8-4166-a065-d1861b3b3478",
+      "22f8bb8b-bfbd-4d96-97ee-182825773588"
     ],
     "confidence": 0.61,
     "method": "rule_based",
@@ -2324,8 +2324,8 @@
   {
     "group_id": "dup_127",
     "products": [
-      "9cd9bee8-5c8b-4fcf-b4ff-215a446c300b",
-      "ae9dbe65-4a5e-4a53-96db-071eded6fa43"
+      "2736c054-5951-4b2d-8c54-bb3a32e85e86",
+      "87d5c538-e0c0-4e79-bf9f-5f79b73e1d7d"
     ],
     "confidence": 1.0,
     "method": "embedding",
@@ -2337,10 +2337,10 @@
   {
     "group_id": "dup_128",
     "products": [
-      "102a4841-1c5e-42c1-92ed-2204bcdcb960",
-      "a2fddadc-abe8-4051-a779-899617e4effc",
-      "ac8e302b-585f-46ca-aa58-0c61a44570e0",
-      "0c8154be-ecaf-425b-87ca-a26b795e471a"
+      "6662e368-0a99-48f1-9434-90513c23795e",
+      "b7364c4b-884a-43a5-8f17-b54fbbcc3d8e",
+      "50aad9af-3c53-4a81-9707-7675567c3b03",
+      "e82c8185-4bb4-4cf9-a79a-d711436bdbb1"
     ],
     "confidence": 0.852,
     "method": "hybrid",
@@ -2353,8 +2353,8 @@
   {
     "group_id": "dup_129",
     "products": [
-      "5bd816d3-5c60-4d2a-b45e-6b2562be046a",
-      "6b06bf44-84f0-4117-b4db-bb784d9854cc"
+      "d18a3c26-e796-46fb-ae47-7cdc2481fac8",
+      "1fecacbc-d1bb-472e-bc0b-dac28723210e"
     ],
     "confidence": 0.604,
     "method": "hybrid",
@@ -2366,10 +2366,10 @@
   {
     "group_id": "dup_130",
     "products": [
-      "fac3a3c7-8bc9-4721-81a2-0518815c7f7a",
-      "cce007b9-896e-4f20-8e37-c187ff40cc4a",
-      "cd43be86-6574-4ad1-8df0-76c12aa51173",
-      "edfef21b-f6a3-4f2f-83e3-e56bc90dadb2"
+      "8efd2a67-edfa-4d3d-b4b6-e5cd8ddf19ce",
+      "78c6c63b-01e0-4ed5-b6d9-8c7d91efa667",
+      "0beace81-e041-4a0d-baf1-abb05b6c2899",
+      "ee4641c4-dcaa-4f1c-9f7f-df48d6bdbb03"
     ],
     "confidence": 0.671,
     "method": "hybrid",
@@ -2382,8 +2382,8 @@
   {
     "group_id": "dup_131",
     "products": [
-      "c6a34d71-5e1c-4261-a1c0-959e37516f9b",
-      "058a46db-cb4e-427b-a784-02e38f6152ab"
+      "8c12791c-447f-40c8-943d-021416dc2993",
+      "1b3000be-25fb-4df8-9dc7-36ad9ab0e6f0"
     ],
     "confidence": 0.95,
     "method": "embedding",
@@ -2395,10 +2395,10 @@
   {
     "group_id": "dup_132",
     "products": [
-      "bc753b6c-bb05-4de7-8d24-0adc07d8ebd0",
-      "612717f6-744f-406a-b804-dce82ec7db5e",
-      "adc9c062-8498-481e-a685-81ce8be16d68",
-      "13e2395c-e7ca-48e3-bcd3-8dbac989c6f0"
+      "9e3dd31d-90f5-4e37-9c9a-adefa8682f15",
+      "01d3406d-4393-4c74-a915-fecdafd3efef",
+      "db529eff-9959-40bc-85b6-5c17fc77a4f3",
+      "f029b63b-52f6-4e62-92a4-bc24adab2d20"
     ],
     "confidence": 0.768,
     "method": "hybrid",
@@ -2411,8 +2411,8 @@
   {
     "group_id": "dup_133",
     "products": [
-      "6cefaf19-9830-4153-933b-64492915075c",
-      "dc279585-84ab-41b5-844d-56d2e110a9de"
+      "806d44bf-42c9-41c9-96ed-f6dca1efee54",
+      "98530de9-c82b-49db-a857-f76afbc34c2c"
     ],
     "confidence": 0.786,
     "method": "embedding",
@@ -2424,9 +2424,9 @@
   {
     "group_id": "dup_134",
     "products": [
-      "fa1f3aac-8f33-47e4-8c49-4bb5d4c23912",
-      "29779c7c-d438-4098-a42f-3f959ad4eff6",
-      "c3b1b12c-472e-4937-b937-5cc6df0cbafd"
+      "72fad647-f4a1-4638-a9e3-e8f11fe897ba",
+      "9a71b1ca-360b-42b8-b671-fa177b1e968e",
+      "08fc7c70-9f7c-448c-9ef8-9b4b3be54b50"
     ],
     "confidence": 0.975,
     "method": "embedding",
@@ -2438,8 +2438,8 @@
   {
     "group_id": "dup_135",
     "products": [
-      "7aede910-af74-4a7e-809d-291fe3e1ef3e",
-      "2cbde680-95e9-4e38-9a73-8c67bca882a2"
+      "7034d335-f554-428d-8ba9-445399e2c517",
+      "449caf5a-588e-4d20-87ec-c1b70d2a3a2f"
     ],
     "confidence": 0.867,
     "method": "embedding",
@@ -2451,8 +2451,8 @@
   {
     "group_id": "dup_136",
     "products": [
-      "61729294-a819-4e5d-bfb9-123779f5731d",
-      "67fda304-9f4d-4c30-888d-e1f61f5ff17e"
+      "0fcc8d51-4d78-48ed-97cd-7e7448f32820",
+      "a1a63e9f-f0e5-4928-b7b2-d53bbbb304d5"
     ],
     "confidence": 0.925,
     "method": "embedding",
@@ -2464,9 +2464,9 @@
   {
     "group_id": "dup_137",
     "products": [
-      "cea894fa-7f8c-4b8f-9d2b-2837d0bafa20",
-      "72a3b130-14cf-4e3f-a728-6f6cdee2c2c6",
-      "067d1357-44ff-41a0-a55b-581456b45803"
+      "8d4d73d5-b0a0-4bf0-bb9b-6bc23f289806",
+      "115d5cce-d144-49ee-a7f5-7096294c03bd",
+      "44eab90c-938a-4db8-b665-76658ccc6050"
     ],
     "confidence": 0.69,
     "method": "hybrid",
@@ -2478,8 +2478,8 @@
   {
     "group_id": "dup_138",
     "products": [
-      "28dc93a8-1e4f-4cc3-9c3c-046b75ead244",
-      "de8f9a43-f41d-462b-aab1-e0a06dad7766"
+      "ea4a666a-dea4-4c33-8fd4-ccf4344b4e16",
+      "b71c51bf-09d9-4799-8f46-d9f674492080"
     ],
     "confidence": 1.0,
     "method": "embedding",
@@ -2491,8 +2491,8 @@
   {
     "group_id": "dup_139",
     "products": [
-      "4a41f23a-ac55-4d5b-bc77-b23b3e8f5a16",
-      "03c9928c-02af-4fa8-8de1-19eeda666a0e"
+      "1ac660d7-e8e7-4a51-ae9f-010dd90f3802",
+      "0de90376-e674-4010-9cf3-bb6a5f910418"
     ],
     "confidence": 0.625,
     "method": "hybrid",
@@ -2504,8 +2504,8 @@
   {
     "group_id": "dup_140",
     "products": [
-      "ee10701d-8617-4520-9c14-5060edc5257e",
-      "0ad812de-f790-4476-8c7c-9efc35045194"
+      "e2788066-eb23-4111-9359-981548a794c8",
+      "7af1baff-a4a5-4c1c-80f4-1cca8802cb88"
     ],
     "confidence": 0.808,
     "method": "embedding",
@@ -2517,8 +2517,8 @@
   {
     "group_id": "dup_141",
     "products": [
-      "83c4b81e-442a-45f5-bc8c-18360196d125",
-      "cdec0b57-e187-46d0-8f52-a0f3eb369751"
+      "d6986b91-7305-421f-820b-8efcdcbf8965",
+      "39a9d44b-8c7e-4c0a-86b7-e4a1cec9cc48"
     ],
     "confidence": 0.869,
     "method": "embedding",
@@ -2530,8 +2530,8 @@
   {
     "group_id": "dup_142",
     "products": [
-      "8ece4b74-696d-4b53-b59b-8df8a0523908",
-      "40740374-502b-4b8f-82fa-a3e78a715bcc"
+      "829de71f-7657-49f9-94b1-2182e0723ea9",
+      "e3586469-b042-49a7-9211-0c822d4b9a94"
     ],
     "confidence": 0.607,
     "method": "hybrid",
@@ -2543,8 +2543,8 @@
   {
     "group_id": "dup_143",
     "products": [
-      "7db561d6-c251-4b09-8d3f-2be9f33ed8f2",
-      "7c56b5ff-1d2f-4e8e-9bf8-4bedf26a42f9"
+      "f05610cb-d22e-4163-b471-b8552ebe3938",
+      "57a72f37-c246-4e5c-be63-c2e98a48819c"
     ],
     "confidence": 0.636,
     "method": "hybrid",
@@ -2556,8 +2556,8 @@
   {
     "group_id": "dup_144",
     "products": [
-      "1c78e681-bb38-4aa3-85d7-5c49ce05ead0",
-      "5b63bea3-2058-4d42-9500-747e501b034b"
+      "c2417047-4f66-4689-9a60-13c14eb7793b",
+      "86b875a6-d402-4339-bf63-9f7751cd9140"
     ],
     "confidence": 0.863,
     "method": "embedding",
@@ -2569,9 +2569,9 @@
   {
     "group_id": "dup_145",
     "products": [
-      "1393e566-2c19-4980-91ea-7d79fdd02f01",
-      "540be0d7-ae6e-46bc-b7e4-ef5ad1784d8a",
-      "73c8bac8-28e6-4986-bceb-cca8641d8df2"
+      "acdda974-296f-438e-8ad6-c1f2712568ec",
+      "c850b253-31d4-4f94-b8c6-a82eb6f9446d",
+      "e0d967ec-c547-491a-a4c3-0e16a00915a5"
     ],
     "confidence": 0.861,
     "method": "embedding",
@@ -2583,8 +2583,8 @@
   {
     "group_id": "dup_146",
     "products": [
-      "4a9b228a-5c16-4899-a2d6-ff99c46db8b8",
-      "abaa8c6b-80a9-4f42-9999-f234c5a64582"
+      "d66d33d9-d33f-4a91-aea8-e462fc83a069",
+      "65444bc0-3d41-4990-b0da-6b7e10db9a6b"
     ],
     "confidence": 1.0,
     "method": "embedding",
@@ -2596,9 +2596,9 @@
   {
     "group_id": "dup_147",
     "products": [
-      "c4ee4063-7eb5-4bbd-bb94-f6d2e1e2125e",
-      "d043b877-01ac-4f71-9716-c01acefa5da8",
-      "ae615825-1d0b-40ec-8f41-bf22e9c99c52"
+      "04655f49-8608-47c1-a473-4fa36782f7da",
+      "912972a2-2413-45ad-8372-0848a49b3008",
+      "254d8883-d0b1-4773-926a-4af5203d18f7"
     ],
     "confidence": 0.85,
     "method": "embedding",
