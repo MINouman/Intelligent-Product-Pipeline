@@ -242,6 +242,19 @@ python test_vendor_rate_limiting.py
 
 ---
 
+## Frontend:
+
+```bash
+# From project root
+cd ~/rokomari-ai-pipeline
+python -m http.server 8080
+
+# Open in browser:
+# http://localhost:8080/frontend/index.html
+```
+
+---
+
 ## Known Limitations
 
 ### What doesn't work well:

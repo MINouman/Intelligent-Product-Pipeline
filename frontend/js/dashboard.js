@@ -1,13 +1,25 @@
-// Dashboard JavaScript
+// Dashboard JavaScript - FIXED
 
 // Load data from JSON files
 async function loadData() {
     try {
         const [normalized, enriched, duplicates, validated] = await Promise.all([
-            fetch('../data/output/normalized_products.json').then(r => r.json()),
-            fetch('../data/output/enriched_products.json').then(r => r.json()),
-            fetch('../data/output/duplicates.json').then(r => r.json()),
-            fetch('../data/output/validated_products.json').then(r => r.json())
+            fetch('/data/output/normalized_products.json').then(r => {
+                if (!r.ok) throw new Error(`HTTP error! status: ${r.status}`);
+                return r.json();
+            }),
+            fetch('/data/output/enriched_products.json').then(r => {
+                if (!r.ok) throw new Error(`HTTP error! status: ${r.status}`);
+                return r.json();
+            }),
+            fetch('/data/output/duplicates.json').then(r => {
+                if (!r.ok) throw new Error(`HTTP error! status: ${r.status}`);
+                return r.json();
+            }),
+            fetch('/data/output/validated_products.json').then(r => {
+                if (!r.ok) throw new Error(`HTTP error! status: ${r.status}`);
+                return r.json();
+            })
         ]);
 
         updateMetrics(normalized, enriched, duplicates, validated);
@@ -16,7 +28,7 @@ async function loadData() {
         updateVendorStats(normalized);
     } catch (error) {
         console.error('Error loading data:', error);
-        showError();
+        showError(error.message);
     }
 }
 
@@ -43,7 +55,7 @@ function createQualityChart(validated) {
         data: {
             labels: ['Excellent', 'Good', 'Fair', 'Poor'],
             datasets: [{
-                label: 'Products',
+                label: 'Number of Products',
                 data: [
                     qualityLevels['Excellent'] || 0,
                     qualityLevels['Good'] || 0,
@@ -62,10 +74,28 @@ function createQualityChart(validated) {
             responsive: true,
             maintainAspectRatio: false,
             plugins: {
-                legend: { display: false }
+                legend: { 
+                    display: true,
+                    position: 'top'
+                }
             },
             scales: {
-                y: { beginAtZero: true }
+                y: { 
+                    beginAtZero: true,
+                    ticks: {
+                        stepSize: 100
+                    },
+                    title: {
+                        display: true,
+                        text: 'Number of Products'
+                    }
+                },
+                x: {
+                    title: {
+                        display: true,
+                        text: 'Quality Level'
+                    }
+                }
             }
         }
     });
@@ -82,8 +112,9 @@ function createMethodsChart(duplicates) {
     new Chart(ctx, {
         type: 'doughnut',
         data: {
-            labels: Object.keys(methods),
+            labels: Object.keys(methods).map(m => m.charAt(0).toUpperCase() + m.slice(1)),
             datasets: [{
+                label: 'Detection Methods',
                 data: Object.values(methods),
                 backgroundColor: [
                     'rgba(13, 110, 253, 0.8)',
@@ -97,7 +128,12 @@ function createMethodsChart(duplicates) {
             responsive: true,
             maintainAspectRatio: false,
             plugins: {
-                legend: { position: 'bottom' }
+                legend: { 
+                    position: 'bottom',
+                    labels: {
+                        padding: 15
+                    }
+                }
             }
         }
     });
@@ -112,6 +148,7 @@ function updateVendorStats(normalized) {
 
     const container = document.getElementById('vendor-stats');
     container.innerHTML = Object.entries(vendors)
+        .sort(([a], [b]) => a.localeCompare(b))
         .map(([vendor, count]) => `
             <div class="col-md-3">
                 <div class="card">
@@ -127,12 +164,13 @@ function updateVendorStats(normalized) {
         `).join('');
 }
 
-function showError() {
+function showError(message) {
     document.querySelector('.container').innerHTML = `
         <div class="alert alert-warning" role="alert">
             <h4 class="alert-heading">Data Not Found</h4>
-            <p>Please run the pipeline first:</p>
-            <code>python -m src.cli.commands pipeline</code>
+            <p>Could not load pipeline data: ${message}</p>
+            <hr>
+            <p class="mb-0">Please ensure the pipeline has been run and the data files exist in <code>/data/output/</code></p>
         </div>
     `;
 }
