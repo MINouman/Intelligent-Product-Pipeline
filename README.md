@@ -1,4 +1,4 @@
-# Rokomari Product Intelligence Pipeline
+# Product Intelligence Pipeline
 
 A production-ready system that cleans messy product data, detects duplicates using AI, and handles rate-limited APIs efficiently.
 
